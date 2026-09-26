@@ -44,9 +44,6 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 ## Evidence
 
 ::: {.evidence-block}
-## Evidence
-
-::: {.evidence-block}
 **Percakapan WhatsApp dengan nama anggota diganti menjadi inisial:**
 
 > **[9/2, 01:39] Saya:** some notes for A
