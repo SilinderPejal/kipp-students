@@ -1,10 +1,10 @@
 ## Konteks performance
 
-**Tanggal dan setting:** Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+**Tanggal dan setting:** Dari 24 Agustus hingga 5 September 2026, mengikuti lomba game development Ifest Unpad.
 
-**Persons dan relationship:** Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+**Persons dan relationship:** Saya dan 5 rekan satu tim. Hubungan kami adalah teman yang memutuskan untuk mengikuti lomba game development karena kami memiliki passion pada bidang tersebut dan ingin mengasah keterampilan yang kami miliki.
 
-**Objective dan initial state:** Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+**Objective dan initial state:** Sebagai programmer, objective saya adalah mengimplementasikan mekanik game berdasarkan rancangan yang telah dibuat oleh game designer dan mengimplementasikan asset visual atau audio yang telah dibuat oleh visual artist atau audio artist. Selain itu, sebagai game production, saya bertanggung jawab memantau progress pengerjaan setiap anggota dan memastikan pekerjaan tim tetap berjalan sesuai target dan waktu yang tersedia. Pada awal lomba, pembagian tugas sudah ditentukan, tetapi proses pengerjaan masih perlu dipantau dan disesuaikan karena setiap bagian game saling bergantung satu sama lain.
 
 ## Evidence
 
