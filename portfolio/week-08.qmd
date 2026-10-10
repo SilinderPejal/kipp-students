@@ -8,16 +8,16 @@ description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-**::: {.callout-tip title="Mulai mengisi"}**
+::: {.callout-tip title="Mulai mengisi"}
 Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
-**:::**
+:::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
 | Nama | Erin Cherryl Angela |
-| NIM | `18225003` |
+| NIM | 18225003 |
 | Kelas | 01 |
 | Periode/tanggal pelaksanaan | Periksa tanggal aktual pada masing-masing laporan sesi |
 | Versi bank/paket aktif | 2.0 |
