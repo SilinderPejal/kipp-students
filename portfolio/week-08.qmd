@@ -1,36 +1,118 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
+**::: {.callout-tip title="Mulai mengisi"}**
 Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
-:::
+**:::**
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Erin Cherryl Angela |
+| NIM | `18225003` |
+| Kelas | 01 |
+| Periode/tanggal pelaksanaan | Periksa tanggal aktual pada masing-masing laporan sesi |
+| Versi bank/paket aktif | 2.0 |
+| Modalitas | Teks |
+| Status pengumpulan | Sudah diunggah ke portal sesuai konfirmasi mahasiswa |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Makalah ditandai selesai. |
+| 1 | [hasil_1_18225003.qmd](UTS/hasil_1_18225003.qmd) | Diri; Dimas sebagai pembanding | Selesai | Laporan ditandai selesai. |
+| 2a | [hasil_2a_18225003.qmd](UTS/hasil_2a_18225003.qmd) | Dimas, K2-04 | Selesai | Laporan ditandai selesai. |
+| 2b | [hasil_2b_18225003.qmd](UTS/hasil_2b_18225003.qmd) | Elsa, K2-05 | Selesai | Laporan ditandai selesai. |
+| 3a | [hasil_3a_18225003.qmd](UTS/hasil_3a_18225003.qmd) | Target sesuai laporan kasus 3a | Selesai | Laporan ditandai selesai. |
+| 3b | [hasil_3b_18225003.qmd](UTS/hasil_3b_18225003.qmd) | Dimas, K3-04 | Selesai | Laporan ditandai selesai. |
+
+## Refleksi lintas sesi
+
+### 1. Tujuan dan konteks
+
+Rangkaian sesi menunjukkan bahwa komunikasi yang efektif perlu dimulai dari tujuan dan keadaan nyata pihak yang diajak bicara. Pada sesi memimpin diri, fokusnya adalah mengelola komitmen dan menjaga pekerjaan tetap relevan dengan tujuan. Pada kasus persahabatan dan profesionalitas, perhatian perlu diarahkan pada keadilan pembagian kerja, batas tanggung jawab, akses terhadap sumber daya, dan dukungan yang benar-benar tersedia. Pada kasus solusi TI/AI, kebutuhan pengguna harus dipahami sebelum menawarkan teknologi.
+
+### 2. Persepsi, validasi, dan SWOT-like
+
+Dugaan awal sebaiknya diperlakukan sebagai hipotesis, bukan kesimpulan tentang seseorang. Sikap kritis tidak selalu berarti menolak; bisa jadi orang tersebut memerlukan bukti, batas risiko, atau kendali yang lebih jelas. Karena itu, persepsi perlu divalidasi melalui pertanyaan dan respons aktual. Pemetaan SWOT-like juga harus membedakan peluang dan ancaman situasi dari hal yang sudah mampu atau belum mampu dilakukan oleh target.
+
+### 3. Pemilihan repertoar dan adaptasi
+
+Tidak ada satu bentuk respons yang selalu tepat untuk semua situasi. Pertanyaan klarifikasi, mendengarkan, menjelaskan alasan, memberi contoh, membagi tugas, menyepakati langkah kecil, atau menunda keputusan perlu dipilih berdasarkan hambatan yang terungkap. Jika respons lawan bicara menunjukkan keberatan atau informasi baru, rencana perlu disesuaikan alih-alih memaksakan solusi awal.
+
+Pada sesi 3b, Dimas mempertanyakan bukti bahwa pendekatan TI/AI lebih baik. Pendekatan yang lebih bertanggung jawab adalah mengumpulkan data awal, menyepakati indikator keberhasilan, menjalankan uji coba terbatas, menjaga pilihan manual, serta menetapkan kondisi untuk memperbaiki atau menghentikan uji coba. Template jawaban dapat membantu pertanyaan berulang, tetapi tidak boleh menggantikan penilaian staf, terutama ketika informasi harga atau stok berubah.
+
+### 4. Relasi, kepedulian, dan kendali
+
+Menjaga relasi bukan berarti harus membuat target menyetujui usulan. Relasi yang sehat terlihat ketika kekhawatiran ditanggapi secara serius, keterbatasan diakui, tanggung jawab dibuat jelas, dan pihak lain tetap memiliki pilihan. Kesepakatan yang realistis—termasuk pilihan untuk menunda, menolak, atau kembali ke proses lama—lebih bermakna daripada persetujuan yang diperoleh melalui janji berlebihan.
+
+### 5. Evaluasi, uji ulang, dan batas bukti
+
+Uji ulang dapat menunjukkan apakah peserta mampu menerapkan pelajaran dari respons sebelumnya pada situasi yang berkaitan. Namun, jawaban dalam simulasi belum membuktikan bahwa perilaku tersebut sudah dilakukan di luar percakapan. Demikian pula, rencana uji coba teknologi belum membuktikan bahwa teknologi telah meningkatkan produktivitas. Klaim hasil perlu didukung data yang relevan, perbandingan yang adil, dan umpan balik orang yang menjalankan proses.
+
+Untuk kasus TI/AI, indikator yang masuk akal antara lain waktu penanganan pertanyaan, ketepatan informasi, jumlah kesalahan atau koreksi manual, serta pengalaman staf dan pelanggan. Perbandingan sebaiknya menggunakan jenis pertanyaan dan kondisi kerja yang sebanding. Jika hasil belum jelas, kesimpulan yang tepat adalah bahwa bukti belum cukup—bukan langsung menyatakan solusi berhasil atau gagal.
+
+### 6. Perubahan yang akan diterapkan berikutnya
+
+Pada sesi berikutnya atau dalam komunikasi nyata, saya akan:
+
+1. Menggali kebutuhan, batasan, dan indikator keberhasilan lebih awal sebelum menyusun solusi.
+2. Menyebutkan dugaan sebagai dugaan dan mengujinya melalui pertanyaan klarifikasi.
+3. Melibatkan orang yang menjalankan proses ketika menentukan alur kerja, ukuran hasil, dan batas perubahan.
+4. Menetapkan langkah kecil yang dapat dievaluasi, termasuk cara kembali ke proses sebelumnya jika muncul masalah.
+5. Memisahkan bukti percakapan, rencana, pelaksanaan, dan hasil yang benar-benar terukur dalam laporan.
+6. Mencatat bagian yang belum teramati sebagai belum cukup bukti, bukan mengisinya dengan asumsi.
+
+## Asesmen Pribadi
+
+### 1. Evaluasi kemampuan komunikasi
+
+Dari rangkaian UTS ini, saya menilai bahwa kekuatan utama saya terletak pada kemampuan menganalisis masalah, melihat beberapa alternatif solusi, dan menyusun langkah penyelesaian secara sistematis. Saya cenderung mencari hubungan antara kebutuhan, kendala, dan tindakan yang dapat dilakukan. Hal ini membantu ketika harus menyusun strategi komunikasi atau menawarkan solusi teknologi.
+
+Namun, kemampuan menganalisis belum tentu membuat komunikasi menjadi efektif. Ada risiko bahwa saya terlalu cepat beralih ke penyelesaian masalah sebelum memastikan bahwa saya benar-benar memahami sudut pandang lawan bicara. Solusi yang secara teknis masuk akal belum tentu sesuai dengan kebutuhan, prioritas, atau kesiapan orang yang akan menggunakannya. Karena itu, saya perlu memastikan bahwa proses memahami masalah tidak dilewati hanya karena saya merasa sudah mengetahui jawabannya.
+
+### 2. Evaluasi persepsi dan validasi
+
+Saya perlu memperlakukan penilaian awal terhadap orang lain sebagai dugaan yang masih harus diuji. Informasi yang terbatas dapat membuat saya terlalu cepat menyimpulkan kebutuhan atau alasan di balik respons seseorang. Padahal, keberatan terhadap suatu usulan belum tentu menunjukkan ketidakmauan untuk berubah. Keberatan tersebut bisa muncul karena risiko yang belum terjawab, pembagian tanggung jawab yang kurang jelas, keterbatasan sumber daya, atau pengalaman sebelumnya.
+
+Ke depannya, saya perlu lebih konsisten mengajukan pertanyaan klarifikasi dan memeriksa apakah interpretasi saya sesuai dengan maksud lawan bicara. Pemetaan SWOT-like juga perlu digunakan untuk memahami situasi secara lebih utuh, bukan sekadar mencari kekurangan yang harus diperbaiki atau peluang untuk menjalankan solusi yang sudah saya pilih.
+
+### 3. Evaluasi sikap dan relasi
+
+Saya memahami bahwa komunikasi yang baik bukan hanya tentang menyampaikan argumen yang logis, tetapi juga tentang memperlakukan kekhawatiran dan keputusan orang lain sebagai bagian penting dari proses. Ketika menawarkan solusi, saya tidak seharusnya menganggap persetujuan sebagai satu-satunya indikator keberhasilan.
+
+Saya perlu menjaga keseimbangan antara keinginan menyelesaikan masalah dan penghormatan terhadap otonomi orang lain. Jika seseorang belum siap atau memiliki alasan yang masuk akal untuk menolak, langkah yang lebih tepat adalah memperjelas kendala dan mencari alternatif bersama, bukan memperkuat persuasi tanpa memahami penyebab keberatan tersebut.
+
+### 4. Evaluasi keterampilan dan pengetahuan
+
+Saya cukup terbiasa berpikir secara sistematis dan mencari cara untuk membuat proses lebih efisien. Akan tetapi, saya perlu membedakan kemampuan menyusun rencana dari kemampuan menjalankannya secara konsisten. Rencana yang terlihat baik dalam percakapan belum tentu dapat diterapkan dalam kondisi nyata, terutama jika melibatkan orang lain, keterbatasan waktu, dan perubahan situasi.
+
+Dalam konteks solusi TI/AI, saya juga perlu memastikan bahwa klaim manfaat didukung oleh bukti yang relevan. Teknologi tidak otomatis menjadi solusi hanya karena dapat mengotomatisasi sebagian pekerjaan. Saya perlu mempertimbangkan ketepatan hasil, kebutuhan koreksi, kemudahan penggunaan, risiko, dan dampaknya terhadap orang yang menjalankan proses. Pengetahuan teknis perlu disertai kemampuan mengevaluasi apakah solusi tersebut benar-benar layak digunakan.
+
+### 5. Rencana pengembangan PASK
+
+| Aspek | Hal yang perlu dikembangkan | Tindakan konkret |
+|---|---|---|
+| Persepsi | Tidak terlalu cepat menetapkan interpretasi | Mengajukan pertanyaan klarifikasi dan memeriksa asumsi sebelum menyimpulkan kebutuhan |
+| Sikap | Menyeimbangkan orientasi solusi dengan kepedulian terhadap orang lain | Mendengarkan keberatan tanpa langsung membantah atau menawarkan alternatif |
+| Keterampilan | Menyesuaikan cara komunikasi berdasarkan respons | Melakukan parafrasa, memeriksa pemahaman, dan mengubah pendekatan ketika informasi baru muncul |
+| Pengetahuan | Menghubungkan konsep dengan bukti dan konteks | Memisahkan asumsi, hasil percakapan, pelaksanaan, serta hasil yang terukur dalam evaluasi |
+
+### 6. Kesimpulan asesmen pribadi
+
+Secara keseluruhan, saya melihat bahwa tantangan utama saya bukan hanya menemukan solusi, tetapi memastikan bahwa solusi tersebut dibangun berdasarkan pemahaman yang cukup terhadap situasi dan orang yang terlibat. Kemampuan analitis akan lebih berguna jika disertai kesediaan untuk menguji asumsi, menerima koreksi, dan mengubah pendekatan ketika bukti menunjukkan bahwa strategi awal kurang sesuai.
+
+Asesmen ini masih merupakan refleksi berdasarkan pengerjaan UTS, bukan bukti bahwa seluruh kemampuan tersebut sudah berkembang secara konsisten. Untuk menilai perkembangan PASK dengan lebih objektif, saya perlu menerapkan strategi yang sama dalam komunikasi nyata, mengamati hasilnya, dan meminta umpan balik dari orang yang terlibat. Dengan begitu, evaluasi diri tidak berhenti pada pemahaman konsep, tetapi dapat digunakan untuk memperbaiki perilaku komunikasi secara berkelanjutan.
+
+---
+
+Halaman ini berfungsi sebagai indeks serta refleksi lintas sesi. Transkrip dan analisis terperinci tetap berada di masing-masing laporan sesi.

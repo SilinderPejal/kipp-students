@@ -42,10 +42,10 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+*   **Nama Samaran:** A
+*   **Peran/Pekerjaan Nyata:** Visual artist dalam tim game development
+*   **Domain Hubungan:** Rekan Kerja
+*   **Konteks Lingkungan:** Kelompok proyek game development untuk kompetisi Ifest Unpad, 24 Agustus–5 September 2026
 
 ---
 
@@ -53,23 +53,36 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
 *   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+    > Pada 2 September 2026, saya menghubungi A untuk meminta perkembangan asset game dan memberikan kebutuhan teknis yang diperlukan. Saya awalnya menanyakan progres dan meminta update karena beberapa asset dibutuhkan untuk melanjutkan implementasi game. Dalam percakapan, A menjelaskan bahwa ia sedang kelelahan karena memiliki pekerjaan lain dan merasa overwhelmed ketika membuka grup karena terlalu banyak pesan yang masuk.
+    >
+    > A kemudian mengatakan bahwa masalahnya bukan hanya pekerjaan asset, tetapi banyaknya chat yang membuatnya kewalahan untuk memproses informasi satu per satu. Setelah mengetahui kondisi tersebut, saya mengubah pendekatan dengan memberikan prioritas yang lebih jelas. Saya meminta A untuk memprioritaskan bomb dan enemy terlebih dahulu karena keduanya lebih dibutuhkan untuk melanjutkan gameplay.
 
 #### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
 *   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+    > Dampak langsung bagi A adalah beban mental ketika harus membuka dan memproses banyak pesan sekaligus. A secara eksplisit mengatakan bahwa ia merasa overwhelmed ketika membuka WhatsApp karena banyaknya chat.
+    >
+    > Dampaknya terhadap pekerjaan tim juga muncul karena beberapa asset yang dibutuhkan untuk implementasi gameplay belum tersedia. Sebagai programmer sekaligus game production, saya membutuhkan asset tersebut agar bagian gameplay dapat dilanjutkan. Jika kebutuhan asset tidak jelas atau semua task dianggap sama pentingnya, A harus memproses terlalu banyak informasi sekaligus sementara programmer juga berisiko menunggu asset yang paling dibutuhkan.
 
 #### **Pertanyaan 3: Pemetaan Pihak Terdampak**
 *   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+    > Pihak yang terdampak langsung adalah A sebagai visual artist karena harus menerima, memahami, dan mengerjakan banyak kebutuhan asset dalam waktu yang terbatas. Saya sebagai programmer sekaligus game production juga terdampak karena implementasi gameplay bergantung pada tersedianya asset tertentu.
+    >
+    > Secara tidak langsung, anggota tim lain juga dapat terdampak karena keterlambatan satu bagian dapat memengaruhi bagian pekerjaan lain. Dalam game jam dengan waktu produksi terbatas, dependency antarpekerjaan membuat keterlambatan asset tertentu lebih signifikan daripada sekadar keterlambatan satu tugas individu.
 
 #### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
 *   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+    >
+    > Keadaan yang lebih baik adalah A dapat mengetahui dengan cepat asset mana yang harus dikerjakan terlebih dahulu, memahami kebutuhan teknisnya tanpa harus mencari informasi dari banyak pesan, dan dapat menyelesaikan pekerjaan secara bertahap tanpa merasa harus memproses semua permintaan sekaligus.
+    >
+    > Dari sisi tim, kondisi idealnya adalah setiap anggota mengetahui prioritas pekerjaan dan dependency yang sedang dibutuhkan sehingga pekerjaan dapat berjalan tanpa saling menunggu.
 
 #### **Pertanyaan 5: Batasan & Kendala Lapangan**
 *   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+    > Kendala utama adalah waktu produksi game jam yang terbatas dan beban pekerjaan A di luar proyek. Pada saat percakapan berlangsung, A juga sedang memiliki pekerjaan lain dan mengatakan bahwa ia merasa overwhelmed karena terlalu banyak chat.
+    >
+    > Selain itu, beberapa asset memiliki kebutuhan teknis yang cukup spesifik, seperti ukuran 96x96, kebutuhan idle dan death animation untuk enemy, serta versi highlight untuk bomb yang digunakan ketika player melakukan hover. Artinya, A tidak hanya membutuhkan daftar asset, tetapi juga informasi yang cukup jelas mengenai bagaimana asset tersebut akan digunakan.
+    >
+    > Karena waktu terbatas, semua asset juga tidak dapat diperlakukan sebagai prioritas yang sama. Asset yang menjadi dependency untuk gameplay harus dikerjakan terlebih dahulu.
 
 ---
 
@@ -87,11 +100,15 @@ Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasu
 
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
 *Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+>
+> **Visual artist dalam tim game development mengalami kesulitan memproses dan memprioritaskan permintaan asset ketika banyak informasi dan pekerjaan masuk secara bersamaan selama game jam, sehingga beberapa asset yang dibutuhkan untuk implementasi gameplay berisiko terlambat. Ia membutuhkan informasi kebutuhan asset yang lebih terarah dan urutan prioritas yang jelas, dengan mempertimbangkan waktu produksi yang terbatas, pekerjaan lain yang sedang dijalankan, serta kebutuhan teknis setiap asset.**
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
 *Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+>
+> **Visual artist dalam tim game development mengalami kesulitan memproses banyak pesan dan pekerjaan secara bersamaan selama game jam, sehingga merasa overwhelmed dan kesulitan menentukan apa yang perlu dikerjakan terlebih dahulu. Ia membutuhkan informasi yang lebih terarah dan prioritas pekerjaan yang jelas agar dapat fokus menyelesaikan asset secara bertahap, dengan mempertimbangkan waktu produksi yang terbatas dan pekerjaan lain yang sedang dijalankan.**
+>
+> Rumusan ini dipersempit berdasarkan respons A bahwa masalah yang dirasakan adalah banyaknya chat dan pekerjaan yang membuatnya overwhelmed. A juga menyatakan bahwa ia sedang *“lock in”* untuk menyelesaikan pekerjaan yang diberikan setelah prioritasnya diperjelas. Dengan demikian, bagian yang dikonfirmasi secara langsung adalah adanya beban dari banyaknya komunikasi dan kebutuhan untuk memfokuskan pekerjaan, bukan asumsi bahwa A sekadar “tidak mengerjakan asset”.
 
 ---
 
@@ -102,7 +119,8 @@ Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
 3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
 
 > **Jurnal Refleksi:**
-> 
+>
+> Pada awal percakapan, saya cukup cepat berasumsi bahwa masalah utamanya adalah progress asset yang belum jelas. Saya beberapa kali meminta update dan menanyakan apakah perlu melakukan call. Setelah A menjelaskan bahwa ia sedang kelelahan dan merasa overwhelmed karena terlalu banyak chat, saya menyadari bahwa terus meminta progress tanpa mengurangi beban informasi justru tidak menyelesaikan masalah. Saya kemudian mengubah pendekatan dengan memperjelas prioritas, yaitu mengerjakan bomb dan enemy terlebih dahulu karena keduanya paling dibutuhkan untuk gameplay. Saya juga belajar bahwa “belum selesai” tidak selalu berarti seseorang tidak bertanggung jawab atau tidak bekerja. Ada konteks beban kerja dan cara informasi diterima yang perlu dipahami terlebih dahulu. Langkah kecil yang perlu saya jaga adalah memberikan brief yang lebih terstruktur, menyebutkan prioritas secara jelas, dan tidak menambah permintaan baru sebelum kebutuhan utama selesai.
 
 ---
 
@@ -111,9 +129,7 @@ Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 beriku
 
 | Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
-
-*Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | **100** |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | **100** |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | **100** |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | **100** |

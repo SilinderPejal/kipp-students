@@ -1,0 +1,195 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Persahabatan dan Profesionalitas"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Erin Cherryl Angela |
+| NIM | 18225003 |
+| Kelas dan tanggal | Kelas 01; 11 Oktober 2026 |
+| Nomor/judul sesi | Sesi 2a — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Ali (K2-01), tokoh pembanding dalam simulasi |
+| Versi bank/aturan penugasan | UTS KIPP 2026 versi 2.0 |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Situasi tugas kelompok yang disimulasikan; dialog Ali merupakan roleplay |
+| Kelengkapan transkrip | Kutipan jawaban mahasiswa yang tersedia dipertahankan. Umpan balik Ali ditulis sebagai dialog simulasi. Pertanyaan fasilitator tertentu diringkas, bukan diklaim sebagai kutipan verbatim. Uji ulang merupakan respons hipotetis, bukan bukti kejadian nyata setelah satu hari. |
+
+# B) Kasus dan Tujuan
+
+## Kasus
+
+Tugas kelompok harus dikumpulkan dalam 48 jam. Ali belum menyelesaikan bagiannya karena merasa pembagian tugas kurang adil dan mengalami kesulitan memahami analisis data. Ia takut jika meminta bantuan, anggota kelompok akan menganggapnya tidak mampu. Dalam uji ulang, waktu pengumpulan tinggal 24 jam dan Ali mulai panik serta mempertimbangkan mengerjakan semuanya sendiri meskipun harus mengurangi waktu tidur.
+
+## Tujuan tindakan
+
+Tujuan mahasiswa adalah memahami alasan Ali merasa pembagian tugas tidak adil, mencari solusi realistis agar tugas selesai tepat waktu, serta menjaga hubungan pertemanan tanpa mengabaikan tanggung jawab setiap anggota. Pendekatan yang dipilih adalah mendengarkan sebelum menilai, memperjelas bagian yang sulit, memeriksa kembali beban kerja, menyepakati langkah dan pembagian tanggung jawab, serta menjaga komunikasi tentang progres.
+
+## Indikator keberhasilan dalam sesi
+
+1. Mahasiswa menggali alasan Ali merasa kesulitan tanpa langsung menyalahkan.
+2. Mahasiswa menunjukkan empati sekaligus tetap menegaskan tanggung jawab bersama.
+3. Solusi mencakup langkah konkret, pembagian kerja yang masuk akal, dan komunikasi progres.
+4. Mahasiswa tidak mendorong Ali mengorbankan istirahat demi tenggat.
+5. Refleksi membedakan menjaga pertemanan dari menghindari percakapan yang sulit.
+
+Indikator tersebut menilai respons dan rencana yang dinyatakan selama simulasi. Indikator ini belum membuktikan bahwa tugas kelompok nyata telah selesai atau bahwa perubahan perilaku sudah terjadi di luar sesi.
+
+# C) Skrip Percakapan
+
+**Catatan transkrip:** Respons mahasiswa di bawah ini dipertahankan sesuai teks yang tersedia. Dialog Ali merupakan respons dalam simulasi roleplay, bukan kutipan dari orang nyata. Pertanyaan fasilitator yang tidak tercatat lengkap disajikan sebagai ringkasan konteks.
+
+## Simulasi awal
+
+**AI001 — Kasus (ringkasan konteks fasilitator):** Mahasiswa diminta menanggapi Ali, teman dekat dalam kelompok tugas yang belum menyerahkan bagiannya, merasa pembagian kerja tidak adil, kesulitan dengan analisis data, dan takut meminta bantuan. Tenggat tinggal 48 jam.
+
+**U001 — Respons mahasiswa:**
+
+> Tujuan utamaku adalah memahami kenapa Ali merasa pembagian tugasnya nggak adil sekaligus mencari solusi supaya tugas kelompok tetap selesai tepat waktu. Aku nggak mau langsung menyalahkan Ali karena belum mengirim bagiannya, karena bisa saja dia merasa terbebani atau punya alasan lain yang belum aku ketahui. Aku akan mulai dengan menanyakan bagian mana yang menurutnya nggak adil dan mendengarkan penjelasannya dulu. Setelah itu, aku ingin mendiskusikan pembagian tugas yang lebih realistis tanpa mengabaikan tanggung jawab masing-masing anggota, mengingat tenggatnya tinggal 48 jam. Aku juga ingin menjaga persahabatan kami, tetapi bukan berarti masalahnya harus dibiarkan tanpa penyelesaian.
+
+**AI002 — Ali (simulasi):**
+
+> Sebenernya aku agak takut ngomongin ini karena aku nggak mau kalian menganggap aku nggak berguna. Aku merasa bagian yang aku dapat lebih sulit daripada kelihatannya, sementara aku juga belum terlalu paham harus mulai dari mana. Tapi aku tahu tenggatnya tinggal dua hari, jadi aku juga kepikiran soal itu.
+
+**U002 — Respons mahasiswa:**
+
+> Menurutku, kamu nggak perlu takut dianggap nggak berguna cuma karena kesulitan ngerjain bagianmu. Tapi aku juga pengen kita bisa menyelesaikan tugas ini bareng-bareng. Bisa ceritain bagian mana yang paling sulit dan kenapa kamu merasa pembagiannya nggak adil? Kita coba cari solusi yang realistis, entah dengan menyesuaikan pembagian tugas atau saling bantu di bagian yang sulit. Soalnya tenggatnya tinggal dua hari, jadi aku pengen kita segera menemukan jalan keluarnya tanpa ada yang merasa terbebani sendirian
+
+**AI003 — Ali (simulasi):**
+
+> Sebenernya, bagian yang bikin aku kesulitan itu analisis datanya. Aku ngerti tujuan tugasnya, tapi instruksi untuk bagian analisis kurang jelas buatku. Aku juga merasa bagian yang aku dapat lebih banyak daripada beberapa anggota lain. Aku takut kalau minta bantuan, kalian malah berpikir aku nggak mampu. Jadi, aku terus mencoba sendiri, tapi akhirnya malah nggak selesai-selesai.
+
+**U003 — Respons mahasiswa:**
+
+> Kalau gitu, kita coba bahas bagian analisis yang bikin kamu bingung, ya. Menurutku, minta bantuan bukan berarti kamu nggak mampu, kok. Kita kan kerja kelompok, jadi wajar kalau saling bantu. Aku juga pengen kita cek lagi pembagian tugasnya supaya bebannya lebih seimbang. Coba kita lihat bagian mana yang bisa dikerjakan bareng atau dibagi ulang, terus kita tentukan langkah pertama buat analisis datanya. Jadi, kamu nggak perlu terus-terusan mencoba sendiri tanpa tahu harus mulai dari mana.
+
+**AI004 — Ali (simulasi):**
+
+> Makasih, aku agak lega dengar kamu bilang begitu. Aku setuju kita perlu cek ulang pembagian tugasnya. Tapi aku masih khawatir kalau tugasnya dibagi ulang sekarang, kalian malah harus mengerjakan lebih banyak dan jadi terlambat juga. Aku nggak mau masalahku malah jadi beban buat kalian. Menurutmu, gimana caranya supaya pembagian tugasnya lebih adil tanpa mengorbankan hasil akhir?
+
+**U004 — Respons mahasiswa:**
+
+> Menurutku, kita nggak harus langsung mindahin semua tugasmu ke orang lain, kok. Kita bisa cek dulu beban kerja masing-masing dan lihat bagian analisis mana yang bisa kita kerjakan bareng. Kalau ada yang lebih paham analisis data, dia bisa bantu menjelaskan, sementara kamu tetap mengerjakan bagian yang kamu kuasai. Jadi, tanggung jawabnya tetap ada di masing-masing orang, tapi kita juga saling mendukung. Menurutku, adil itu bukan berarti semua orang mengerjakan hal yang persis sama banyaknya, melainkan pembagian kerjanya masuk akal dan semua orang punya kesempatan buat berkontribusi.
+
+**AI005 — Ali (simulasi):**
+
+> Hmm, masuk akal juga. Aku suka ide untuk tetap bertanggung jawab sambil saling membantu. Tapi aku masih bingung harus mulai dari mana untuk analisis datanya. Kalau kita memang mau menyelesaikan ini dalam dua hari, aku butuh langkah yang jelas. Menurutmu, apa yang sebaiknya kita lakukan dulu, dan bagaimana kita memastikan semua orang tahu tanggung jawabnya?
+
+**U005 — Respons mahasiswa:**
+
+> Menurutku, pertama kita kumpul sebentar buat memahami instruksi analisis dan menentukan bagian mana yang masih belum jelas. Setelah itu, kita bagi tugas berdasarkan kemampuan dan beban kerja masing-masing, termasuk siapa yang bisa bantu kamu memahami analisis datanya. Kita tulis pembagian tanggung jawabnya biar semua orang tahu apa yang perlu dikerjakan. Terus, kita sepakati waktu buat saling kasih kabar tentang progres, bukan buat mengawasi, tapi supaya kalau ada kendala kita bisa bantu lebih awal. Kalau ada yang kesulitan, kita bicarakan bareng daripada dipendam sendiri.
+
+**AI006 — Ali (simulasi):**
+
+> Oke, aku setuju. Aku merasa lebih tenang karena sekarang ada langkah yang jelas dan aku nggak harus menghadapi bagian yang sulit sendirian. Aku bisa mulai dengan memeriksa instruksi analisis dan mencatat hal-hal yang belum kupahami. Tapi aku juga mau jujur, aku belum yakin apakah aku bisa menyelesaikan bagianku tepat waktu. Kalau nanti ternyata aku masih kesulitan, apakah kita bisa membicarakannya lagi tanpa langsung menganggap aku nggak bertanggung jawab?
+
+**U006 — Respons mahasiswa:**
+
+> Bisa, kok. Menurutku, kesulitan menyelesaikan tugas nggak otomatis berarti kamu nggak bertanggung jawab. Justru, kalau kamu udah mencoba tapi masih kesulitan, aku pengen kita bisa membicarakannya supaya kita tahu apa yang perlu diubah. Aku nggak bisa menjamin semuanya bakal berjalan lancar, tapi kita bisa saling kasih kabar kalau ada kendala dan mencari solusi bareng. Aku juga berharap kamu bisa jujur soal progresmu, jadi kita bisa tetap menjaga komitmen kelompok tanpa harus saling menyalahkan.
+
+**AI007 — Ali (simulasi):**
+
+> Makasih. Aku menghargai kamu mau mendengarkan tanpa langsung menyalahkan aku. Aku akan mulai memeriksa instruksi analisis dan mencatat bagian yang belum kupahami. Aku juga akan berusaha memberi kabar tentang progresku, supaya kita bisa segera mencari solusi kalau ada kendala. Aku rasa kita sudah punya jalan keluar yang cukup jelas. Aku setuju untuk bertanggung jawab atas bagianku sambil tetap terbuka menerima bantuan dari anggota lain. Semoga kita bisa menyelesaikan tugas ini tepat waktu tanpa merusak hubungan pertemanan kita.
+
+## Refleksi mahasiswa setelah simulasi awal
+
+**U007 — Refleksi:**
+
+> Menurutku, tantangan terbesarnya adalah memisahkan masalah pekerjaan dari hubungan pertemanan. Aku nggak mau Ali merasa disalahkan atau dianggap nggak mampu, tapi aku juga nggak bisa mengabaikan masalah pembagian tugas hanya karena kami berteman. Menurutku, menjaga pertemanan bukan berarti menghindari percakapan yang sulit, melainkan membicarakannya tanpa saling menjatuhkan. Aku akan mencoba mendengarkan alasan Ali terlebih dahulu, lalu membahas solusi dan tanggung jawab masing-masing secara terbuka. Dengan begitu, aku tetap bisa menunjukkan kepedulian tanpa mengabaikan kepentingan kelompok.
+
+**U008 — Evaluasi relasi:**
+
+> Menurutku, pendekatan yang paling membantu adalah mendengarkan Ali tanpa langsung menyalahkannya dan menegaskan bahwa meminta bantuan bukan berarti dia nggak mampu. Buktinya, Ali bilang dia merasa lebih lega dan menghargai kesediaanku untuk mendengarkan tanpa menyalahkannya. Aku juga mencoba mencari solusi bersama, bukan langsung mengambil alih tanggung jawabnya, sehingga Ali tetap punya ruang untuk berkontribusi.
+>
+> Pendekatan yang berpotensi menghambat adalah terlalu fokus pada penyelesaian tugas sampai mengabaikan perasaan anggota kelompok. Kalau aku langsung menuntut Ali menyelesaikan bagiannya tanpa memahami kesulitannya, dia mungkin akan semakin takut mengakui masalahnya. Karena itu, menurutku penting untuk tetap terbuka terhadap kendala, tetapi juga memastikan setiap anggota bertanggung jawab atas bagiannya.
+
+**U009 — Evaluasi ASK:**
+
+> A. Attitude (Sikap)  
+> Menurutku, Ali sudah lebih nyaman dan terbuka dibandingkan awal percakapan. Awalnya, dia takut dianggap nggak berguna kalau meminta bantuan. Setelah kami berdiskusi, dia bilang merasa lebih tenang dan menghargai kesediaanku untuk mendengarkan tanpa menyalahkannya. Dia juga bersedia memberi kabar tentang progresnya.
+>
+> K. Knowledge (Pengetahuan)  
+> Ali sudah mulai memahami langkah yang perlu dilakukan, yaitu memeriksa instruksi analisis dan mencatat bagian yang belum dipahami. Namun, dia masih belum sepenuhnya memahami cara mengerjakan analisis datanya, sehingga masih perlu memperjelas instruksi tersebut.
+>
+> S. Skill (Keterampilan)  
+> Menurutku, belum ada bukti bahwa Ali sudah mampu menyelesaikan analisis secara mandiri. Dia baru berkomitmen untuk memeriksa instruksi dan mencatat kesulitannya. Jadi, dia masih mungkin membutuhkan bantuan dari anggota lain untuk memahami analisis data dan menentukan langkah pengerjaannya.
+
+## Uji ulang hipotetis setelah satu hari
+
+**AI008 — Uji ulang (ringkasan konteks fasilitator):** Mahasiswa diminta membayangkan bahwa satu hari telah berlalu, tenggat tinggal 24 jam, dan Ali masih kesulitan. Mahasiswa diminta merespons dengan empati, rencana konkret, perhatian pada kualitas hasil, dan tanpa mendorong pengorbanan waktu istirahat secara berlebihan.
+
+**AI009 — Ali (simulasi uji ulang):**
+
+> Aku sudah membaca ulang instruksinya dan mencoba mengerjakan analisis, tapi masih ada beberapa bagian yang nggak kupahami. Aku mulai panik karena waktu pengumpulan tinggal 24 jam. Aku takut mengecewakan kalian lagi. Aku kepikiran untuk mengerjakan semuanya sendiri malam ini, meskipun mungkin aku nggak tidur cukup.
+
+**U010 — Respons mahasiswa dalam uji ulang:**
+
+> Jangan dipaksain ngerjain semuanya sendiri, ya. Kamu udah berusaha memahami instruksinya, tapi kalau masih ada yang nggak jelas, kita coba bahas bareng. Coba tunjukin bagian mana yang bikin kamu bingung, terus kita tentukan mana yang paling penting buat diselesaikan dulu. Kalau ada bagian yang bisa dibantu anggota lain, kita bagi lagi secara adil. Aku pengen hasil tugas kita tetap bagus, tapi kamu juga nggak harus mengorbankan istirahat sampai kelelahan. Kita cari solusi bareng, ya, daripada kamu panik dan menanggung semuanya sendirian.
+
+**AI010 — Ali (simulasi uji ulang):**
+
+> Makasih, aku merasa lebih lega karena kamu nggak langsung menyalahkan aku. Aku setuju kita perlu menentukan bagian yang paling penting dulu. Aku akan mencatat bagian analisis yang masih membingungkan, lalu membahasnya bareng kamu atau anggota lain yang lebih memahami bagian itu.
+>
+> Aku juga setuju untuk membagi ulang pekerjaan kalau memang diperlukan. Aku tetap ingin bertanggung jawab atas bagianku, tapi sekarang aku sadar kalau memaksakan diri mengerjakan semuanya sendirian justru bisa membuat hasilnya kurang baik. Kita coba selesaikan bagian yang paling penting dulu dan saling memberi kabar tentang progres masing-masing.
+
+**U011 — Refleksi uji ulang:**
+
+> Menurutku, kali ini aku nggak cuma fokus supaya tugasnya selesai, tetapi juga mempertimbangkan kondisi Ali dan alasan dia kesulitan. Kalau aku hanya menuntut tugasnya selesai, Ali mungkin malah makin panik dan memaksakan diri mengerjakan semuanya sendiri. Aku mencoba membantunya menentukan prioritas, mencari bantuan untuk bagian yang belum dipahami, dan membagi ulang pekerjaan jika diperlukan. Dengan begitu, Ali tetap bertanggung jawab atas bagiannya, tetapi juga memahami bahwa meminta bantuan bukan berarti melepaskan tanggung jawab. Bagiku, kerja kelompok berarti menyelesaikan masalah bersama, bukan membiarkan satu orang menanggung semuanya sendirian.
+
+**AI011 — Konfirmasi akhir (ringkasan konteks fasilitator):** Ringkasan sesi awal dan uji ulang ditampilkan untuk diperiksa mahasiswa.
+
+**U012 — Konfirmasi:** Mahasiswa menyatakan ringkasan uji ulang sesuai dengan pengalaman dan jawabannya.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan tindakan
+
+Tujuan percakapan tercapai pada tingkat simulasi: mahasiswa berusaha memahami alasan Ali, menanyakan bagian yang sulit, mengusulkan pemeriksaan beban kerja, dan membuat langkah penyelesaian lebih jelas. Mahasiswa menjaga agar Ali tetap bertanggung jawab atas bagiannya sambil memberi ruang untuk meminta bantuan. Dalam uji ulang, mahasiswa juga secara eksplisit menolak gagasan mengerjakan semuanya sendiri sampai mengorbankan istirahat.
+
+Hasil ini menunjukkan kualitas respons yang dirumuskan dalam percakapan. Hasil ini tidak membuktikan bahwa pembagian tugas kelompok nyata telah berubah, bahwa analisis data telah selesai, atau bahwa tenggat berhasil dipenuhi.
+
+## Perubahan pendekatan: awal dan uji ulang
+
+| Unsur | Simulasi awal | Uji ulang | Bukti | Batas bukti |
+|---|---|---|---|---|
+| Memahami masalah | Menanyakan alasan Ali merasa pembagian tugas tidak adil dan bagian yang sulit | Meminta Ali menunjukkan bagian analisis yang belum dipahami | U001–U003, U010 | Perilaku komunikasi ditampilkan dalam simulasi |
+| Empati | Menegaskan bahwa meminta bantuan bukan berarti tidak mampu | Menanggapi kepanikan tanpa menyalahkan Ali | U002–U006, U010 | Respons Ali merupakan bagian dari roleplay |
+| Tanggung jawab | Menekankan pembagian kerja yang masuk akal dan tanggung jawab masing-masing | Menyarankan pembagian ulang hanya jika diperlukan | U004–U006, U010–U011 | Belum ada pelaksanaan nyata yang diamati |
+| Rencana kerja | Memeriksa instruksi, mencatat hal yang belum jelas, membagi tugas, dan memberi kabar progres | Memprioritaskan bagian penting dan mencari bantuan untuk bagian yang sulit | U005, U010–U011 | Jadwal rinci dan hasil pekerjaan belum tersedia |
+| Kesejahteraan dan kualitas | Menjaga hasil akhir tanpa membebani satu orang sendirian | Tidak mendorong Ali mengorbankan istirahat sampai kelelahan | U004, U010–U011 | Belum ada bukti perilaku di luar simulasi |
+
+## Evaluasi ASK
+
+| Dimensi | Bukti dalam percakapan | Penilaian sementara |
+|---|---|---|
+| **Attitude (Sikap)** | Mahasiswa mendengarkan tanpa langsung menyalahkan, menunjukkan kepedulian, dan mengakui bahwa meminta bantuan adalah hal wajar. | Sikap empatik dan kolaboratif terlihat dalam respons yang dirumuskan. |
+| **Knowledge (Pengetahuan)** | Mahasiswa mengidentifikasi langkah yang relevan: memperjelas instruksi, menilai beban kerja, memprioritaskan, dan membagi tanggung jawab. | Pemahaman tentang penyelesaian masalah kelompok cukup konkret; belum ada bukti bahwa analisis data teknisnya telah dipahami. |
+| **Skill (Keterampilan)** | Mahasiswa mengajukan pertanyaan terbuka, merumuskan rencana, menjaga akuntabilitas, dan merespons kepanikan dengan tenang. | Keterampilan komunikasi ditunjukkan secara verbal dalam simulasi; penerapan nyata dan konsistensinya belum dinilai. |
+
+## Refleksi dan lesson learned
+
+Pelajaran utama dari sesi ini adalah bahwa menjaga persahabatan tidak berarti menghindari pembicaraan sulit. Kepedulian dapat ditunjukkan dengan mendengarkan alasan seseorang, tidak langsung menghakimi, dan menawarkan bantuan yang konkret, sambil tetap membicarakan tanggung jawab secara terbuka.
+
+Uji ulang memperjelas bahwa menyelesaikan tugas tepat waktu tidak seharusnya berarti membiarkan satu anggota menanggung seluruh beban atau mengorbankan istirahat sampai kelelahan. Strategi yang lebih seimbang adalah menentukan prioritas, mengenali bagian yang belum dipahami, meminta bantuan dari anggota yang sesuai, membagi ulang pekerjaan bila diperlukan, dan saling memberi kabar tentang progres.
+
+## Tindak lanjut yang dapat diamati
+
+1. Meminta Ali atau anggota terkait menunjukkan bagian instruksi analisis yang belum jelas.
+2. Menentukan bagian analisis yang paling penting untuk diselesaikan terlebih dahulu.
+3. Memeriksa beban kerja setiap anggota dan menyepakati ulang tanggung jawab bila diperlukan.
+4. Menetapkan waktu singkat untuk memperbarui progres dan mengungkapkan kendala lebih awal.
+5. Memeriksa hasil tugas sebelum dikumpulkan, sambil memastikan pembagian kerja dan waktu istirahat tetap masuk akal.
+
+Tindak lanjut ini merupakan rencana yang disarankan berdasarkan simulasi, bukan tindakan yang sudah diverifikasi.
+
+## Batas bukti
+
+Sesi berlangsung melalui teks; nada suara dan bahasa tubuh tidak dinilai. Ali adalah tokoh roleplay, sehingga responsnya tidak membuktikan perasaan atau tindakan orang nyata. Uji ulang merupakan situasi hipotetis. Tidak tersedia bukti bahwa tugas kelompok sungguhan telah selesai, bahwa anggota kelompok nyata menyetujui pembagian kerja, atau bahwa hasil komunikasi tersebut bertahan setelah sesi. Laporan ini menilai respons yang dinyatakan, bukan menetapkan hasil akademik resmi.

@@ -1,0 +1,408 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Erin Cherryl Angela |
+| NIM | 18225003 |
+| Kelas dan tanggal | Kelas 01; 11 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b — Kasus 3: Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Dimas (K3-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; penugasan tetap |
+| Modalitas | Teks; transkrip percakapan teks |
+| Kasus nyata/fiktif | Simulasi fiktif sesuai paket asesmen |
+| Kelengkapan transkrip | Lengkap untuk percakapan Sesi 3b yang tersedia dalam sesi ini; tidak mencakup sesi UTS lainnya |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Kasus ini meminta mahasiswa menggali kebutuhan pelanggan yang menghadapi pertanyaan pelanggan berulang melalui WhatsApp dan pesanan yang kadang terlewat. Pelanggan, Dimas (K3-04), belum yakin bahwa AI atau teknologi baru diperlukan. Mahasiswa perlu memahami proses saat ini, menilai apakah masalah layak diselesaikan dengan TI/AI, dan jika sesuai, menyusun uji coba konkret dengan batasan, dukungan, indikator keberhasilan, kendali manusia, dan pilihan untuk tidak melanjutkan.
+
+Tujuan yang dinyatakan mahasiswa adalah memahami masalah nyata Dimas dan menilai apakah pendekatan TI/AI memberikan hasil yang lebih baik tanpa menjanjikan manfaat yang belum terbukti. Mahasiswa mengusulkan pengumpulan data awal, uji coba terbatas, pembandingan indikator sebelum-sesudah, dan evaluasi bersama Dimas serta staf. Ukuran yang disebut antara lain waktu menjawab pertanyaan, ketepatan informasi, jumlah pesanan terlewat, beban kerja, biaya, dan masukan staf. Sasaran tindakan pada akhir percakapan adalah rencana uji coba templat jawaban selama dua minggu, dengan kendali manusia dan opsi memperbaiki atau menghentikan uji coba. Ini merupakan kesepakatan simulasi, bukan bukti implementasi nyata.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Mahasiswa memperkirakan bahwa pengumpulan data sederhana dan uji coba terbatas dapat membantu menilai manfaat; ia juga menyadari bahwa solusi mungkin tidak layak bila biaya/usaha melebihi manfaat. | U001 | Dugaan awal dari pernyataan mahasiswa |
+| Attitude | Menghindari klaim berlebihan dan menekankan bukti, keputusan bersama, serta hak untuk tidak melanjutkan solusi. | U001, U004, U008 | Terlihat dalam jawaban simulasi; tidak mengukur sikap di luar sesi |
+| Knowledge | Mengetahui perlunya baseline, indikator, pembandingan kondisi, dan batasan risiko; pengetahuan tentang kebutuhan pengguna awalnya lebih terstruktur pada metrik dan tahapan daripada preferensi gaya komunikasi staf. | U001, U012 | Laporan/interpretasi berdasarkan teks |
+| Skill | Menunjukkan kemampuan mengajukan rencana pengukuran, pengujian bertahap, pembagian tanggung jawab, dan adaptasi saat ada kendala. | U002–U011, U013–U015 | Demonstrasi dalam simulasi, bukan bukti kinerja nyata |
+| Preferensi/MBTI jika dilaporkan | Tidak ada tipe MBTI yang dilaporkan; tidak dilakukan diagnosis tipe kepribadian. | Seluruh transkrip | Tidak tersedia |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa memakai bahasa Indonesia percakapan yang sopan, logis, dan kolaboratif; konteks peran adalah pengusul solusi TI/AI kepada pemilik usaha dan stafnya. | U001–U016 | Pengamatan teks; tidak menyimpulkan kultur personal yang tidak disebut |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan mahasiswa sebelum profil target diungkapkan: Dimas mungkin membutuhkan cara untuk mengurangi pertanyaan pelanggan berulang dan mencegah pesanan terlewat, bersikap kritis terhadap klaim manfaat, serta ingin tetap memegang kendali atas keputusan dan penerapan. Mahasiswa secara eksplisit menyatakan tidak ingin langsung menganggap sikap kritis sebagai penolakan terhadap teknologi (U001). Dugaan ini kemudian diuji lewat pertanyaan dan respons simulasi, bukan dianggap sebagai fakta psikologis.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menilai apakah solusi TI/AI layak dan sesuai kebutuhan usaha | Memahami masalah, batasan, dan ukuran manfaat | Menggali alur kerja dan menyepakati ukuran keberhasilan | Baseline dan keputusan uji coba yang realistis |
+| Attention | Dimas skeptis terhadap klaim umum tentang manfaat teknologi | A: menghormati sikap kritis; K: mengidentifikasi masalah aktual | Pertanyaan terbuka dan pengumpulan data awal | Dimas bersedia menjelaskan kondisi usaha |
+| Interest | Ketertarikan bergantung pada relevansi masalah dan manfaat yang bisa diperiksa | A: tidak memaksa persetujuan; K: membandingkan proses lama dan baru | Indikator yang sederhana dan relevan | Kesediaan mempertimbangkan uji coba terbatas |
+| Desire | Perlu manfaat yang berarti, kendali manusia, dan beban implementasi yang wajar | K: membedakan frekuensi dari dampak; S: mempertimbangkan waktu, staf, dan risiko | Uji coba skala kecil dan evaluasi bersama | Rencana dengan batas, tanggung jawab, dan kriteria evaluasi |
+| Action | Keputusan belum berupa implementasi nyata | S: langkah awal, bantuan, penanganan kesalahan, dan opsi berhenti | Menetapkan lingkup uji coba dua minggu | Kesepakatan simulasi dan langkah evaluasi |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual.** ID U menandai pesan mahasiswa dan ID AI menandai pesan asisten/simulator. Label tahap menunjukkan fungsi giliran dalam asesmen. Isi kutipan dipertahankan dari percakapan yang tersedia.
+
+## Simulasi awal
+
+**AI001 — Pembukaan dan kasus**
+
+Kita lanjut ke Sesi 3b — Menawarkan Solusi TI dan AI, sesi terakhir dalam rangkaian UTS KIPP 2026. Kita mulai simulasi baru dengan customer yang berbeda. Kepercayaan dari sesi 3a tidak dibawa ke sesi ini.
+
+Dimas K3-04. Case: Dimas manages a business facing repetitive customer questions and lost/overlooked orders. He wants to assess if technology can help, but is skeptical of benefit claims and wants control over decision and implementation.
+
+Dimas opening: “Apa bukti pendekatan ini lebih baik?”
+
+**U001 — Tujuan, dugaan awal, dan rencana mahasiswa**
+
+Tujuanku adalah memahami masalah yang benar-benar dialami Dimas dan mencari tahu apakah pendekatan TI atau AI memang bisa memberikan hasil yang lebih baik. Aku nggak ingin langsung menjanjikan bahwa teknologi akan membuat pekerjaannya lebih mudah tanpa bukti yang jelas. Kalau ternyata solusi yang ada belum tentu cocok atau manfaatnya terlalu kecil dibandingkan biaya dan usaha penerapannya, aku juga harus bisa mengakui hal itu.
+
+Dugaan awalku, Dimas membutuhkan cara untuk mengurangi pertanyaan pelanggan yang berulang dan mencegah pesanan tercecer, tetapi dia cukup kritis terhadap solusi yang ditawarkan. Menurutku, dia juga ingin tetap punya kendali atas keputusan dan proses penerapannya. Namun, aku nggak mau langsung menganggap sikap kritisnya sebagai penolakan terhadap teknologi. Bisa jadi dia hanya ingin memastikan bahwa solusi yang dipilih memang sepadan dengan sumber daya yang dimiliki.
+
+Sebelum menawarkan solusi, aku akan menggali bagaimana pertanyaan pelanggan dan pesanan ditangani saat ini, seberapa sering masalah terjadi, apa dampaknya terhadap usaha, dan bagaimana cara Dimas mengetahui bahwa suatu pendekatan berhasil. Aku juga akan menanyakan batasan yang perlu dipertimbangkan, seperti biaya, waktu, kemampuan staf, dan risiko kesalahan. Setelah itu, aku ingin menentukan indikator keberhasilan bersama Dimas agar solusi yang diuji bisa dibandingkan dengan proses yang sekarang.
+
+Menurutku, pendekatan terbaik bukan langsung meyakinkan Dimas bahwa teknologi itu berguna, tetapi mencari tahu apakah teknologi benar-benar diperlukan, dalam kondisi apa teknologi bisa membantu, dan bagaimana manfaatnya bisa dibuktikan. Dengan begitu, Dimas tetap bisa mengambil keputusan berdasarkan hasil pengujian, bukan sekadar percaya pada klaimku.
+
+**AI002 — Simulasi awal: menggali kondisi saat ini**
+
+Aku menghargai pendekatanmu yang tidak langsung menganggap AI sebagai solusi terbaik. Menurutku, memang penting untuk membuktikan manfaatnya sebelum mengeluarkan biaya atau mengubah cara kerja yang sudah berjalan.
+
+Saat ini, pelanggan menghubungiku melalui WhatsApp. Pertanyaan tentang harga, stok, dan cara pemesanan cukup sering berulang. Pesanan juga kadang tertumpuk, terutama saat ramai. Namun, aku belum punya catatan yang jelas tentang seberapa sering pesanan terlewat atau berapa banyak waktu yang habis untuk menjawab pertanyaan yang sama.
+
+Aku bisa mempertimbangkan solusi baru, tetapi aku ingin tetap bisa memeriksa hasilnya sendiri dan memastikan bahwa solusi itu tidak menimbulkan masalah baru.
+
+Menurutmu, informasi apa yang perlu kita kumpulkan terlebih dahulu agar kita bisa menilai apakah solusi TI atau AI benar-benar lebih baik daripada cara kerja kami sekarang?
+
+**U002 — Pengumpulan data awal**
+
+Menurutku, kita perlu mengumpulkan data tentang kondisi kerja saat ini terlebih dahulu supaya punya dasar pembanding yang jelas. Aku akan mulai dari beberapa hal.
+Pertama, frekuensi dan jenis pertanyaan pelanggan, misalnya berapa banyak pertanyaan tentang harga, stok, dan cara pemesanan yang masuk dalam sehari. Kita juga perlu mencatat berapa lama waktu yang dihabiskan untuk menjawab pertanyaan tersebut.
+Kedua, alur dan masalah pemrosesan pesanan. Aku ingin mengetahui bagaimana pesanan dicatat, siapa yang bertanggung jawab memprosesnya, dan seberapa sering pesanan terlambat atau terlewat. Kalau memungkinkan, kita bisa mencatat jumlah kejadian tersebut selama periode tertentu, terutama saat usaha sedang ramai.
+Ketiga, dampaknya terhadap usaha dan pelanggan. Misalnya, apakah pesanan yang terlewat menyebabkan pembatalan, keluhan pelanggan, atau pekerjaan tambahan bagi staf. Dengan begitu, kita bisa menentukan masalah mana yang paling perlu diprioritaskan.
+Terakhir, kita perlu mengetahui batasan dan kebutuhan Dimas serta stafnya, termasuk anggaran, waktu untuk mempelajari sistem baru, dan bagian pekerjaan yang harus tetap bisa diperiksa secara manual.
+Menurutku, data ini bisa dikumpulkan selama satu atau dua minggu menggunakan pencatatan sederhana, tanpa langsung mengubah alur kerja yang sudah ada. Setelah itu, kita bisa mencoba solusi dalam skala kecil dan membandingkan hasilnya dengan kondisi awal menggunakan indikator yang sama, seperti waktu menjawab pertanyaan, jumlah pesanan terlewat, dan beban kerja staf.
+Dengan cara ini, Dimas bisa memeriksa hasilnya sendiri. Kalau hasilnya tidak lebih baik atau justru menambah beban kerja, kita punya dasar untuk memperbaiki atau bahkan tidak melanjutkan solusi tersebut.
+
+**AI003 — Simulasi awal: kendala pencatatan**
+
+Rencana pencatatan selama satu atau dua minggu terdengar masuk akal. Aku suka karena kita tidak harus langsung mengubah sistem yang ada, dan hasilnya bisa diperiksa berdasarkan data.
+
+Tapi ada satu kendala: waktuku dan waktu staf cukup terbatas. Kalau pencatatannya terlalu rumit, aku khawatir justru menambah pekerjaan baru. Aku juga tidak ingin staf merasa bahwa mereka sedang diawasi atau disalahkan ketika ada pesanan yang terlewat.
+
+Bagaimana kamu akan merancang pengumpulan data yang cukup akurat untuk mengevaluasi masalah ini, tetapi tetap sederhana dan tidak menambah beban staf secara berlebihan?
+
+**U003 — Pencatatan sederhana dan transparan**
+
+Menurutku, pencatatannya harus sesederhana mungkin dan memanfaatkan informasi yang sudah tersedia, bukan membuat staf mengisi banyak kolom baru. Aku akan mulai dengan menentukan beberapa indikator utama saja, yaitu jumlah pertanyaan berulang, waktu yang kira-kira dihabiskan untuk menjawabnya, jumlah pesanan yang terlambat atau terlewat, dan penyebab umumnya jika diketahui.
+Untuk pertanyaan pelanggan, kita bisa mengambil sampel dari riwayat WhatsApp pada waktu tertentu, misalnya beberapa jam saat ramai dan saat sepi, daripada mencatat setiap pesan satu per satu. Untuk pesanan, kita bisa memeriksa catatan yang sudah digunakan dan menandai pesanan bermasalah hanya ketika ditemukan. Kalau informasi waktunya tidak tersedia, kita nggak perlu memaksakan pencatatan yang terlalu detail. Perkiraan yang konsisten lebih berguna daripada data yang terlihat presisi tetapi sulit dikumpulkan.
+Aku juga akan menjelaskan kepada staf bahwa tujuan pencatatan ini adalah menemukan bagian proses kerja yang perlu diperbaiki, bukan menilai kinerja individu. Mereka bisa ikut menentukan cara pencatatan yang paling praktis dan memberi masukan jika ada bagian yang justru menambah pekerjaan. Dengan begitu, prosesnya tetap transparan dan mereka tidak merasa sedang diawasi.
+Setelah periode pengumpulan data selesai, kita bisa melihat apakah data yang terkumpul cukup untuk mengenali pola masalah. Kalau belum, kita perbaiki cara pengumpulannya tanpa langsung menambah banyak indikator. Menurutku, data yang sederhana, konsisten, dan benar-benar bisa digunakan untuk mengambil keputusan lebih baik daripada data yang sangat terperinci tetapi membebani orang yang mengumpulkannya.
+
+**AI004 — Simulasi awal: menentukan prioritas**
+
+Aku setuju bahwa pencatatan ini seharusnya membantu menemukan masalah, bukan mencari siapa yang salah. Menggunakan riwayat WhatsApp dan catatan pesanan yang sudah ada juga terasa lebih realistis daripada meminta staf mencatat semuanya dari awal.
+
+Namun, aku masih ingin memastikan satu hal. Misalnya, setelah satu atau dua minggu, kita menemukan banyak pertanyaan berulang, tetapi jumlah pesanan yang terlewat ternyata sangat sedikit. Kita juga belum tahu apakah waktu yang dihabiskan untuk menjawab pertanyaan itu benar-benar mengganggu pekerjaan lain.
+
+Bagaimana kamu akan menentukan masalah mana yang layak diselesaikan terlebih dahulu, dan bagaimana kamu akan menetapkan batas keberhasilan agar kita tidak menyimpulkan bahwa solusi TI atau AI bermanfaat hanya karena terlihat lebih modern?
+
+**U004 — Prioritas dan batas keberhasilan**
+
+Menurutku, kita perlu membedakan antara masalah yang sering terjadi dan masalah yang benar-benar berdampak besar. Banyaknya pertanyaan berulang belum tentu berarti masalah tersebut harus diprioritaskan, apalagi kalau menjawabnya ternyata tidak terlalu mengganggu pekerjaan lain. Sebaliknya, pesanan yang terlewat mungkin lebih jarang terjadi, tetapi dampaknya bisa lebih besar bagi usaha dan pelanggan.
+Jadi, aku akan membandingkan setiap masalah berdasarkan frekuensi, dampak terhadap pekerjaan dan pelanggan, serta usaha yang dibutuhkan untuk mengatasinya. Aku juga akan mencari tahu apakah waktu untuk menjawab pertanyaan berulang benar-benar menghambat pekerjaan lain, misalnya dengan melihat kondisi saat ramai dan meminta masukan Dimas serta stafnya. Kalau dampaknya kecil, menurutku belum ada alasan kuat untuk mengeluarkan biaya atau menambah sistem baru.
+Untuk menentukan keberhasilan, aku akan menetapkan indikator sebelum solusi diuji. Misalnya, jika masalah utama ternyata waktu menjawab pertanyaan, kita bisa mengukur perubahan waktu yang dibutuhkan untuk menangani pertanyaan serupa. Kalau masalah utamanya pesanan yang terlewat, kita bisa membandingkan jumlah pesanan terlewat sebelum dan sesudah uji coba. Kita juga perlu memastikan beban kerja staf tidak meningkat dan biaya penerapan tetap masuk akal.
+Menurutku, solusi baru baru layak dipertimbangkan jika hasilnya menunjukkan perbaikan yang berarti dibandingkan cara kerja sebelumnya, tanpa menimbulkan masalah baru yang lebih besar. Kita juga perlu menguji solusi dalam kondisi yang cukup sebanding, karena jumlah pelanggan dan pesanan bisa berbeda setiap minggu. Kalau hasilnya belum jelas, kita tidak perlu memaksakan kesimpulan bahwa solusi tersebut berhasil.
+Buatku, teknologi bukan otomatis sebuah kemajuan hanya karena lebih modern. Kalau cara kerja yang sekarang sudah cukup efektif, mempertahankannya bisa menjadi keputusan yang paling masuk akal. Tujuan akhirnya bukan menggunakan TI atau AI sebanyak mungkin, melainkan menyelesaikan masalah yang memang layak diselesaikan.
+
+**AI005 — Simulasi awal: risiko akurasi dan kendali manusia**
+
+Aku setuju. Aku tidak ingin mengeluarkan biaya hanya karena ada teknologi baru yang terlihat menarik. Penjelasanmu juga membuatku lebih yakin bahwa hasil pengujian tidak akan langsung dianggap berhasil tanpa pembanding yang jelas.
+
+Sekarang aku mulai melihat kemungkinan untuk mencoba solusi dalam skala kecil. Namun, aku masih khawatir kalau sistem AI memberikan informasi harga atau stok yang salah kepada pelanggan. Aku juga tidak ingin staf kehilangan kemampuan untuk memeriksa pesanan sendiri karena terlalu bergantung pada sistem.
+
+Kalau hasil pengumpulan data menunjukkan bahwa solusi TI atau AI memang berpotensi membantu, bagaimana kamu akan merancang uji coba yang tetap memberi staf kendali atas pekerjaan mereka dan membatasi risiko kesalahan sistem?
+
+**U005 — Uji coba berisiko rendah**
+
+Menurutku, uji coba sebaiknya dimulai dari bagian yang risikonya paling rendah, bukan langsung menyerahkan seluruh komunikasi pelanggan kepada AI. Misalnya, kalau pertanyaan berulang memang menyita waktu, kita bisa mencoba templat jawaban untuk pertanyaan tentang harga, stok, dan cara pemesanan terlebih dahulu. AI boleh membantu menyusun atau merapikan jawaban, tetapi informasi yang dikirim ke pelanggan tetap harus berdasarkan data yang sudah diperiksa Dimas.
+Untuk membatasi kesalahan, aku akan memastikan bahwa informasi harga dan stok memiliki sumber yang jelas dan diperbarui secara berkala. Kalau informasi belum tersedia atau AI memberikan jawaban yang meragukan, sistem tidak boleh menebak. Pertanyaan tersebut bisa dialihkan kepada staf untuk diperiksa. Selama uji coba, staf juga tetap bisa mengubah atau menolak saran sistem sebelum jawaban dikirim.
+Untuk pengelolaan pesanan, aku tidak akan langsung meminta staf bergantung pada sistem baru. Mereka tetap perlu memahami dan memeriksa catatan pesanan yang digunakan. Kita bisa menguji alur baru pada sebagian kecil pesanan terlebih dahulu, lalu membandingkannya dengan proses sebelumnya untuk memastikan tidak ada pesanan yang hilang atau tercatat secara keliru. Dengan begitu, kita juga bisa mengetahui apakah sistem benar-benar membantu atau justru membuat pekerjaan lebih rumit.
+Aku juga akan melibatkan staf dalam menentukan alur uji coba dan cara menangani kesalahan. Setelah periode pengujian, kita mengevaluasi akurasi jawaban, jumlah pesanan yang terlewat, waktu kerja, biaya, serta masukan dari staf. Jika terjadi kesalahan serius, pengujian dihentikan sementara sampai penyebabnya diketahui dan diperbaiki.
+Menurutku, uji coba yang baik bukan uji coba yang membuktikan bahwa teknologi selalu benar, melainkan uji coba yang bisa menunjukkan manfaat sekaligus mendeteksi kesalahannya sebelum kesalahan itu berdampak besar. Dimas dan stafnya tetap menjadi pengambil keputusan, sedangkan TI atau AI berperan sebagai alat bantu yang hasilnya harus bisa diperiksa.
+
+**AI006 — Simulasi awal: beban staf dan waktu pendampingan**
+
+Pendekatan itu cukup masuk akal. Aku suka bahwa AI hanya membantu menyusun jawaban, sementara staf tetap memeriksa informasi sebelum dikirim. Aku juga setuju bahwa kita perlu menetapkan kondisi untuk menghentikan uji coba jika terjadi kesalahan serius.
+
+Namun, aku punya kekhawatiran lain. Stafku sudah cukup sibuk melayani pelanggan dan memproses pesanan. Kalau mereka harus memeriksa setiap saran AI, mencatat hasil pengujian, dan melaporkan kesalahan, jangan-jangan pekerjaan mereka justru bertambah. Aku juga tidak punya banyak waktu untuk mendampingi mereka setiap hari.
+
+Bagaimana kamu akan membagi tanggung jawab dan menyusun tahapan uji coba agar tetap bisa dievaluasi dengan baik, tetapi tidak membebani Dimas dan staf secara berlebihan?
+
+**U006 — Pembagian tanggung jawab**
+
+Menurutku, uji coba harus dirancang agar menyatu dengan pekerjaan sehari-hari. Kita bisa mulai dari templat jawaban untuk pertanyaan yang paling sering muncul, tanpa langsung menggunakan AI secara otomatis.
+kamu bertanggung jawab memeriksa informasi harga dan stok, sedangkan staf mencoba templat dan melaporkan kendala yang benar-benar mereka temui. Aku membantu menyiapkan panduan singkat dan indikator evaluasi agar mereka tidak perlu membuat laporan panjang.
+Evaluasi dilakukan secara berkala dengan membandingkan waktu penanganan, kesalahan, dan beban kerja dengan kondisi awal. Kalau solusi justru menambah pekerjaan atau menimbulkan kesalahan serius, kita perbaiki atau hentikan uji coba.
+Menurutku, solusi yang baik bukan hanya terbukti bermanfaat, tetapi juga tidak membebani orang yang menggunakannya.
+
+**AI007 — Simulasi awal: pelibatan pengguna**
+
+Pembagian tugas seperti itu terdengar lebih realistis. Aku juga menghargai bahwa kamu tidak meminta staf membuat laporan panjang atau langsung mempelajari sistem baru. Aku mulai merasa bahwa uji coba ini bisa dilakukan tanpa mengganggu operasional terlalu banyak.
+
+Tapi aku ingin memastikan bahwa aku dan stafku benar-benar dilibatkan, bukan sekadar diminta mengikuti rencana yang sudah kamu buat. Kami yang menjalankan proses sehari-hari, jadi mungkin ada kendala yang belum terlihat dari luar. Aku juga ingin tetap punya kebebasan untuk menghentikan atau mengubah uji coba jika ternyata tidak cocok.
+
+Bagaimana kamu akan melibatkan aku dan staf dalam pengambilan keputusan selama uji coba, terutama jika pengalaman kami berbeda dari hasil pengukuran yang terlihat di data?
+
+**U007 — Data dan pengalaman staf**
+
+Menurutku, sejak awal Dimas dan staf perlu dilibatkan dalam menentukan alur uji coba, indikator keberhasilan, dan batasan yang tidak boleh dilanggar. Selama uji coba, mereka juga bisa menyampaikan kendala atau mengusulkan perubahan tanpa harus menunggu evaluasi akhir.
+Kalau data menunjukkan hasil yang baik, tetapi staf merasa pekerjaannya justru lebih berat, kita nggak boleh langsung menyimpulkan bahwa solusi berhasil. Kita perlu mencari tahu penyebab perbedaan tersebut dan mempertimbangkan pengalaman mereka bersama data yang ada.
+Dimas juga tetap berhak mengubah atau menghentikan uji coba kapan saja jika risikonya terlalu besar atau manfaatnya tidak sebanding. Menurutku, data membantu pengambilan keputusan, tetapi pengalaman orang yang menjalankan proses sehari-hari juga merupakan bukti yang penting.
+
+**AI008 — Simulasi awal: hasil yang belum meyakinkan**
+
+Aku setuju. Membandingkan manfaat yang diperoleh dengan usaha yang dibutuhkan itu penting. Aku juga tidak ingin evaluasi terlalu rumit sampai membutuhkan banyak waktu tambahan.
+
+Misalnya, setelah dua minggu, hasilnya menunjukkan waktu menjawab sedikit lebih singkat, tetapi jumlah pesanan yang terlewat tidak berubah dan sebagian staf merasa pekerjaannya tetap sama beratnya.
+
+Bagaimana kamu akan menentukan apakah uji coba perlu dilanjutkan, diperbaiki, atau dihentikan?
+
+**U008 — Menimbang manfaat dan usaha**
+
+Menurutku, kita perlu membandingkan manfaat yang diperoleh dengan usaha yang dibutuhkan. Aku akan mengajak Dimas dan staf membahas apakah penghematan waktu tersebut cukup berarti, apakah templat mudah digunakan, dan bagian mana yang masih terasa merepotkan.
+Kalau manfaatnya kecil tetapi tidak menambah beban atau risiko, kita bisa memperbaiki templat dan mengujinya lagi dalam waktu terbatas. Kalau ternyata penghematan waktunya tidak sebanding dengan usaha penerapannya, kita bisa menghentikan uji coba. Namun, kalau ada bagian yang terbukti membantu, kita bisa mempertahankan bagian itu saja.
+Keputusan akhirnya tetap bersama Dimas dan staf, dengan mempertimbangkan data sekaligus pengalaman mereka. Menurutku, kita tidak harus memaksakan solusi agar berhasil. Kalau hasilnya tidak cukup bermanfaat, menghentikannya juga merupakan keputusan yang tepat.
+
+**AI009 — Simulasi awal: rencana operasional**
+
+Aku bisa menerima pendekatan itu. Namun, aku ingin memastikan bahwa semuanya jelas sejak awal. Aku tidak ingin ada biaya tambahan atau perubahan sistem yang tiba-tiba muncul di tengah jalan. Aku juga ingin tahu siapa yang harus dihubungi jika ada masalah dan bagaimana kita akan memastikan bahwa hasil evaluasinya bisa dipercaya.
+
+Kalau kita akan memulai uji coba templat jawaban selama dua minggu, apa langkah pertama yang akan kamu sepakati bersamaku, termasuk pembagian tanggung jawab, batasan uji coba, dan cara menangani masalah jika muncul?
+
+**U009 — Kesepakatan langkah awal**
+
+Menurutku, langkah pertama adalah menyepakati rencana uji coba bersama Dimas dan staf sebelum mulai. Kita tentukan templat yang akan digunakan, indikator keberhasilan, dan kondisi yang mengharuskan uji coba dihentikan.
+Dimas bertanggung jawab memeriksa kebenaran informasi harga, stok, dan pemesanan. Aku membantu menyiapkan templat serta cara evaluasinya, sedangkan staf mencoba templat dan menyampaikan kendala yang muncul. Uji coba berlangsung dua minggu tanpa biaya tambahan atau perubahan sistem di luar kesepakatan.
+Jika muncul kesalahan, staf bisa kembali menggunakan cara lama dan melaporkannya kepada Dimas sebagai penanggung jawab. Aku membantu mengevaluasi penyebabnya dan mengusulkan perbaikan sebelum uji coba dilanjutkan.
+Di akhir periode, kita membandingkan hasil dengan kondisi awal dan mendiskusikannya bersama staf. Menurutku, semua pihak harus menyepakati batasan dan tanggung jawab sejak awal, supaya uji coba tetap terkendali dan hasilnya bisa dipercaya.
+
+**AI010 — Simulasi awal: faktor pengganggu evaluasi**
+
+Rencana ini sudah cukup jelas. Aku juga merasa lebih tenang karena ada batasan biaya, pembagian tanggung jawab, dan pilihan untuk kembali ke cara kerja lama jika terjadi masalah.
+
+Namun, ada satu situasi yang belum kita bahas. Misalnya, setelah dua minggu, catatan menunjukkan waktu menjawab pertanyaan berkurang, tetapi ternyata selama periode itu jumlah pelanggan juga lebih sedikit dibandingkan biasanya. Aku khawatir kita menganggap templat berhasil padahal perubahan itu sebenarnya disebabkan oleh berkurangnya pelanggan.
+
+Aku juga tidak ingin evaluasi terlalu rumit sampai membutuhkan banyak waktu tambahan.
+
+Bagaimana kamu akan memastikan bahwa kesimpulan evaluasi cukup dapat dipercaya, meskipun kondisi usaha berubah, tanpa membuat proses pengukuran menjadi terlalu rumit?
+
+**U010 — Pembandingan saat kondisi berubah**
+
+Menurutku, kita perlu membandingkan waktu menjawab bukan hanya secara keseluruhan, tetapi juga berdasarkan jumlah pertanyaan yang masuk. Kita bisa mengambil sampel percakapan sebelum dan selama uji coba, lalu membandingkan pertanyaan sejenis pada kondisi yang relatif sama, misalnya saat ramai dan sepi.
+Pencatatannya tetap sederhana. Kita cukup mencatat jumlah pertanyaan, perkiraan waktu penanganan, dan kendala penting. Kalau jumlah pelanggan berbeda jauh, kita perlu mempertimbangkan perbedaan itu sebelum menyimpulkan bahwa templat berhasil.
+Aku juga akan membahas hasilnya bersama Dimas dan staf, termasuk apakah mereka merasa pekerjaannya lebih ringan. Kalau datanya belum cukup untuk menunjukkan manfaat yang jelas, kita tidak perlu memaksakan kesimpulan dan bisa memperpanjang pengujian secara terbatas jika memang diperlukan.
+Menurutku, evaluasi yang dapat dipercaya bukan berarti harus rumit, tetapi harus mempertimbangkan faktor lain yang mungkin memengaruhi hasilnya.
+
+**AI011 — Simulasi awal: fleksibilitas gaya pelayanan**
+
+Aku setuju. Membandingkan pertanyaan sejenis dan mempertimbangkan jumlah pelanggan membuat hasilnya lebih masuk akal. Aku juga menghargai bahwa kamu bersedia mengakui ketika data belum cukup untuk menarik kesimpulan.
+
+Sejauh ini, aku merasa kamu memahami kekhawatiranku tentang biaya, beban staf, dan keandalan hasil. Aku juga merasa tetap memiliki kendali atas keputusan, bukan sekadar diminta menerima rekomendasimu.
+
+Namun, aku masih memikirkan satu hal. Katakanlah uji coba menunjukkan hasil yang cukup baik dan aku ingin melanjutkannya, tetapi staf yang paling sering menggunakan templat justru merasa bahwa templat tersebut kurang sesuai dengan cara mereka melayani pelanggan. Mereka takut jawaban menjadi terlalu kaku dan hubungan dengan pelanggan terasa kurang personal.
+
+Bagaimana kamu akan menanggapi keberatan staf tersebut dan menentukan apakah templat perlu diubah, tanpa mengabaikan hasil pengujian yang sudah kita kumpulkan?
+
+**U011 — Adaptasi templat**
+
+Menurutku, keberatan staf perlu dianggap sebagai bagian dari hasil evaluasi, bukan diabaikan hanya karena data menunjukkan penghematan waktu. Aku akan mencari tahu bagian mana yang terasa kaku, lalu mengajak staf memperbaiki templat agar tetap efisien tanpa menghilangkan gaya komunikasi mereka dengan pelanggan.
+Kita bisa menguji versi revisi pada beberapa pertanyaan dan membandingkan waktu penanganan, ketepatan informasi, serta masukan staf dan pelanggan jika tersedia. Hasil pengujian sebelumnya tetap menjadi pembanding, tetapi bukan alasan untuk mempertahankan templat yang kurang cocok.
+Kalau versi revisi lebih sesuai tanpa mengurangi manfaatnya, kita bisa menggunakannya. Kalau tidak, kita bisa memakai templat hanya untuk informasi dasar dan membiarkan staf merespons secara personal untuk situasi lainnya.
+Menurutku, solusi yang berhasil secara angka belum tentu berhasil dalam praktik jika orang yang menggunakannya merasa kehilangan kendali atas pekerjaannya.
+
+## Evaluasi sementara dan refleksi mahasiswa
+
+**AI012 — Penutupan simulasi awal dan pertanyaan refleksi**
+
+Aku bisa menerima pendekatan itu. Aku merasa kamu tidak mencoba menjual teknologi dengan segala cara, tetapi ingin memastikan bahwa solusi memang berguna dan tetap memberi kami kendali.
+
+Sekarang kita berhenti sejenak dari peran Dimas untuk mengevaluasi komunikasi yang sudah kamu lakukan.
+
+Menurutmu, pesan atau tindakan komunikasimu yang paling membantu membangun rasa percaya dan membuat Dimas lebih terbuka selama percakapan ini apa? Sebutkan bukti konkret dari respons Dimas, dan jelaskan juga bagian yang menurutmu masih bisa diperbaiki.
+
+**U012 — Refleksi mahasiswa sebelum retest**
+
+Menurutku, hal yang paling membantu membangun kepercayaan Dimas adalah aku nggak langsung berusaha meyakinkannya bahwa teknologi pasti menjadi solusi. Aku lebih memilih mencari bukti, menetapkan indikator keberhasilan, dan mempertimbangkan kemungkinan bahwa solusi yang ditawarkan ternyata nggak cocok.
+Buktinya, Dimas mulai bersedia mencoba templat jawaban selama dua minggu setelah mengetahui bahwa uji coba memiliki batasan biaya, pembagian tanggung jawab yang jelas, dan pilihan untuk kembali ke cara kerja lama. Dia juga merasa tetap punya kendali atas keputusan dan stafnya ikut dilibatkan dalam evaluasi.
+Namun, menurutku, aku masih bisa memperbaiki caraku dalam menggali kebutuhan pengguna sebelum menyusun rencana. Aku cukup sering menawarkan tahapan dan indikator evaluasi, tetapi belum banyak menanyakan bagaimana staf ingin mempertahankan gaya komunikasi mereka dengan pelanggan. Hal ini baru dibahas setelah Dimas mengangkat keberatan tersebut.
+Ke depannya, aku ingin lebih aktif meminta pendapat pengguna sejak awal, bukan hanya meminta mereka menilai solusi yang sudah dirancang. Dengan begitu, solusi yang diuji nggak cuma terukur manfaatnya, tetapi juga sesuai dengan kebutuhan dan cara kerja mereka.
+
+## Uji ulang (retest)
+
+**AI013 — Retest: fleksibilitas dengan indikator terukur**
+
+Sekarang kita masuk ke **uji ulang (retest)** dengan situasi baru. Kepercayaan Dimas yang sudah terbentuk tetap dipertahankan, tetapi muncul kendala tambahan.
+
+Dimas menghubungimu kembali setelah uji coba templat jawaban. Ia mengatakan:
+
+> Hasilnya lumayan. Waktu menjawab beberapa pertanyaan memang berkurang, dan tidak ada kesalahan serius. Tapi aku masih belum yakin apakah hasilnya cukup berarti untuk diterapkan secara permanen.
+>
+> Aku juga ingin staf tetap bisa mengubah jawaban sesuai situasi pelanggan. Kalau semua harus mengikuti templat, aku khawatir pelayanan kami menjadi kaku. Di sisi lain, kalau setiap staf bebas mengubahnya, kita mungkin sulit mengukur apakah templat benar-benar membantu.
+>
+> **Bagaimana kita bisa menentukan keberhasilan secara terukur, tetapi tetap memberi staf kebebasan untuk menyesuaikan jawaban dan mempertahankan kendali atas pelayanan mereka?**
+
+**U013 — Fleksibilitas dan indikator**
+
+Menurutku, kita bisa menetapkan indikator yang jelas tanpa mengharuskan semua staf menggunakan jawaban yang persis sama. Kita bisa membuat templat sebagai panduan untuk informasi utama seperti harga, stok, dan cara pemesanan, sementara staf tetap bebas menyesuaikan bahasa dan cara penyampaiannya sesuai situasi pelanggan.
+Untuk mengukur keberhasilan, kita bisa membandingkan waktu menjawab pertanyaan sejenis, ketepatan informasi, dan masukan staf sebelum dan sesudah menggunakan templat. Kita juga perlu melihat apakah penghematan waktunya cukup berarti untuk diterapkan secara permanen, bukan sekadar mengalami sedikit perubahan.
+Aku akan mengajak Dimas dan staf menyepakati bagian jawaban yang wajib akurat dan bagian yang boleh diubah. Setelah itu, kita bisa menguji pendekatan tersebut dalam periode terbatas dan mengevaluasi hasilnya bersama.
+Kalau hasilnya tetap baik meskipun gaya jawaban berbeda, berarti templatnya cukup fleksibel. Namun, kalau manfaatnya tidak signifikan atau pelayanan terasa kaku, kita bisa memperbaikinya tanpa harus memaksakan penerapan permanen.
+Menurutku, yang perlu distandardisasi adalah ketepatan informasi, bukan cara setiap staf berkomunikasi dengan pelanggan.
+
+**AI014 — Retest: perbandingan yang adil**
+
+Aku suka prinsip bahwa yang perlu distandardisasi adalah ketepatan informasi, bukan gaya komunikasi staf. Dengan begitu, staf tetap punya ruang untuk melayani pelanggan secara personal.
+
+Aku ingin mencoba pendekatan itu. Namun, aku masih punya satu kekhawatiran: kalau setiap staf boleh menyesuaikan jawaban, bagaimana kita tahu bahwa perbedaan hasil berasal dari templat, bukan dari perbedaan pengalaman atau cara kerja masing-masing staf?
+
+Aku tidak ingin membuat prosedur pengukuran yang terlalu rumit, tetapi aku juga tidak ingin mengambil keputusan permanen hanya berdasarkan kesan bahwa pelayanan terasa lebih cepat.
+
+Bagaimana kamu akan membandingkan hasil penggunaan templat secara adil, tanpa membatasi kebebasan staf atau menambah pekerjaan administratif yang berlebihan?
+
+**U014 — Sampel pembanding**
+
+Menurutku, kita bisa membandingkan pertanyaan sejenis yang ditangani staf yang sama, sebelum dan sesudah menggunakan templat. Dengan begitu, perbedaan pengalaman antarstaf tidak terlalu memengaruhi hasil. Kita cukup mengambil beberapa sampel percakapan dan mencatat perkiraan waktu menjawab serta ketepatan informasinya, tanpa membuat laporan untuk setiap pesan.
+Staf tetap bebas menyesuaikan gaya bahasa, selama informasi pentingnya akurat. Kita juga bisa meminta masukan singkat tentang kemudahan penggunaan templat.
+Kalau hasilnya menunjukkan perbaikan yang konsisten dan beban kerja tidak bertambah, kita bisa mempertimbangkan penerapan lebih luas. Kalau datanya belum cukup atau hasilnya berbeda-beda, kita perlu mengevaluasi lebih lanjut sebelum mengambil keputusan permanen.
+Menurutku, pengukuran harus cukup adil untuk mendukung keputusan, tetapi tidak sampai membuat prosesnya lebih merepotkan daripada masalah yang ingin diselesaikan.
+
+**AI015 — Retest: perubahan manual untuk informasi stok**
+
+Cara membandingkan pertanyaan sejenis yang ditangani staf yang sama cukup masuk akal. Aku juga setuju bahwa kita tidak perlu mencatat setiap pesan jika sampel yang dipilih sudah cukup untuk memberikan gambaran awal.
+
+Aku mulai merasa lebih yakin karena kamu tetap mempertimbangkan keterbatasan waktu kami. Namun, ada satu hal lagi yang ingin kupastikan. Misalnya, setelah uji coba diperluas, seorang staf menemukan bahwa templat memberikan informasi stok yang sudah tidak sesuai. Staf tersebut mengubah jawabannya secara manual, tetapi perubahan itu membuat hasil pengukuran menjadi berbeda dari templat awal.
+
+Bagaimana kamu akan menangani kejadian tersebut agar kesalahan bisa dicegah, staf tetap bisa mengambil keputusan saat melayani pelanggan, dan hasil evaluasi tetap bisa dipercaya?
+
+**U015 — Mengelola perubahan manual**
+
+Menurutku, staf tetap harus boleh mengubah jawaban jika menemukan informasi stok yang sudah tidak sesuai. Ketepatan informasi pelanggan lebih penting daripada mengikuti templat secara kaku.
+Aku akan menyarankan agar perubahan tersebut dicatat secara sederhana sebagai templat yang perlu diperbarui, bukan dianggap sebagai kesalahan staf. Dimas kemudian memeriksa sumber informasi stok dan memperbarui templat agar kesalahan serupa tidak terulang.
+Untuk evaluasi, kita membedakan jawaban yang menggunakan templat awal dan jawaban yang perlu diubah. Dengan begitu, kita bisa menilai manfaat templat sekaligus melihat seberapa sering templat gagal mengikuti kondisi sebenarnya.
+Menurutku, templat harus menjadi alat bantu, bukan pengganti penilaian staf. Kalau perubahan manual sering diperlukan, itu justru bukti bahwa templat perlu diperbaiki sebelum diterapkan lebih luas.
+
+## Refleksi akhir
+
+**AI016 — Pertanyaan lesson learned**
+
+Aku setuju. Kalau staf harus mengabaikan informasi yang mereka tahu sudah tidak akurat hanya demi mengikuti templat, justru itu bisa merugikan pelanggan. Aku juga suka bahwa perubahan manual bisa menjadi bahan untuk memperbaiki sistem, bukan sekadar dianggap sebagai penyimpangan.
+
+Dari pengujian ini, aku melihat bahwa templat dapat membantu, tetapi tetap membutuhkan pemeriksaan informasi dan penilaian manusia. Aku bersedia mempertimbangkan penerapan yang lebih luas jika hasilnya konsisten, informasi tetap akurat, dan staf merasa terbantu.
+
+Sebelum kita menyimpulkan, aku ingin mendengar pendapatmu sebagai orang yang merancang pendekatan ini.
+
+Setelah melalui simulasi awal dan retest, apa pelajaran terpenting yang kamu dapat tentang menawarkan solusi TI atau AI kepada pengguna yang kritis? Apa yang akan kamu pertahankan dan apa yang akan kamu ubah dalam pendekatanmu berikutnya?
+
+**U016 — Refleksi akhir mahasiswa**
+
+Menurutku, pelajaran terpentingnya adalah menawarkan solusi TI atau AI bukan soal meyakinkan pengguna bahwa teknologi itu berguna, tetapi membuktikan apakah teknologi tersebut benar-benar menyelesaikan masalah mereka. Aku belajar bahwa data memang penting, tetapi pengalaman pengguna juga nggak boleh diabaikan. Solusi yang terlihat berhasil secara angka belum tentu cocok jika justru menambah beban kerja atau membuat pelayanan menjadi kaku.
+Hal yang akan aku pertahankan adalah pendekatan berbasis bukti, uji coba bertahap, dan keterlibatan pengguna dalam pengambilan keputusan. Aku juga akan tetap memberi ruang untuk menghentikan solusi jika manfaatnya tidak sebanding dengan biaya dan usaha yang dibutuhkan.
+Hal yang akan aku ubah adalah caraku menggali kebutuhan sebelum menawarkan solusi. Sebelumnya, aku cenderung lebih cepat memikirkan indikator dan tahapan pengujian daripada menggali preferensi pengguna secara mendalam. Ke depannya, aku ingin melibatkan pengguna sejak awal untuk menentukan masalah prioritas, batasan solusi, dan kriteria keberhasilan bersama.
+Menurutku, teknologi yang baik bukan teknologi yang membuat pengguna harus menyesuaikan diri dengan sistem, tetapi teknologi yang bisa menyesuaikan diri dengan kebutuhan pengguna tanpa mengorbankan ketepatan dan kualitas kerja mereka.
+
+**U017 — Konfirmasi akhir mahasiswa**
+
+ya
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Hasil tujuan: tercapai pada tingkat rencana simulasi.** Mahasiswa berhasil mengembangkan rencana evaluasi yang berpusat pada masalah, tidak langsung mendorong AI, dan mengarah pada uji coba templat jawaban selama dua minggu. Rencana mencakup indikator, pembagian tanggung jawab, pemeriksaan manusia, penanganan kesalahan, umpan balik staf, dan opsi berhenti. Belum ada bukti bahwa uji coba nyata telah dilakukan atau menghasilkan perubahan bisnis.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Mahasiswa menduga masalah pertanyaan berulang dan pesanan terlewat mungkin layak diselidiki, tetapi belum diketahui dampak dan besarnya. | Mempertahankan kesimpulan bahwa teknologi hanya layak bila manfaatnya berarti dan tidak melebihi biaya, risiko, atau beban kerja. | U001, U004, U008, U016 | Pernyataan mahasiswa dan rencana dalam simulasi; bukan hasil bisnis nyata |
+| Attitude | Berhati-hati terhadap klaim teknologi dan ingin memahami kondisi Dimas sebelum memberi rekomendasi. | Konsisten menghormati otonomi Dimas dan staf serta mengakui bahwa penghentian solusi dapat menjadi keputusan tepat. | U001, U007–U009, U016 | Sikap yang ditunjukkan dalam teks; tidak membuktikan motif batin |
+| Knowledge | Merencanakan pengumpulan data awal dan pembandingan sebelum-sesudah. | Memperinci faktor pengganggu, perbandingan pertanyaan sejenis, kendali manusia, pencatatan perubahan manual, dan keterbatasan kesimpulan. | U002–U005, U010, U014–U015 | Demonstrasi penalaran dalam kasus simulasi |
+| Skill | Rencana awal terstruktur, tetapi preferensi staf belum digali secara eksplisit sebelum merancang metrik dan tahapan. | Dalam retest, mampu menyeimbangkan indikator terukur, kebebasan gaya komunikasi, perbandingan adil, dan pembaruan templat. | U011–U016 | Demonstrasi respons pada skenario hipotetis; transfer ke konteks nyata belum diuji |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+**Profil simulasi target (diungkapkan untuk evaluasi, bukan sebagai fakta tentang orang nyata):** Dimas K3-04 digambarkan skeptis terhadap klaim akurasi/manfaat; mampu menganalisis, tetapi membutuhkan data, metrik, dan batas solusi yang jelas; waktu implementasinya terbatas. Ia ingin menilai hasil sendiri dan menjaga kendali. Sikap kritis tidak otomatis berarti menolak teknologi.
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| AI002–U002 | Kebutuhan informasi awal belum tercatat; Dimas menjelaskan WhatsApp, pertanyaan berulang, dan pesanan yang kadang tertumpuk. | Mengusulkan baseline untuk frekuensi, waktu, alur pesanan, dampak, dan batasan. | Dimas menjelaskan konteks operasional dan meminta cara mengumpulkan data. | K: konteks mulai terbuka; A: kesediaan berbagi informasi tampak meningkat, tetapi belum ada keputusan teknologi. | Pertahankan pertanyaan berbasis masalah, bukan fitur. |
+| AI003–U003 | Kendala waktu dan risiko staf merasa disalahkan muncul eksplisit. | Memanfaatkan catatan yang sudah ada, mengambil sampel, dan menjelaskan tujuan non-punitif. | Dimas menyetujui pendekatan yang lebih realistis. | A: kekhawatiran dipahami; K: data tidak harus sangat rinci. | Menjaga transparansi dan menghindari pencatatan berlebihan. |
+| AI004–U004 | Banyak pertanyaan tidak otomatis berarti masalah prioritas. | Memisahkan frekuensi, dampak, dan usaha; menetapkan indikator sebelum pengujian. | Dimas mempertimbangkan uji coba kecil tetapi menanyakan risiko akurasi dan kendali. | K meningkat pada cara memprioritaskan; S masih membutuhkan pengamanan praktis. | Menetapkan kriteria keputusan sebelum uji coba. |
+| AI005–U005 | Dimas khawatir harga/stok salah dan staf bergantung pada sistem. | Mengusulkan templat, sumber data terverifikasi, eskalasi, dan pemeriksaan manusia. | Dimas menerima logika, lalu mengangkat beban staf. | A: respons lebih terbuka; K: peran alat bantu lebih jelas; S: kebutuhan waktu tetap ada. | Mengurangi otomatisasi dan menyederhanakan alur. |
+| AI006–U006; AI007–U007 | Waktu pendampingan dan keterlibatan staf menjadi hambatan utama. | Membagi tanggung jawab, membuat panduan singkat, mengajak staf menyepakati indikator, dan memberi hak mengubah/menghentikan uji coba. | Dimas menyebut rencana lebih realistis dan menekankan pengalaman staf. | A: merasa dilibatkan dan tetap berwenang; S: ada langkah yang dapat dijalankan. | Menyeimbangkan data dengan pengalaman pelaksana. |
+| AI008–U008; AI009–U009 | Hasil bisa marginal; biaya dan tanggung jawab perlu jelas. | Membuka opsi lanjut, revisi, berhenti; menetapkan tanggung jawab, durasi dua minggu, dan jalur kembali ke cara lama. | Dimas merasa lebih tenang, tetapi mengangkat faktor jumlah pelanggan. | A: kepercayaan simulatif meningkat; K: perlu kontrol faktor pengganggu. | Membuat perbandingan yang sebanding dan membatasi lingkup. |
+| AI010–U010 | Jumlah pelanggan berubah antarperiode. | Membandingkan waktu berdasarkan jumlah pertanyaan dan sampel pertanyaan sejenis saat ramai/sepi. | Dimas mengakui perbandingan lebih masuk akal, lalu mengangkat preferensi staf. | K: kesimpulan harus mempertimbangkan konteks; kebutuhan preferensi staf menjadi lebih jelas. | Menggali pengalaman pengguna lebih awal. |
+| AI011–U011 | Staf khawatir gaya komunikasi menjadi kaku. | Menganggap masukan staf bagian dari evaluasi, mengusulkan revisi dan uji sampel. | Dimas menerima pendekatan yang tidak mengabaikan data maupun pengalaman staf. | A: staf diperlakukan sebagai mitra; K: indikator tidak menghapus aspek layanan. | Standardisasi informasi, bukan gaya bahasa. |
+| AI013–U013; AI014–U014 | Retest: perlu mengukur hasil meskipun staf menyesuaikan gaya jawaban. | Menentukan fakta yang wajib akurat, membandingkan pertanyaan sejenis oleh staf yang sama, mengambil sampel, dan mengumpulkan umpan balik singkat. | Dimas menyatakan cara ini cukup masuk akal. | Demonstrasi K/S: mahasiswa menerjemahkan prinsip ke rancangan pengukuran yang lebih adil. | Menjaga sampel dan beban administratif tetap terbatas. |
+| AI015–U015 | Retest: informasi stok di templat dapat kedaluwarsa dan perlu perubahan manual. | Membolehkan staf mengoreksi, mencatat perubahan sederhana, memeriksa sumber stok, dan membedakan jawaban standar dari yang diubah. | Dimas menerima bahwa perubahan manual bisa menjadi bahan perbaikan. | K: kesalahan sistem dipandang sebagai sinyal perbaikan; S: kendali staf tetap ada. | Gunakan kejadian perubahan sebagai indikator kebutuhan pemeliharaan templat. |
+
+### Perbandingan dugaan awal mahasiswa dengan profil target
+
+Dugaan awal U001 cukup sesuai dengan profil simulasi: mahasiswa menyebut bahwa Dimas memerlukan pengurangan pertanyaan berulang dan pesanan terlewat, bersikap kritis, serta ingin mempertahankan kendali. Dalam percakapan, mahasiswa tidak memperlakukan sikap kritis sebagai penolakan dan terus menguji kendala melalui pertanyaan dan skenario. Kecocokan ini adalah penilaian atas profil simulasi yang ditetapkan, bukan validasi psikologis seseorang di dunia nyata.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U001; U003 | Mahasiswa menyatakan tidak ingin menjanjikan manfaat tanpa bukti dan ingin pencatatan tidak menyalahkan staf. | Dimas membagikan alur kerja dan kendala yang belum terukur. | Awal: sedang; respons simulasi menjadi lebih terbuka. | Ada bukti keterbukaan yang ditampilkan dalam teks, tetapi tidak mengukur perasaan nyata. |
+| U005–U007 | Mahasiswa menekankan kendali manusia, keterlibatan staf, dan hak mengubah atau menghentikan uji coba. | Dimas menyatakan pendekatan lebih realistis dan ingin pengalaman staf dipertimbangkan. | Kepercayaan simulatif: sedang menuju tinggi; didukung pernyataan Dimas bahwa ia lebih nyaman/tenang. | Kepercayaan tidak otomatis menghilangkan kendala waktu, risiko, atau kebutuhan data. |
+| U008–U010 | Mahasiswa bersedia menghentikan uji coba bila manfaat tidak sepadan dan menyepakati batasan jelas. | Dimas mempertimbangkan uji coba dan menambahkan faktor perubahan jumlah pelanggan. | Keterbukaan meningkat; Dimas mengajukan keberatan lebih rinci. | Hubungan profesional menjadi lebih kolaboratif, tetapi belum ada komitmen implementasi nyata. |
+| U011; U016 | Mahasiswa menerima preferensi staf sebagai bagian hasil dan merefleksikan bahwa kebutuhan perlu digali lebih awal. | Dimas menerima gagasan fleksibilitas dan pengujian revisi. | Merasa dipahami/dipedulikan: sedang–tinggi dalam simulasi berdasarkan respons verbal. | Ini adalah inferensi dari teks dan roleplay, bukan pengukuran psikometri atau bukti ketulusan batin. |
+
+Pesan kepedulian yang paling terlihat diwujudkan melalui tindakan konkret: tidak memaksakan AI, tidak menyalahkan staf, menjaga opsi kembali ke proses lama, serta memberi ruang bagi masukan pengguna. Tidak ada ungkapan afeksi personal eksplisit; dalam konteks profesional ini, perhatian tampak terutama melalui transparansi, pembagian tanggung jawab, dan penghormatan terhadap pilihan.
+
+## Uji ulang dan pembelajaran
+
+Retest memperkenalkan dua kendala baru yang relevan: (1) kebebasan staf menyesuaikan jawaban dapat memengaruhi keterbandingan hasil, dan (2) templat dapat memuat informasi stok yang tidak lagi akurat. Mahasiswa mengusulkan pembandingan pertanyaan sejenis yang ditangani staf yang sama, sampling terbatas, pencatatan ringkas, serta pemisahan antara jawaban yang memakai templat awal dan yang diubah manual (U013–U015).
+
+Respons retest menunjukkan penerapan yang lebih konkret dari prinsip awal. Mahasiswa menjaga akurasi informasi di atas kepatuhan kaku terhadap templat, dan memperlakukan koreksi manual sebagai petunjuk untuk memperbaiki templat. Namun, efektivitas rancangan ini belum dibuktikan melalui data nyata. Belum ada uji sistem yang benar-benar berjalan.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U001: “mencari tahu apakah pendekatan TI atau AI memang bisa memberikan hasil yang lebih baik”; U004: “membedakan antara masalah yang sering terjadi dan masalah yang benar-benar berdampak besar.” | Tujuan berfokus pada masalah pelanggan, bukan menjual teknologi; konteks, biaya, staf, risiko, dan pembanding dibahas. |
+| Persepsi dan validasi profil/status | 4 | U001: “aku nggak mau langsung menganggap sikap kritisnya sebagai penolakan”; U007: “pengalaman orang yang menjalankan proses sehari-hari juga merupakan bukti yang penting.” | Dugaan awal dinyatakan sebagai dugaan, kebutuhan digali bertahap, dan respons disesuaikan dengan kendala yang muncul. |
+| Pemilihan dan urutan repertoar | 4 | U002–U004: pengumpulan baseline, sampel sederhana, dampak dan prioritas; U005: templat dan pemeriksaan manusia. | Repertoar bergerak dari diagnosis masalah ke indikator, pengamanan, rencana tindakan, dan evaluasi tanpa mendorong AI secara prematur. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U006: “solusi yang baik bukan hanya terbukti bermanfaat, tetapi juga tidak membebani orang yang menggunakannya”; U009: “semua pihak harus menyepakati batasan dan tanggung jawab sejak awal.” | Penjelasan terstruktur, konsisten dengan penghormatan pada kendali pengguna, dan menawarkan bantuan konkret. Catatan: pada U006, kata “kamu” merujuk pada Dimas untuk tanggung jawab memeriksa harga/stok, tetapi redaksinya dapat dibuat lebih eksplisit agar pembagian tugas tidak ambigu. |
+| Evaluasi dan adaptasi | 4 | U010: “kalau datanya belum cukup ... kita tidak perlu memaksakan kesimpulan”; U014–U015 tentang sampel adil dan perubahan manual. | Mahasiswa mempertimbangkan faktor pengganggu, pengalaman staf, kesalahan informasi, dan opsi revisi/berhenti. |
+| Refleksi dan lesson learned | 4 | U012: mengakui preferensi staf belum digali lebih awal; U016: “aku ingin melibatkan pengguna sejak awal untuk menentukan masalah prioritas, batasan solusi, dan kriteria keberhasilan bersama.” | Refleksi menyebut kekurangan spesifik, bukti dalam percakapan, dan perubahan pendekatan berikutnya. |
+
+**Nilai usulan AI:** 23/24 × 100 = **95,8/100**. Nilai ini adalah usulan berbasis transkrip untuk moderasi dosen, bukan nilai resmi. Dimensi persepsi/status diberi 4 karena mahasiswa secara eksplisit mengajukan dugaan awal, menghindari pelabelan, dan memvalidasi kebutuhan lewat rangkaian pertanyaan dan penyesuaian. Penilaian ini tidak mengukur kualitas implementasi nyata. Nilai keseluruhan UTS lintas lima sesi tidak dihitung di laporan sesi ini.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa menyimpulkan bahwa menawarkan solusi TI/AI bukan tentang meyakinkan pengguna bahwa teknologi berguna, melainkan membuktikan apakah teknologi menyelesaikan masalah yang nyata. Data tetap penting, tetapi pengalaman pengguna tidak boleh diabaikan; hasil angka yang tampak baik belum tentu menunjukkan keberhasilan jika beban kerja meningkat atau pelayanan terasa kaku.
+
+Hal yang ingin dipertahankan adalah pendekatan berbasis bukti, uji coba bertahap, pelibatan pengguna dalam keputusan, dan kesediaan menghentikan solusi jika manfaat tidak sebanding dengan biaya serta usaha. Hal yang ingin diubah adalah menggali preferensi pengguna lebih awal. Mahasiswa menyadari bahwa ia lebih cepat memikirkan indikator dan tahapan pengujian daripada menanyakan bagaimana staf ingin mempertahankan gaya komunikasi mereka.
+
+Refleksi ini konsisten dengan episode U011, ketika keberatan staf tentang gaya pelayanan baru dibahas setelah Dimas mengangkatnya. Pelajaran yang ditarik mahasiswa adalah melibatkan pengguna sejak awal untuk menetapkan prioritas, batas solusi, dan kriteria keberhasilan. Kutipan refleksi di atas merupakan ringkasan yang setia pada jawaban mahasiswa di U016.
+
+## Tindak lanjut dan batas bukti
+
+Rencana tindak lanjut dalam simulasi adalah menyepakati templat, indikator, batasan, tanggung jawab, dan kondisi penghentian bersama Dimas serta staf; melakukan uji coba dua minggu tanpa biaya tambahan atau perubahan di luar kesepakatan; memeriksa hasil dengan sampel pertanyaan sejenis; dan mengevaluasi manfaat, akurasi, beban kerja, serta masukan staf. Jika hasil tidak meyakinkan, uji coba dapat diperbaiki, dipersempit, diperpanjang secara terbatas, atau dihentikan.
+
+Tindakan tersebut masih berupa rencana di dalam simulasi, bukan pelaksanaan nyata. Percakapan teks tidak menilai prosodi atau bahasa tubuh. Respons Dimas adalah respons karakter simulasi dan tidak membuktikan perubahan perilaku pelanggan nyata. Kesimpulan tentang rasa aman dan kepercayaan hanya berdasarkan ungkapan yang terlihat dalam transkrip. Skor di atas adalah usulan AI dan memerlukan moderasi dosen.

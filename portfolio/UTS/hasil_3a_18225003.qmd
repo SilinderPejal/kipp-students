@@ -1,0 +1,327 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Erin Cherryl Angela |
+| NIM | 18225003 |
+| Kelas dan tanggal | Kelas 01; 11 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; penugasan sesuai `PENUGASAN.md` |
+| Modalitas | Teks; berdasarkan percakapan tertulis |
+| Kasus nyata/fiktif | Kasus simulasi/fiktif |
+| Kelengkapan transkrip | Transkrip di bawah disusun dari percakapan sesi yang tersedia dan ringkasan konteks sesi. Beberapa pertanyaan fasilitator awal tidak tersedia sebagai kutipan verbatim; bagian tersebut tidak direka sebagai kutipan langsung. Respons mahasiswa dan respons Ali yang tersedia dicantumkan sebagaimana tersimpan. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Ali mengelola usaha dengan pertanyaan pelanggan berulang melalui WhatsApp dan pesanan yang kadang tertumpuk atau terlewat. Staf terbatas, anggaran terbatas, dan Ali belum yakin AI diperlukan. Tujuan mahasiswa adalah menggali kebutuhan, menawarkan solusi TI/AI yang sesuai, dan mencapai keputusan atau rencana uji coba yang konkret tanpa memaksakan teknologi yang tidak diperlukan.
+
+Indikator keberhasilan yang direncanakan: berkurangnya waktu untuk menjawab pertanyaan berulang, informasi yang dikirim tetap akurat, pesanan lebih mudah dilacak dan lebih jarang terlewat, serta staf menilai alur kerja tetap wajar. Kesepakatan akhir berupa uji coba templat jawaban, latihan label WhatsApp menggunakan pesanan contoh, lalu evaluasi sebelum memutuskan penggunaan jangka panjang. Uji coba nyata belum dilaporkan telah dilakukan.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: membantu usaha melalui perbaikan proses. Ancaman: solusi dapat menambah biaya, kerumitan, dan beban staf. Mahasiswa menilai pendekatan sederhana lebih sesuai sebagai langkah awal. | U001, U004, U007 | Dugaan/penalaran mahasiswa dalam teks |
+| Attitude | Berorientasi pada kebutuhan pengguna, berhati-hati terhadap pemaksaan AI, dan bersedia mengevaluasi manfaat. | U001, U004, U007 | Teramati dalam respons tertulis |
+| Knowledge | Memahami beberapa pilihan dasar seperti templat jawaban, spreadsheet, label WhatsApp, dan indikator uji coba; menyadari perlu memvalidasi alur sebelum memilih sistem lebih kompleks. | U004, U007, U009 | Pengetahuan yang didemonstrasikan dalam teks; tidak diuji secara teknis |
+| Skill | Menggali kebutuhan, merancang uji coba bertahap, menentukan tanggung jawab dan indikator, serta menyesuaikan rencana terhadap kekhawatiran baru. | U002, U004, U006, U008, U010 | Demonstrasi komunikasi/perencanaan; pelaksanaan nyata belum teramati |
+| Preferensi/MBTI jika dilaporkan | Tidak ada laporan MBTI atau preferensi pribadi mahasiswa yang eksplisit. | — | Tidak diketahui; tidak didiagnosis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa mengambil peran sebagai calon pemberi solusi yang menghormati keterbatasan pemilik usaha dan staf serta menghindari mempermalukan staf. | U004, U006, U008, U010 | Interpretasi perilaku dalam konteks profesional |
+
+## Dugaan awal profil target dan rencana
+
+Sebelum simulasi, mahasiswa menduga Ali membutuhkan proses yang lebih teratur tetapi belum tentu memerlukan AI. Mahasiswa ingin memvalidasi pola pertanyaan, cara pencatatan pesanan, keterbatasan staf/perangkat/waktu, dan kekhawatiran terhadap teknologi. Ini merupakan dugaan mahasiswa sebelum mengetahui respons bertahap Ali, bukan kesimpulan psikologis.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Memahami masalah usaha dan menyepakati uji coba yang realistis | Pastikan kebutuhan, biaya, akurasi, dan kemampuan staf | Menggali konteks, mengklarifikasi, menawarkan opsi | Rencana dengan cakupan, tanggung jawab dan indikator |
+| Attention | Ali belum yakin solusi teknologi akan membantu | A: akui keraguan dan hormati pilihan | Pertanyaan terbuka mengenai proses dan kekhawatiran | Ali bersedia menjelaskan masalah lebih lengkap |
+| Interest | Pertanyaan berulang dan pesanan terlewat mengganggu saat ramai | K: hubungkan pilihan dengan masalah nyata dan batas solusi | Menawarkan opsi sederhana tanpa klaim berlebihan | Ali dapat membandingkan pilihan yang relevan |
+| Desire | Ali ingin perbaikan tetapi khawatir beban staf/biaya | A/K/S: tunjukkan langkah kecil dan dukungan | Uji coba terbatas, masukan staf, indikator | Ali mempertimbangkan uji coba yang bisa dibatalkan/disesuaikan |
+| Action | Perlu keputusan dan rencana awal | S: perlu latihan, pemilik tanggung jawab, ukuran keberhasilan | Menetapkan langkah, durasi, tanggung jawab dan evaluasi | Komitmen uji coba konkret; hasil nyata belum boleh diasumsikan |
+
+# C) Skrip Percakapan
+
+**Catatan transkrip:** U = pesan mahasiswa; AI = respons asisten. Pada tahap simulasi, respons asisten yang diberi label Ali merupakan pemeranan tokoh; pada tahap evaluasi/refleksi, asisten bertindak sebagai fasilitator. Pertanyaan fasilitator yang redaksi persisnya tidak tersedia dalam riwayat tersaji tidak direka sebagai kutipan langsung. Respons mahasiswa dan respons Ali yang tersedia disalin dari percakapan sesi.
+
+## Perencanaan awal
+
+**U001 — Tujuan, dugaan awal, dan rencana**
+
+Tujuan utamaku adalah memahami masalah yang dihadapi Ali dan mencari solusi yang sesuai dengan kebutuhan serta kemampuan usahanya. Aku ingin membantu mengurangi pertanyaan pelanggan yang berulang dan pesanan yang tercecer tanpa menambah beban kerja atau biaya yang nggak diperlukan.
+
+Dugaan awalku, Ali mungkin membutuhkan sistem yang lebih teratur untuk menjawab pertanyaan pelanggan dan mencatat pesanan. Tapi, aku nggak mau langsung menganggap AI sebagai solusi terbaik karena bisa saja masalahnya cukup diselesaikan dengan templat jawaban atau pencatatan pesanan yang lebih terpusat. Aku juga ingin memahami alasan Ali ragu mencoba solusi teknologi, apakah karena biaya, keterbatasan waktu, atau belum yakin dengan manfaatnya.
+
+Aku akan mulai dengan menanyakan bagaimana Ali menangani pertanyaan dan pesanan selama ini, masalah apa yang paling sering terjadi, dan apa dampaknya terhadap usahanya. Setelah itu, aku akan mencari tahu kebutuhan dan keterbatasan yang perlu dipertimbangkan sebelum menawarkan beberapa pilihan solusi. Menurutku, yang paling penting bukan menggunakan teknologi secanggih mungkin, tetapi menemukan solusi yang benar-benar membantu dan realistis untuk diterapkan.
+
+## Simulasi awal
+
+**AI001 — Ali, pembukaan simulasi**
+
+Kita mulai simulasi Sesi 3a — Menawarkan Solusi TI dan AI. Ali mengelola usaha yang menghadapi masalah pertanyaan pelanggan berulang dan pesanan yang terkadang tercecer. Tenaga yang tersedia terbatas, dan Ali belum yakin apakah penggunaan AI benar-benar diperlukan.
+
+**Ali (K3-01):** “Terima kasih, tetapi saya belum yakin bisa melakukannya.”
+
+**U002 — Menggali kebutuhan dan kondisi**
+
+Menurutku, ada beberapa hal yang perlu kupahami dulu sebelum menentukan solusi. Pertama, bagaimana kamu dan staf menangani pertanyaan pelanggan serta mencatat pesanan selama ini, termasuk bagian mana yang paling sering membuat pekerjaan jadi berantakan. Kedua, seberapa sering masalah itu terjadi dan apa dampaknya terhadap pekerjaan kalian. Ketiga, aku ingin tahu berapa banyak staf yang terlibat, perangkat yang sudah digunakan, dan waktu yang tersedia untuk mempelajari sistem baru. Aku juga ingin memahami bagian mana yang paling kamu khawatirkan kalau menggunakan teknologi. Dari situ, kita bisa menentukan apakah cukup dengan memperbaiki cara kerja yang sudah ada atau memang membutuhkan sistem baru. Menurutku, solusi yang baik harus mempermudah pekerjaan kalian, bukan malah menambah kerumitan.
+
+**AI002 — Ali**
+
+Kalau selama ini, pelanggan biasanya menghubungiku lewat WhatsApp. Aku dan staf membalas pertanyaan yang sama berulang kali, misalnya soal harga, ketersediaan produk, dan cara pemesanan. Untuk pesanan, kami mencatatnya secara manual. Kadang-kadang, pesan pelanggan tertumpuk sehingga ada pesanan yang terlambat diproses atau terlewat.
+
+Masalahnya memang cukup mengganggu, terutama saat pelanggan ramai. Tapi stafku tidak banyak, dan kami sudah terbiasa dengan cara kerja sekarang. Aku khawatir kalau harus mempelajari sistem baru, pekerjaan malah semakin lambat. Aku juga belum punya anggaran besar untuk membeli perangkat atau membayar layanan tambahan.
+
+Kalau ada solusi sederhana yang bisa kami coba tanpa biaya besar, aku bersedia mempertimbangkannya.
+
+**U003 — Solusi awal**
+
+Menurutku, kita bisa mulai dari memperbaiki cara kerja yang sudah ada dulu, tanpa langsung menggunakan AI atau membeli layanan baru. Untuk pertanyaan yang sering berulang, kita bisa membuat templat jawaban berisi informasi harga, ketersediaan produk, dan cara pemesanan supaya staf nggak perlu mengetik jawaban yang sama terus-menerus. Untuk pesanan, kita bisa mencoba pencatatan terpusat menggunakan spreadsheet sederhana agar setiap pesanan lebih mudah dipantau dan nggak tertumpuk di WhatsApp.
+
+Aku ingin kita mencoba kedua cara itu dulu karena relatif mudah diterapkan dan nggak membutuhkan biaya besar. Kita juga bisa meminta masukan dari staf untuk memastikan sistemnya nggak malah memperlambat pekerjaan. Setelah dicoba, kita evaluasi apakah jumlah pertanyaan berulang yang perlu diketik berkurang dan apakah pesanan jadi lebih mudah dilacak. Kalau masih ada masalah yang belum teratasi, baru kita pertimbangkan solusi lain. Menurutku, kita nggak perlu langsung menggunakan teknologi yang rumit kalau cara sederhana saja sudah cukup membantu.
+
+**AI003 — Ali**
+
+Kedengarannya cukup masuk akal. Aku suka karena kita nggak harus langsung membeli sistem baru atau mempelajari teknologi yang rumit.
+
+Tapi aku masih punya sedikit kekhawatiran. Kalau menggunakan spreadsheet, stafku harus mencatat pesanan di tempat lain setelah menerima pesan WhatsApp. Aku takut mereka malah harus melakukan pekerjaan dua kali, apalagi ketika pelanggan sedang ramai. Aku juga belum yakin siapa yang harus bertanggung jawab memperbarui informasi harga dan ketersediaan produk pada templat jawaban.
+
+**U004 — Menyederhanakan uji coba dan tanggung jawab**
+
+Menurutku, kita perlu mengatur uji cobanya supaya nggak menambah terlalu banyak pekerjaan staf. Untuk pencatatan pesanan, kita bisa mulai dengan spreadsheet sederhana yang hanya berisi informasi penting, seperti nama pelanggan, pesanan, status, dan waktu pemesanan. Kita juga perlu menentukan satu orang yang bertanggung jawab memastikan semua pesanan tercatat, tanpa berarti orang itu harus mengerjakan semuanya sendiri. Kalau memungkinkan, pencatatan dilakukan sebagai bagian dari alur kerja yang sudah ada, bukan menambah langkah yang nggak perlu.
+
+Untuk templat jawaban, kita bisa menunjuk satu orang sebagai penanggung jawab pembaruan harga dan ketersediaan produk, lalu meminta staf mengonfirmasi informasi yang belum pasti sebelum mengirim jawaban kepada pelanggan. Dengan begitu, informasi yang diberikan tetap akurat.
+
+Aku menyarankan kita mencoba cara ini dalam skala kecil terlebih dahulu, misalnya selama beberapa hari saat jam operasional biasa. Kita bisa membandingkan apakah pesanan lebih jarang terlewat, waktu membalas pertanyaan berulang berkurang, dan staf merasa pekerjaannya lebih ringan atau justru bertambah. Kalau ternyata pencatatan ganda terlalu merepotkan, kita perlu menyederhanakan alurnya lagi. Menurutku, uji coba ini harus membantu kita menemukan cara kerja yang cocok untuk usahamu, bukan memaksa staf menyesuaikan diri dengan sistem yang malah menyulitkan.
+
+**AI004 — Ali**
+
+Aku suka ide mencoba dalam skala kecil terlebih dahulu. Kalau hanya beberapa hari, aku merasa lebih berani mencobanya tanpa khawatir harus langsung mengubah seluruh cara kerja usaha.
+
+Tapi aku masih belum yakin soal pencatatan pesanan. Kalau staf harus membuka WhatsApp, lalu berpindah ke spreadsheet untuk mencatat setiap pesanan, mungkin itu tetap terasa merepotkan saat pelanggan ramai. Aku juga khawatir kalau semua orang merasa bertanggung jawab memperbarui data, justru tidak ada yang benar-benar memastikan datanya lengkap.
+
+Aku bersedia mencoba templat jawaban lebih dulu. Untuk pencatatan pesanan, aku ingin memastikan alurnya sesederhana mungkin dan tanggung jawabnya jelas.
+
+**U005 — Memprioritaskan langkah awal dan evaluasi**
+
+Menurutku, kita bisa mulai dengan menguji templat jawaban selama beberapa hari terlebih dahulu, karena itu paling mudah diterapkan tanpa mengubah alur kerja secara besar-besaran. Ali bisa bertanggung jawab memastikan informasi harga dan ketersediaan produk tetap akurat, sedangkan staf menggunakan templat tersebut untuk menjawab pertanyaan pelanggan. Kalau ada informasi yang berubah, mereka bisa melaporkannya kepada Ali untuk diperbarui.
+
+Untuk pencatatan pesanan, aku nggak ingin langsung mewajibkan semua staf mencatat ulang setiap pesanan ke spreadsheet. Kita bisa mengamati dulu alur pemesanan yang sekarang dan mencari cara agar pencatatannya nggak menambah terlalu banyak pekerjaan. Kalau memang diperlukan, kita bisa menunjuk satu orang untuk memastikan pesanan tercatat lengkap, dengan pembagian tugas yang disepakati bersama.
+
+Setelah uji coba, kita evaluasi beberapa hal, seperti apakah waktu menjawab pertanyaan berulang berkurang, apakah informasi yang diberikan tetap akurat, dan apakah ada pesanan yang terlewat. Kita juga perlu meminta pendapat staf tentang apakah cara ini mempermudah atau justru menambah beban kerja mereka. Kalau hasilnya membantu dan mudah dijalankan, kita bisa melanjutkannya. Kalau belum, kita perbaiki alurnya terlebih dahulu sebelum mempertimbangkan teknologi lain. Menurutku, solusi yang layak bukan cuma yang berhasil secara teknis, tetapi juga yang bisa digunakan secara konsisten tanpa menyulitkan orang yang menjalankannya.
+
+**AI005 — Ali**
+
+Aku rasa rencana itu cukup realistis. Aku setuju kita mencoba templat jawaban selama beberapa hari terlebih dahulu, sementara untuk pencatatan pesanan kita amati dulu supaya tidak menambah pekerjaan yang tidak perlu.
+
+Aku bisa memastikan informasi harga dan ketersediaan produk tetap akurat. Staf juga bisa mulai menggunakan templat untuk pertanyaan yang sering muncul, lalu memberi tahu kalau ada informasi yang perlu diperbarui.
+
+Tapi aku masih ingin tahu satu hal. Kalau setelah beberapa hari ternyata templat jawaban membantu, tetapi pesanan masih sering terlewat, bagaimana kita menentukan langkah selanjutnya tanpa harus langsung mengeluarkan biaya untuk sistem baru?
+
+**U006 — Rencana jika masalah pesanan berlanjut**
+
+Menurutku, kalau templat jawaban sudah membantu tetapi pesanan masih sering terlewat, kita perlu mengevaluasi alur pencatatan pesanan secara terpisah. Kita bisa melihat dulu kenapa pesanan masih terlewat, apakah karena pesan WhatsApp tertumpuk, tidak ada penanda pesanan yang belum diproses, atau tidak jelas siapa yang bertanggung jawab menindaklanjutinya.
+
+Sebelum membeli sistem baru, kita bisa mencoba cara sederhana, misalnya menggunakan fitur label di WhatsApp untuk membedakan pesanan baru, sedang diproses, dan selesai. Kita juga bisa membuat satu daftar pesanan yang perlu ditindaklanjuti, dengan satu orang yang bertanggung jawab memastikan statusnya diperbarui. Tapi, kita perlu memastikan cara ini nggak justru membuat staf harus mencatat informasi yang sama berkali-kali.
+
+Setelah diuji, kita bandingkan jumlah pesanan yang terlewat dan beban kerja staf sebelum dan sesudah perubahan. Kalau masalahnya berkurang, kita bisa mempertahankan cara tersebut. Kalau masih sering terjadi, kita cari tahu bagian mana yang belum efektif sebelum mempertimbangkan alternatif lain. Menurutku, keputusan untuk menggunakan sistem baru sebaiknya didasarkan pada masalah yang benar-benar belum terselesaikan, bukan sekadar karena teknologi tersebut tersedia.
+
+**AI006 — Ali**
+
+Aku setuju. Aku suka kalau kita mencari tahu penyebab pesanan terlewat terlebih dahulu sebelum memutuskan menggunakan sistem baru. Fitur label WhatsApp mungkin bisa membantu, terutama kalau staf bisa langsung menandai status pesanan tanpa harus berpindah aplikasi.
+
+Aku bersedia mencoba cara itu setelah kita menyelesaikan uji coba templat jawaban. Tapi aku ingin memastikan staf juga setuju dengan alur tersebut dan tahu siapa yang perlu memperbarui status pesanan. Aku nggak ingin semua tanggung jawab akhirnya jatuh kepada satu orang saja.
+
+**U007 — Melibatkan staf dan memperjelas peran**
+
+Menurutku, kita bisa mengajak staf berdiskusi untuk mengetahui bagian mana dari alur kerja sekarang yang paling merepotkan dan meminta pendapat mereka tentang penggunaan label WhatsApp. Setelah itu, kita sepakati alur sederhana, misalnya pesanan baru diberi label Belum Diproses, lalu diubah menjadi Sedang Diproses dan Selesai sesuai perkembangannya.
+
+Untuk pembagian tanggung jawab, staf yang menerima pesanan bertanggung jawab memastikan pesanan tersebut tercatat dan statusnya diperbarui. Kalau pesanan dialihkan ke staf lain, harus jelas siapa yang mengambil alih dan siapa yang memperbarui statusnya. Kita juga bisa menunjuk satu orang untuk mengecek apakah masih ada pesanan yang belum ditindaklanjuti, tanpa menjadikan orang itu penanggung jawab atas semua pesanan.
+
+Sebelum diterapkan, kita perlu memastikan semua staf memahami dan menyetujui alurnya. Setelah dicoba, kita evaluasi apakah pesanan lebih jarang terlewat dan apakah cara ini benar-benar mempermudah pekerjaan. Menurutku, sistem yang baik bukan cuma punya pembagian tanggung jawab yang jelas, tetapi juga cukup sederhana untuk dijalankan secara konsisten oleh semua orang.
+
+**AI007 — Ali**
+
+Aku setuju dengan alur itu. Aku suka karena staf yang menerima pesanan tetap bertanggung jawab atas tindak lanjutnya, tetapi ada juga pengecekan supaya pesanan tidak terabaikan.
+
+Aku akan mengajak staf berdiskusi tentang penggunaan label WhatsApp dan meminta mereka mencoba alur tersebut setelah uji coba templat jawaban selesai. Aku juga akan memastikan setiap staf tahu kapan status pesanan harus diperbarui dan siapa yang mengambil alih jika pesanan dialihkan.
+
+Sekarang aku mulai merasa lebih yakin bahwa kami bisa memperbaiki proses ini tanpa harus langsung membeli sistem baru. Tapi aku tetap ingin melihat hasil uji cobanya sebelum memutuskan apakah cara ini cukup efektif untuk digunakan dalam jangka panjang.
+
+## Evaluasi sementara
+
+**U008 — Evaluasi mahasiswa**
+
+Menurutku, kepercayaan dan kesiapan Ali untuk mencoba solusi teknologi sudah meningkat. Awalnya, Ali khawatir sistem baru justru membuat pekerjaan staf semakin rumit dan membutuhkan biaya tambahan. Sekarang, dia bersedia mencoba templat jawaban dan mempertimbangkan penggunaan label WhatsApp setelah melihat hasil uji coba pertama.
+
+Pendekatan yang paling membantu adalah ketika aku nggak langsung menyarankan AI atau sistem berbayar, tetapi mencoba memahami masalah dan keterbatasan usaha Ali terlebih dahulu. Aku juga menawarkan solusi secara bertahap dan melibatkan staf dalam menentukan alur kerja. Buktinya, Ali bersedia mencoba templat jawaban, mengajak staf berdiskusi, dan menyusun pembagian tanggung jawab untuk setiap pesanan. Dia juga mulai yakin bahwa masalah tersebut bisa diperbaiki tanpa langsung membeli sistem baru.
+
+Namun, menurutku, kepercayaan Ali belum berarti bahwa solusi yang ditawarkan pasti efektif. Dia masih ingin melihat hasil uji coba sebelum memutuskan apakah cara tersebut layak digunakan dalam jangka panjang. Ini menunjukkan bahwa dia mulai terbuka terhadap teknologi, tetapi tetap membutuhkan bukti manfaatnya.
+
+Sebelum melanjutkan ke uji ulang, aku perlu memperjelas cara mengukur keberhasilan uji coba, misalnya apakah pertanyaan berulang bisa dijawab lebih cepat, apakah pesanan lebih jarang terlewat, dan apakah beban kerja staf tetap wajar. Aku juga perlu memastikan bahwa pembagian tanggung jawab dan alur penggunaan label WhatsApp sudah dipahami oleh semua staf. Dengan begitu, evaluasi berikutnya nggak hanya berdasarkan kesan bahwa sistemnya membantu, tetapi juga berdasarkan hasil yang bisa diamati dan pengalaman orang yang menggunakannya.
+
+## Uji ulang
+
+**AI008 — Ali, kendala baru saat uji ulang**
+
+Aku sudah membicarakan rencana uji coba dengan staf. Mereka bersedia mencoba templat jawaban dan label WhatsApp, tetapi ada satu kendala baru. Salah satu staf mengatakan bahwa dia belum terbiasa menggunakan label dan khawatir salah mengubah status pesanan. Staf lainnya juga meminta contoh langsung sebelum mulai menggunakan cara baru ini.
+
+Aku sendiri belum terlalu yakin bisa menjelaskan langkah-langkahnya dengan benar. Aku ingin mencoba, tetapi aku takut kalau aku mengajarkan sesuatu yang belum kupahami sepenuhnya, pekerjaan staf malah jadi berantakan.
+
+**U009 — Latihan dan dukungan bertahap**
+
+Menurutku, kita nggak perlu langsung menerapkan semua fitur kalau Ali dan stafnya belum yakin cara menggunakannya. Kita bisa mulai dengan memastikan alur penggunaan label WhatsApp terlebih dahulu, lalu membuat panduan singkat yang berisi langkah-langkah dan contoh perubahan status pesanan. Aku juga bisa membantu menyiapkan contoh alurnya supaya Ali punya pegangan sebelum menjelaskannya kepada staf.
+
+Setelah itu, kita bisa mencoba alur tersebut bersama menggunakan beberapa pesanan contoh, bukan langsung menerapkannya pada semua pesanan pelanggan. Staf bisa berlatih mengubah status dari Belum Diproses menjadi Sedang Diproses dan Selesai, lalu mencoba mengalihkan pesanan ke staf lain. Kalau ada langkah yang membingungkan, kita perbaiki panduannya sebelum uji coba dilanjutkan.
+
+Menurutku, Ali nggak harus langsung menjadi ahli untuk mulai mencoba solusi ini. Yang penting, kita memastikan langkah-langkahnya sudah dipahami dan tidak berpura-pura yakin kalau masih ada yang belum jelas. Kita bisa mempelajarinya bersama, meminta staf mencoba secara bertahap, dan mengevaluasi kendalanya. Dengan begitu, staf punya kesempatan beradaptasi tanpa merasa dituntut langsung menguasai sistem baru.
+
+**AI009 — Ali**
+
+Aku merasa lebih tenang mendengar bahwa kami bisa belajar bersama dan mencoba menggunakan pesanan contoh terlebih dahulu. Panduan singkat itu juga bisa membantuku menjelaskan alurnya kepada staf tanpa harus menghafal semuanya.
+
+Tapi aku masih punya kekhawatiran lain. Kami terkadang menerima pesanan ketika sedang sangat sibuk, dan tidak semua staf punya waktu untuk mengikuti panduan setiap kali ada kendala. Aku juga belum tahu apakah semua staf akan konsisten menggunakan label setelah masa uji coba selesai.
+
+**U010 — Menjaga konsistensi tanpa menyalahkan staf**
+
+Menurutku, kita perlu membuat alurnya sesederhana mungkin supaya staf bisa menggunakannya tanpa harus terus-menerus melihat panduan. Kita bisa membuat panduan singkat dengan contoh yang mudah ditemukan, lalu menempelkan pengingat kecil tentang arti setiap label di tempat yang mudah diakses. Sebelum uji coba selesai, kita juga bisa meminta staf mencoba alur tersebut saat menangani pesanan biasa agar mereka terbiasa menggunakannya.
+
+Untuk memastikan penggunaannya konsisten, aku menyarankan agar pembaruan label menjadi bagian dari alur kerja saat menerima dan menyelesaikan pesanan, bukan tugas tambahan yang dilakukan belakangan. Kita bisa menentukan siapa yang memperbarui status ketika pesanan dialihkan, sehingga tidak ada kebingungan tentang tanggung jawabnya. Pengecekan juga sebaiknya dilakukan untuk menemukan pesanan yang mungkin terlewat dan memperbaiki alur kerja, bukan untuk menyalahkan staf.
+
+Setelah uji coba, kita bisa meminta masukan staf dan melihat apakah label benar-benar membantu mereka melacak pesanan. Kalau ada yang masih kesulitan atau merasa prosesnya terlalu merepotkan, kita perlu menyesuaikan cara kerjanya. Menurutku, konsistensi akan lebih mudah dibangun kalau sistemnya sederhana, tanggung jawabnya jelas, dan staf merasa dilibatkan, bukan diawasi.
+
+**AI010 — Ali**
+
+Aku setuju bahwa pengecekan sebaiknya membantu kami memperbaiki alur kerja, bukan mencari siapa yang salah. Aku juga suka ide menjadikan pembaruan label sebagai bagian dari proses menerima dan menyelesaikan pesanan.
+
+Setelah mendengar penjelasanmu, aku mulai merasa bahwa cara ini mungkin bisa dijalankan tanpa terlalu membebani staf. Aku ingin mencoba panduan singkat dan latihan menggunakan beberapa pesanan contoh terlebih dahulu.
+
+Namun, aku masih memikirkan situasi ketika staf lupa memperbarui label karena sedang sibuk. Aku tidak ingin satu pesanan terlewat hanya karena seseorang lupa melakukan satu langkah. Kalau hal itu terjadi selama uji coba, bagaimana kamu akan membantu kami memperbaiki prosesnya tanpa langsung menyalahkan staf atau menambah prosedur yang rumit?
+
+**U011 — Menanggapi kesalahan selama uji coba**
+
+Menurutku, kalau ada staf yang lupa memperbarui label saat sibuk, kita perlu mencari tahu kenapa langkah itu mudah terlewat, bukan langsung menganggap stafnya kurang teliti. Bisa jadi alurnya belum cukup praktis atau pembaruan statusnya terasa terpisah dari pekerjaan utama.
+
+Kita bisa mulai dengan mencoba satu pengingat sederhana, misalnya menjadikan pengecekan label sebagai bagian dari langkah terakhir saat menerima atau menyelesaikan pesanan. Kalau pesanan dialihkan ke staf lain, orang yang menerima pengalihan tersebut juga perlu memastikan statusnya diperbarui. Kita nggak perlu menambahkan banyak prosedur, cukup memperjelas langkah yang memang penting.
+
+Selama uji coba, kita bisa mencatat kapan pesanan terlewat dan mencari pola penyebabnya. Kalau masalahnya berulang, kita evaluasi apakah alurnya perlu disederhanakan atau tanggung jawabnya diperjelas. Aku juga akan meminta masukan staf karena mereka yang menjalankan prosesnya secara langsung. Menurutku, tujuan evaluasi bukan memastikan semua orang tidak pernah melakukan kesalahan, tetapi membuat alur kerja tetap bisa diandalkan meskipun kondisi sedang sibuk.
+
+**AI011 — Ali, hasil uji ulang simulasi**
+
+Aku setuju. Kalau ada pesanan yang terlewat, kami akan mencoba memahami penyebabnya terlebih dahulu dan memperbaiki alurnya bersama-sama. Aku juga akan meminta staf menyampaikan kesulitan yang mereka alami selama uji coba.
+
+Sekarang aku merasa lebih siap untuk mencoba langkah-langkah ini. Kami akan mulai dengan templat jawaban, lalu berlatih menggunakan label WhatsApp dengan beberapa pesanan contoh. Setelah itu, kami akan mencoba menerapkannya dalam pekerjaan sehari-hari dan mengevaluasi hasilnya berdasarkan jumlah pesanan yang terlewat, kemudahan penggunaan, serta masukan staf.
+
+Aku belum bisa memastikan bahwa cara ini akan menyelesaikan semua masalah, tetapi aku merasa lebih nyaman memulainya secara bertahap tanpa harus langsung membeli sistem baru.
+
+## Refleksi akhir
+
+**U012 — Refleksi mahasiswa**
+
+Menurutku, setelah mengetahui bahwa Ali dan stafnya belum terbiasa menggunakan teknologi, aku jadi lebih berhati-hati dalam menawarkan solusi. Awalnya, aku lebih fokus mencari cara untuk mengatasi pertanyaan pelanggan yang berulang dan pesanan yang terlewat. Setelah muncul kekhawatiran tentang penggunaan label WhatsApp, aku menyadari bahwa solusi yang terlihat sederhana belum tentu mudah diterapkan oleh orang yang menggunakannya. Karena itu, aku mulai mempertimbangkan proses belajar staf, kemudahan penggunaan, dan kemungkinan kesalahan selama uji coba.
+
+Pendekatan yang paling membantu adalah menawarkan penerapan secara bertahap, mulai dari templat jawaban, panduan singkat, hingga latihan menggunakan beberapa pesanan contoh. Aku juga menekankan bahwa kesalahan selama uji coba sebaiknya digunakan untuk mengevaluasi alur kerja, bukan untuk menyalahkan staf. Buktinya, Ali menjadi lebih siap mencoba solusi tersebut dan mulai menyusun rencana uji coba yang mencakup evaluasi jumlah pesanan yang terlewat, kemudahan penggunaan, dan masukan staf.
+
+Namun, menurutku, masih ada yang perlu diperbaiki dari caraku menawarkan solusi. Aku terkadang terlalu cepat memberikan saran sebelum mengetahui secara lengkap bagaimana alur kerja usaha Ali dan kemampuan stafnya. Misalnya, penggunaan label WhatsApp memang terlihat praktis, tetapi tetap perlu diuji untuk memastikan pembaruan status tidak menjadi pekerjaan tambahan yang merepotkan. Aku juga belum memiliki bukti bahwa solusi tersebut benar-benar akan mengurangi pesanan yang terlewat.
+
+Ke depannya, aku ingin lebih banyak menggali kebutuhan pengguna dan melibatkan mereka dalam menentukan solusi sejak awal. Aku juga perlu menetapkan indikator keberhasilan yang jelas dan memastikan setiap langkah bisa dijalankan sesuai kondisi mereka. Menurutku, menawarkan solusi TI bukan sekadar menemukan teknologi yang bisa menyelesaikan masalah, tetapi memastikan teknologi tersebut benar-benar berguna, mudah digunakan, dan sesuai dengan kebutuhan orang yang akan memakainya.
+
+## Konfirmasi ringkasan
+
+**AI012 — Konfirmasi mahasiswa**
+
+Asisten merangkum identitas, tujuan, hasil, dan refleksi, serta menyatakan bahwa skor evaluasi merupakan usulan AI untuk moderasi dosen, bukan nilai resmi.
+
+**U013 — Konfirmasi mahasiswa**
+
+ya
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai sebagian pada tingkat simulasi: mahasiswa menggali masalah, mengusulkan pilihan yang sebanding dengan keterbatasan usaha, dan merancang uji coba yang makin konkret. Ali dalam simulasi menyatakan lebih siap mencoba, tetapi hasil bisnis nyata belum diamati.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Mahasiswa menduga solusi sederhana mungkin cukup dan mengidentifikasi biaya/beban sebagai ancaman. | Rencana tetap berorientasi pada manfaat terukur, kesederhanaan dan pelibatan staf. | U001, U011–U012 | Penalaran mahasiswa; bukan hasil implementasi |
+| Attitude | Ali ragu dan khawatir perubahan menambah beban. | Ali menyatakan lebih nyaman mencoba secara bertahap. | AI001, AI003, AI007, AI011 | Perubahan karakter tokoh simulasi, bukan customer nyata |
+| Knowledge | Ali mengetahui masalah operasional, tetapi belum yakin langkah teknisnya. | Ali menerima rencana panduan, label, dan evaluasi; prosedur tetap perlu dipelajari. | AI002, AI008–AI011 | Pemahaman simulasi membaik; pengetahuan teknis belum diuji langsung |
+| Skill | Ali menyatakan belum yakin dapat menjelaskan langkah kepada staf. | Ali bersedia latihan dengan pesanan contoh; keterampilan praktik belum ditunjukkan. | AI008, AI009, AI011 | Kesiapan tokoh simulasi; tidak boleh disamakan dengan skill yang telah teruji |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| Pembukaan–penggalian (AI001–AI002; U002) | Kepercayaan awal rendah–sedang; Ali kemudian menjelaskan alur, biaya dan kekhawatiran secara rinci. | Pertanyaan tentang alur kerja, frekuensi masalah, staf, perangkat dan kekhawatiran. | Ali membuka informasi tentang WhatsApp, catatan manual, staf terbatas dan anggaran. | A: hambatan diungkap; K: kebutuhan mulai jelas. | Mahasiswa tidak langsung memaksakan AI. |
+| Opsi sederhana (U003–AI003) | Keterbukaan meningkat; Ali menyukai pilihan yang tidak membutuhkan sistem rumit, tetapi menyoroti pencatatan ganda. | Templat jawaban dan spreadsheet. | Ali menyampaikan keberatan operasional yang spesifik. | A membaik; K tentang kelayakan alur masih perlu klarifikasi. | Mahasiswa meninjau ulang cakupan rencana. |
+| Penyesuaian rencana (U004–U007; AI004–AI007) | Kepercayaan dan kesediaan mencoba meningkat; Ali setuju templat lebih dahulu dan ingin melibatkan staf. | Uji coba kecil, penanggung jawab, evaluasi, label dan diskusi staf. | Ali menerima rencana bertahap namun meminta bukti hasil. | A meningkat; K tentang langkah awal membaik; S belum terbukti. | Mahasiswa memisahkan templat dari pencatatan dan tidak mengklaim keberhasilan. |
+| Evaluasi sementara (U008) | Mahasiswa mengenali bahwa keterbukaan belum membuktikan efektivitas. | Evaluasi dengan bukti respons dan indikator teramati. | Mahasiswa mengusulkan ukuran waktu respons, pesanan terlewat, beban staf. | Diagnosis menjadi lebih berbasis bukti. | Perlu tetap membedakan rencana dari hasil aktual. |
+| Uji ulang dan latihan (AI008–AI011; U009–U011) | Ali menyatakan lebih tenang setelah ditawari latihan dan panduan; kekhawatiran konsistensi tetap muncul. | Panduan singkat, pesanan contoh, alur sederhana, perbaikan tanpa menyalahkan. | Ali menyepakati latihan dan menyatakan lebih siap mencoba. | A membaik; K prosedural terbantu oleh penjelasan; S praktik nyata masih belum teramati. | Mahasiswa merespons kekhawatiran baru dengan dukungan kecil dan evaluasi proses. |
+| Refleksi (U012) | Mahasiswa menyadari kecenderungan memberi saran terlalu cepat dan kebutuhan memvalidasi alur kerja. | Refleksi terhadap perubahan pendekatan dan bukti respons. | Mahasiswa menyebut indikator serta batas bukti. | Kesadaran evaluatif meningkat menurut laporan diri. | Tindak lanjut berfokus pada penggalian dan pengujian bersama pengguna. |
+
+## Perbandingan dugaan awal dengan profil target
+
+Profil konfigurasi K3-01: **A** — ingin berkembang tetapi takut gagal dan khawatir staf tidak sanggup; **K** — gambaran manfaat ada, tetapi prosedur dan batas TI/AI belum dipahami; **S** — mampu melakukan langkah dasar namun membutuhkan demonstrasi dan pelatihan kecil. Hambatan yang ditetapkan dalam profil adalah kekhawatiran staf tidak sanggup, pemahaman TI/AI dan batasnya, serta kebutuhan demo/latihan.
+
+Dugaan awal mahasiswa bahwa Ali memerlukan proses yang lebih teratur dan belum tentu membutuhkan AI cukup sesuai dengan masalah yang kemudian dijelaskan Ali. Penyesuaian melalui panduan dan pesanan contoh juga selaras dengan kebutuhan dukungan praktik. Namun, kecocokan ini dinilai dari isi simulasi dan konfigurasi tokoh, bukan diagnosis psikologis terhadap orang nyata. MBTI fiktif dalam profil tidak digunakan untuk mendiagnosis mahasiswa.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003–AI003 | Mahasiswa mengusulkan pilihan sederhana dan menyatakan solusi harus membantu, bukan menambah kerumitan. | Ali menyebut opsi masuk akal dan menyampaikan kekhawatiran pencatatan ganda. | Rasa dipahami/kepercayaan: sedang dan meningkat; bukti berupa keberanian mengemukakan keberatan spesifik. | Kekhawatiran tidak dihapus, tetapi dapat dibahas terbuka. |
+| U004–AI005 | Mahasiswa mengakui risiko pekerjaan ganda dan membatasi uji coba. | Ali menerima templat sebagai langkah pertama dan menyatakan tanggung jawabnya. | Kepercayaan: sedang–tinggi dalam konteks simulasi; kesediaan menjelaskan dan berkomitmen meningkat. | A membaik; efektivitas teknis belum terbukti. |
+| U009–AI009 | Mahasiswa menyatakan Ali tidak harus langsung menjadi ahli dan menawarkan belajar bersama serta latihan. | Ali merasa lebih tenang dan menyebut panduan akan membantu, lalu mengungkapkan kekhawatiran konsistensi. | Rasa aman dan merasa dipahami: tinggi relatif terhadap awal simulasi; keterbukaan tampak dari kendala baru yang diungkap. | Dukungan relasional membuka pembahasan S, tetapi tidak membuktikan skill praktik. |
+| U010–AI010 dan U011–AI011 | Mahasiswa menekankan evaluasi untuk memperbaiki alur, bukan menyalahkan staf. | Ali menyetujui pendekatan itu dan menyatakan lebih siap mencoba. | Kepercayaan/kesiapan: meningkat dalam simulasi; bukti berupa persetujuan latihan dan evaluasi bersama. | Hubungan profesional dijaga melalui dukungan konkret dan penghormatan pada staf; hasil di luar simulasi belum diketahui. |
+
+Kategori rasa aman, merasa dipahami, kepercayaan dan keterbukaan di atas merupakan estimasi kualitatif simulator, bukan pengukuran psikometri. Pesan personal yang tampak ialah dukungan, kesediaan belajar bersama, dan komitmen menghindari penyalahkan; tidak ada dasar untuk menyimpulkan motif batin selain perilaku tekstual tersebut.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang memperkenalkan kendala keterampilan: staf belum terbiasa memakai label, Ali belum yakin menjelaskan prosedur, dan kesibukan dapat membuat label terlupa. Mahasiswa tidak mengulang solusi awal begitu saja; ia mengusulkan panduan singkat, latihan dengan pesanan contoh, pengingat sederhana, kejelasan pemilik status saat pengalihan, dan evaluasi penyebab kesalahan. Respons Ali bergerak dari kekhawatiran menuju kesiapan mencoba latihan dan uji coba operasional.
+
+Bukti uji ulang tetap merupakan respons tokoh simulasi. Tidak ada demonstrasi langsung bahwa mahasiswa atau staf benar-benar mengoperasikan WhatsApp, dan belum ada data sebelum/sesudah. Indikator tindak lanjut yang layak adalah waktu menjawab pertanyaan berulang, jumlah pesanan yang terlewat, akurasi informasi, kemudahan penggunaan, dan masukan staf, dengan beban pencatatan sebagai batas yang juga harus dipantau.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U001: “memahami masalah ... sesuai dengan kebutuhan serta kemampuan usahanya”; U002 menggali alur dan keterbatasan. | Tujuan relevan dan konteks biaya, staf, dan alur kerja digali sebelum pilihan solusi dipersempit. |
+| Persepsi dan validasi profil/status | 4 | U008: “kepercayaan Ali belum berarti bahwa solusi yang ditawarkan pasti efektif”; U012 mengakui solusi sederhana belum tentu mudah diterapkan. | Mahasiswa membedakan keterbukaan dari efektivitas dan merevisi pemahamannya saat kendala skill muncul. |
+| Pemilihan dan urutan repertoar | 4 | U003 mengusulkan templat; U005 memprioritaskan templat; U009 mengusulkan panduan dan latihan setelah kebutuhan baru muncul. | Pilihan berurutan dari langkah rendah risiko ke latihan dan label; tidak memaksakan AI. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U004 menetapkan tanggung jawab; U009: “Kita bisa mempelajarinya bersama”; U011 menekankan perbaikan tanpa menyalahkan. | Bahasa konkret, menghormati keterbatasan dan konsisten mendukung; beberapa rancangan alur masih berupa usulan dan belum diuji. |
+| Evaluasi dan adaptasi | 4 | U008 menetapkan indikator; U011 mengusulkan mencari pola pesanan terlewat dan menyesuaikan alur. | Ada indikator yang dapat diamati dan respons adaptif terhadap keberatan baru; hasil implementasi belum tersedia. |
+| Refleksi dan lesson learned | 4 | U012: “Aku terkadang terlalu cepat memberikan saran sebelum mengetahui secara lengkap bagaimana alur kerja usaha Ali”. | Refleksi menyebut kelemahan pendekatan, bukti, keterbatasan hasil, dan perubahan yang akan dilakukan. |
+
+**Usulan skor proses oleh AI:** 23/24 × 100 = **95,8/100**. Skor ini merupakan usulan berbasis transkrip untuk moderasi dosen, bukan nilai resmi. Skor tinggi mencerminkan kualitas komunikasi dan adaptasi dalam simulasi, bukan bukti bahwa solusi telah berhasil di dunia nyata. Hasil tujuan dilaporkan terpisah: tercapai sebagian pada tingkat simulasi; keberhasilan operasional belum terverifikasi.
+
+## Refleksi dan lesson learned mahasiswa
+
+Menurut mahasiswa, setelah mengetahui Ali dan staf belum terbiasa menggunakan teknologi, ia menjadi lebih berhati-hati dan mulai mempertimbangkan proses belajar, kemudahan penggunaan, serta kemungkinan kesalahan. Pendekatan yang dianggap membantu adalah penerapan bertahap, panduan singkat, latihan dengan pesanan contoh, dan evaluasi yang tidak menyalahkan staf. Bukti respons Ali dalam simulasi adalah kesediaannya mencoba templat, berdiskusi dengan staf, berlatih label, dan mengevaluasi hasil.
+
+Mahasiswa juga mengakui bahwa ia kadang terlalu cepat memberi saran sebelum memahami alur kerja dan kemampuan staf secara lengkap. Pelajaran berikutnya ialah lebih banyak menggali kebutuhan, melibatkan pengguna dalam pemilihan solusi, menetapkan indikator keberhasilan, dan memeriksa apakah langkah-langkah tersebut sesuai dengan kondisi nyata.
+
+## Tindak lanjut dan batas bukti
+
+1. Mulai dengan uji coba templat jawaban selama beberapa hari dan tetapkan Ali sebagai penanggung jawab akurasi harga/ketersediaan.
+2. Diskusikan alur label dengan staf; berikan panduan singkat dan latihan menggunakan pesanan contoh sebelum penerapan penuh.
+3. Perjelas bahwa staf yang menerima pesanan memperbarui statusnya; jika dialihkan, penerima pengalihan mengambil tanggung jawab pembaruan. Tetapkan pemeriksaan untuk menemukan pesanan yang belum ditindaklanjuti tanpa menyalahkan staf.
+4. Evaluasi waktu respons, akurasi informasi, jumlah pesanan terlewat, kemudahan penggunaan, dan beban kerja. Sederhanakan atau hentikan langkah yang menambah kerja tanpa manfaat nyata.
+5. Pertimbangkan sistem berbayar atau AI hanya jika masalah yang relevan tetap ada setelah alur sederhana diuji dan kebutuhan tambahannya jelas.
+
+Semua langkah tersebut merupakan rencana yang disepakati dalam simulasi, bukan tindakan yang telah diverifikasi di usaha nyata. Laporan berbasis teks tidak menilai prosodi atau bahasa tubuh; respons Ali merupakan pemeranan tokoh fiktif. Hasil jangka panjang dan dampak bisnis belum dapat disimpulkan.

@@ -18,10 +18,10 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Erin Cherryl Angela
+*   **NIM:** 18225003
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 6 Oktober 2026
 
 ---
 
@@ -32,19 +32,28 @@ Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemuka
    *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
    *Jawab:*
    
+   **Spesifikasi dan prioritas asset dalam produksi game.**
+
 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
    *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
    *Jawab:*
    
+   Dalam produksi game, asset adalah elemen digital yang digunakan untuk membangun pengalaman permainan, seperti karakter, objek, animasi, efek visual, dan antarmuka. Agar dapat diintegrasikan ke dalam *game engine*, asset perlu memenuhi *technical specification* tertentu, seperti resolusi, ukuran, format file, *layer*, serta *animation state* atau *interaction state*. Dalam proses produksi, asset juga perlu diprioritaskan berdasarkan *dependency* terhadap pekerjaan lain, sehingga asset yang menjadi kebutuhan utama gameplay dapat diselesaikan terlebih dahulu dan tidak menyebabkan *blocking* pada proses implementasi.
+
 3. **Daftar Jargon Teknis & Artian Sederhananya:**
    *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   *   **Jargon 1:** `Asset` $\rightarrow$ Arti Sederhana: Elemen yang digunakan untuk membangun game, seperti karakter, monster, bom, tombol, atau gambar.
+   *   **Jargon 2:** `Technical specification` $\rightarrow$ Arti Sederhana: Ketentuan teknis tentang bagaimana sebuah asset harus dibuat agar dapat digunakan di dalam game.
+   *   **Jargon 3:** `Animation state` $\rightarrow$ Arti Sederhana: Kondisi gerakan suatu karakter atau objek, misalnya ketika sedang diam atau ketika mati.
+   *   **Jargon 4:** `Interaction state` $\rightarrow$ Arti Sederhana: Tampilan atau kondisi asset ketika pemain melakukan suatu tindakan, misalnya ketika mouse diarahkan ke suatu objek.
+   *   **Jargon 5:** `Dependency` $\rightarrow$ Arti Sederhana: Kondisi ketika suatu pekerjaan membutuhkan hasil pekerjaan lain agar dapat dilanjutkan.
+   *   **Jargon 6:** `Blocking` $\rightarrow$ Arti Sederhana: Keadaan ketika pekerjaan seseorang terhenti karena bagian yang dibutuhkannya belum tersedia.
 
 4. **Kebenaran Inti (*Marrow of the Message*):**
    *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
    *Jawab:*
+   
+   **Asset game perlu dibuat dengan kebutuhan dan prioritas yang jelas agar dapat langsung digunakan dan tidak menghambat pekerjaan anggota tim lainnya.**
    
 ---
 
@@ -56,31 +65,55 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
 *   *Draf Terjemahan Anda:*
    
-   
+   Bayangkan kita sedang membuat game seperti menyusun puzzle. Ada banyak kepingan, misalnya gambar monster, bom, karakter, dan tombol. Supaya puzzle-nya bisa selesai, setiap kepingan harus punya ukuran dan bentuk yang tepat.
+
+   Kalau kita ingin memasukkan monster ke dalam game, kita perlu tahu ukuran gambarnya dan gerakan apa saja yang harus dibuat. Monster mungkin perlu punya gambar saat diam dan gambar saat kalah. Bom juga bisa membutuhkan gambar berbeda ketika pemain memilih atau menunjuknya.
+
+   Kalau semua kebutuhan itu sudah dijelaskan dari awal, pembuat gambarnya tahu apa yang harus dibuat dan programmer bisa langsung memasangnya ke game. Kalau waktu kita sedikit, kita juga membuat kepingan yang paling penting dulu. Jadi, kita tidak perlu membongkar puzzle dan mengulanginya karena ada bagian yang ternyata salah atau belum ada.
+
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
 *   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
 *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
 *   *Draf Terjemahan Anda:*
    
-   
+   Kalau bikin game, ternyata asset itu nggak cukup cuma “gambarnya bagus”. Dari awal harus jelas gambar itu dipakai buat apa, ukurannya berapa, perlu gerakan apa, dan ada kondisi khusus atau nggak.
+
+   Contohnya waktu aku jadi programmer sekaligus game production di game jam. Aku butuh gambar bom yang punya versi biasa dan versi highlight karena player bisa nge-hover bomnya. Untuk enemy, aku juga butuh gerakan idle dan death supaya bisa langsung dipasang ke gameplay.
+
+   Terus kalau waktunya mepet, nggak semua asset harus dikerjain bersamaan. Lebih masuk akal ngerjain yang paling dibutuhkan gameplay dulu. Kalau asset yang dibutuhkan programmer belum ada, kerja programmer juga bisa ikut berhenti. Jadi intinya, kebutuhan asset harus jelas dan prioritasnya harus kelihatan supaya kerja satu tim nggak saling nunggu.
+
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
 *   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
 *   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
 *   *Draf Terjemahan Anda:*
    
-   
+   Dalam pipeline produksi game, setiap asset perlu memiliki *technical specification* yang eksplisit sebelum masuk tahap *integration*. Specification minimal mencakup target resolution/size, format file, layer order, serta animation atau interaction state yang diperlukan.
+
+   Pada kasus game yang saya kerjakan, enemy membutuhkan *animation state* berupa idle dan death. Bomb membutuhkan default state dan highlight state karena player dapat melakukan hover pada bomb. Ukuran asset juga perlu ditentukan agar konsisten dengan implementasi gameplay.
+
+   Prioritas produksi ditentukan berdasarkan *dependency* terhadap task lain. Asset yang menjadi dependency untuk implementasi gameplay harus diprioritaskan karena keterlambatan asset tersebut dapat menyebabkan *blocking* pada programmer. Pendekatan ini mengurangi waktu tunggu dan risiko *rework* akibat specification yang tidak lengkap.
+
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
 *   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
 *   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
 *   *Draf Terjemahan Anda:*
    
-   
+   Dalam proyek dengan waktu terbatas seperti game jam, kejelasan kebutuhan dan prioritas asset berpengaruh langsung terhadap efisiensi tim. Asset yang menjadi kebutuhan utama gameplay harus diprioritaskan karena keterlambatannya dapat menghentikan pekerjaan anggota lain yang bergantung pada asset tersebut.
+
+   Menentukan kebutuhan teknis sejak awal, seperti ukuran, tampilan interaktif, dan kebutuhan animasi, mengurangi komunikasi berulang serta risiko pekerjaan harus dibuat ulang. Prioritas juga membuat sumber daya tim yang terbatas digunakan terlebih dahulu untuk komponen yang paling berpengaruh terhadap produk akhir.
+
+   Dengan pendekatan ini, biaya utama yang dikurangi bukan hanya biaya finansial, tetapi juga waktu tunggu, pekerjaan ulang, dan risiko fitur utama tidak selesai karena keterlambatan dependency. Hasil akhirnya adalah pipeline kerja yang lebih terarah dan peluang penyelesaian produk yang lebih tinggi dalam batas waktu yang tersedia.
+
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
 *   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
 *   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
 *   *Draf Terjemahan Anda:*
    
-   
+   Membuat sebuah game sebenarnya seperti membuat pertunjukan bersama. Ada orang yang membuat gambar, ada yang mengatur suara, dan ada yang memastikan semuanya dapat bekerja ketika dimainkan. Semua bagian tersebut saling berhubungan.
+
+   Bayangkan seseorang sudah membuat gambar monster, tetapi ukuran gambarnya tidak sesuai atau gerakan yang dibutuhkan belum tersedia. Orang yang memasukkan gambar itu ke dalam game akhirnya harus menunggu atau meminta perubahan lagi. Waktu yang seharusnya digunakan untuk menyelesaikan game menjadi terpakai untuk memperbaiki hal yang sebenarnya bisa dicegah.
+
+   Karena itu, setiap orang perlu tahu dengan jelas apa yang harus dibuat dan bagian mana yang paling penting. Prinsip ini sebenarnya berlaku bukan hanya untuk game. Dalam pekerjaan apa pun yang dilakukan bersama, informasi yang jelas dan urutan prioritas dapat mengurangi kesalahpahaman, waktu yang terbuang, dan pekerjaan yang harus diulang.
 
 ---
 
@@ -90,13 +123,30 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
    *Jawab:*
    
+   Ragam bahasa yang paling sulit saya buat adalah **rekan teknis**. Saya terbiasa menggunakan istilah teknis ketika membicarakan game development, sehingga ada kecenderungan untuk memasukkan terlalu banyak istilah hanya karena saya memahaminya. Tantangannya adalah memilih jargon yang benar-benar dibutuhkan untuk menjaga presisi, bukan sekadar menunjukkan bahwa saya memahami teknologinya.
+
+   Saya juga menyadari bahwa ragam manajer memiliki tantangan yang berbeda. Pada rekan teknis saya harus menjelaskan bagaimana sesuatu bekerja, sedangkan pada manajer saya harus menjelaskan mengapa hal tersebut penting terhadap waktu, risiko, dan hasil proyek. Ini membuat saya harus mengubah cara menyusun argumen, bukan hanya mengganti kosakata.
+
 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
    *Jawab:*
    
+   Proses ini membuat saya menyadari bahwa memahami suatu konsep tidak otomatis berarti mampu menjelaskannya kepada orang lain. Sebelumnya saya cenderung menganggap penjelasan yang semakin teknis akan semakin baik karena lebih presisi. Namun, presisi tidak selalu berarti menggunakan lebih banyak jargon.
+
+   Dari kasus game jam yang saya gunakan, saya melihat bahwa orang dengan peran berbeda membutuhkan informasi yang berbeda. Visual artist tidak perlu mengetahui seluruh detail implementasi program untuk membuat asset, tetapi membutuhkan informasi yang jelas mengenai ukuran, kondisi tampilan, animasi, dan prioritas asset. Sebaliknya, programmer membutuhkan detail yang cukup untuk mengintegrasikan asset tersebut ke dalam gameplay.
+
+   Saya jadi melihat komunikasi sebagai bagian dari proses teknis itu sendiri. Jika informasi yang diberikan tidak sesuai dengan kebutuhan penerima, pekerjaan dapat tertunda meskipun informasi tersebut sebenarnya benar. Target saya ke depan adalah lebih membiasakan diri bertanya, **“Apa yang perlu diketahui orang ini agar bisa melakukan pekerjaannya?”**, bukan hanya **“Apa yang saya ketahui tentang masalah ini?”**
+
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
    *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
    *Jawab:*
    
+   Saya menggunakan AI sebagai kopilot untuk menguji apakah lima versi penjelasan sudah memiliki perbedaan register yang jelas tanpa mengubah kebenaran inti. Prompt yang digunakan:
+
+   > “Bandingkan lima versi penjelasan berikut untuk anak-anak, sahabat beda bidang, rekan teknis, manajer, dan publik umum. Pastikan semua versi mempertahankan makna inti yang sama. Identifikasi apakah gaya bahasa, tingkat jargon, analogi, fokus informasi, dan tingkat teknisnya sudah sesuai dengan masing-masing audiens. Jangan menambahkan fakta atau evidence yang tidak ada dalam konteks.”
+
+   Umpan balik yang paling berguna adalah bahwa alih ragam bahasa tidak cukup dilakukan hanya dengan mengganti kata teknis menjadi kata sederhana. Struktur dan fokus penjelasan juga harus berubah. Versi anak-anak membutuhkan analogi konkret, versi sahabat dapat menggunakan bahasa percakapan dan contoh pengalaman, versi teknis perlu mempertahankan istilah yang presisi, versi manajer perlu menekankan efisiensi dan risiko, sedangkan versi publik perlu menghubungkan konsep dengan dampaknya terhadap kerja bersama.
+
+   Saya menggunakan AI untuk menguji dan mengkritik penyampaian, bukan untuk membuat evidence pengalaman. Konteks game jam, kebutuhan asset, dan pengalaman komunikasi dengan visual artist tetap berasal dari pengalaman saya sendiri.
 
 ---
 
@@ -105,16 +155,16 @@ Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam 
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | **4** |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | **4** |
+| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | **4** |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | **4** |
+| **Total Skor (Maksimal 16)** | | | | | **16 / 16** |
 
 ---
 
 ### **G. Contoh Pengisian Singkat (Sebagai Inspirasi)**
-*   **Konsep:** *Database Replication (Replikasi Basis Data)*
-*   **Kebenaran Inti:** Menyalin dan menyimpan data yang sama di beberapa komputer berbeda secara otomatis agar jika satu komputer rusak, data kita tetap aman dan aplikasi tidak mati.
-*   **Terjemahan Ragam Anak-Anak:** *"Bayangkan kamu punya buku gambar kesayangan. Karena takut bukunya hilang atau ketumpahan air, kamu meminta mesin ajaib untuk menyalin gambar yang sama ke buku gambar teman-temanmu secara otomatis. Jadi, kalau buku gambarmu basah, kamu tinggal pinjam buku milik temanmu dan bisa lanjut mewarnai tanpa sedih!"*
-*   **Terjemahan Ragam Manajer:** *"Untuk menjamin kelangsungan operasional bisnis dan meminimalkan risiko downtime akibat kegagalan server tunggal, kita menerapkan replikasi data ke wilayah sekunder. Hal ini memastikan pemulihan bencana (disaster recovery) berjalan instan dengan toleransi kehilangan data mendekati nol, sehingga transaksi pelanggan tidak terganggu."*
+*   **Konsep:** *Spesifikasi dan prioritas asset dalam produksi game*
+*   **Kebenaran Inti:** Asset game perlu dibuat dengan kebutuhan dan prioritas yang jelas agar dapat langsung digunakan dan tidak menghambat pekerjaan anggota tim lainnya.
+*   **Terjemahan Ragam Anak-Anak:** *"Bayangkan kita sedang membuat game seperti menyusun puzzle. Ada banyak kepingan seperti gambar monster, bom, karakter, dan tombol. Setiap kepingan harus punya ukuran dan bentuk yang tepat supaya semuanya bisa dipasang. Kalau kita membuat kepingan yang paling dibutuhkan terlebih dahulu dan memberi tahu pembuatnya dengan jelas seperti apa kepingan tersebut, game bisa selesai tanpa harus membongkar dan mengulang puzzle."*
+*   **Terjemahan Ragam Manajer:** *"Dalam proyek dengan waktu terbatas, kejelasan kebutuhan dan prioritas asset membantu tim mengurangi waktu tunggu, pekerjaan ulang, dan risiko keterlambatan fitur utama. Asset yang menjadi kebutuhan gameplay diprioritaskan agar anggota lain dapat melanjutkan pekerjaannya. Dengan demikian, sumber daya yang terbatas dapat digunakan terlebih dahulu untuk komponen yang paling berdampak terhadap penyelesaian produk."*
