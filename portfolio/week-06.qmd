@@ -1,4 +1,3 @@
-
 ---
 title: "Target–Attention Challenge"
 week: 6
@@ -25,11 +24,12 @@ Evidence utama dalam dokumen ini adalah:
 
 1. Percakapan WhatsApp dengan Natan pada 29 Mei mengenai tantangan kuliah, nilai, dan ADHD.
 2. Pesan Discord STEI '26 pada 28 Juli 2026 yang berisi informasi mengenai akses layanan psikiater melalui BPJS.
-3. Feedback eksplisit mengenai relevansi dan kegunaan informasi akses psikiater melalui BPJS.
-4. Informasi bahwa seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan.
-5. Refleksi mengenai dukungan sebaya, stigma, respons target, dan batas peran dalam membantu orang lain.
+3. Feedback eksplisit dari teman C pada 20 Oktober 2026 mengenai relevansi dan kegunaan informasi akses psikiater melalui BPJS.
+4. Feedback lanjutan dari teman C pada 20 Oktober 2026 setelah panduan diperbaiki.
+5. Informasi bahwa seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan.
+6. Refleksi mengenai dukungan sebaya, stigma, respons target, adaptasi pesan, dan batas peran dalam membantu orang lain.
 
-Evidence tersebut digunakan untuk menganalisis komunikasi yang benar-benar terjadi. Rencana tindakan yang belum dilakukan akan dinyatakan sebagai rencana, bukan sebagai hasil yang sudah tercapai.
+Evidence tersebut digunakan untuk menganalisis komunikasi yang benar-benar terjadi. Feedback tanggal 20 Oktober 2026 dibedakan dari pesan Discord tanggal 28 Juli 2026. Rencana tindakan yang belum dilakukan akan dinyatakan sebagai rencana, bukan sebagai hasil yang sudah tercapai.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
@@ -78,9 +78,11 @@ Saya menggunakan pendekatan informal karena komunikasi berlangsung dalam lingkun
 
 Saya juga menyadari bahwa pesan advokasi tersebut merupakan rangkuman tujuan saya, bukan pitch formal yang telah diuji secara sistematis. Oleh karena itu, saya tidak menyimpulkan bahwa pesan tersebut secara langsung menghasilkan perubahan sikap atau perilaku pada semua penerimanya.
 
+Feedback dari teman C memberikan bukti yang lebih spesifik mengenai relevansi informasi akses bantuan yang saya bagikan. Namun, feedback tersebut merupakan respons terhadap informasi panduan BPJS, bukan bukti bahwa seluruh pesan advokasi mengenai stigma kesehatan mental telah berhasil mengubah sikap target.
+
 ## 5. Konteks Performance
 
-**Tanggal dan setting**
+### 5.1 Tanggal dan Setting
 
 Ada dua konteks utama dalam refleksi ini.
 
@@ -88,21 +90,25 @@ Pertama, percakapan WhatsApp dengan Natan pada 29 Mei mengenai frustrasi dan kec
 
 Kedua, pesan Discord STEI '26 pada 28 Juli 2026 ketika saya membagikan informasi mengenai akses layanan psikiater melalui BPJS setelah muncul pembicaraan mengenai kesehatan mental.
 
-Feedback mengenai relevansi informasi dan informasi tentang teman yang kemudian pergi ke psikiater juga menjadi bagian dari evaluasi dampak komunikasi. Feedback tersebut harus dicatat sesuai tanggal dan konteks sebenarnya, bukan dianggap sebagai bagian dari pesan Discord pada 28 Juli apabila memang diberikan pada waktu berbeda.
+Pada 20 Oktober 2026, saya memperoleh feedback eksplisit dari teman C mengenai relevansi dan kepraktisan informasi tersebut, termasuk feedback lanjutan setelah panduan diperbaiki. Feedback ini digunakan sebagai evidence respons target dan evaluasi terhadap adaptasi informasi.
+
+Dengan demikian, tanggal komunikasi awal dan tanggal feedback dibedakan. Feedback tanggal 20 Oktober 2026 tidak dianggap sebagai bagian dari pesan Discord tanggal 28 Juli 2026.
 
 Kedua pengalaman komunikasi utama berlangsung secara informal, bukan dalam presentasi formal.
 
-**Persons dan relationship**
+### 5.2 Persons dan Relationship
 
 Saya adalah mahasiswa yang mengalami tantangan akademik terkait ADHD dan memiliki kepedulian terhadap stigma kesehatan mental.
 
-Natan merupakan teman dekat yang memberikan dukungan emosional. Adik tingkat STEI '26 merupakan target advokasi yang menerima informasi mengenai akses bantuan profesional. Teman-teman dalam friend group berpotensi menjadi bagian dari dukungan sebaya, sedangkan tenaga profesional kesehatan mental memiliki kompetensi untuk memberikan bantuan sesuai ruang lingkup praktiknya.
+Natan merupakan teman dekat yang memberikan dukungan emosional. Adik tingkat STEI '26 merupakan target advokasi yang menerima informasi mengenai akses bantuan profesional. Teman C memberikan feedback terhadap relevansi dan kejelasan informasi. Teman-teman dalam friend group berpotensi menjadi bagian dari dukungan sebaya, sedangkan tenaga profesional kesehatan mental memiliki kompetensi untuk memberikan bantuan sesuai ruang lingkup praktiknya.
 
-**Objective dan initial state**
+### 5.3 Objective dan Initial State
 
 Tujuan personal saya adalah memperoleh dukungan ketika menghadapi frustrasi dan kecemasan akademik. Tujuan advokasi saya adalah mengurangi stigma kesehatan mental, membagikan informasi praktis, dan membantu orang merasa tidak sendirian.
 
-Pada awal percakapan dengan Natan, saya merasa frustrasi dan menyalahkan diri sendiri atas kesulitan yang saya alami karena ADHD. Dalam konteks advokasi, saya melihat kebutuhan untuk membagikan informasi akses bantuan profesional dan mendorong percakapan yang tidak menghakimi.
+Pada awal percakapan dengan Natan, saya merasa frustrasi dan menyalahkan diri sendiri atas kesulitan yang saya alami karena ADHD.
+
+Dalam konteks advokasi, saya melihat kebutuhan untuk membagikan informasi akses bantuan profesional dan mendorong percakapan yang tidak menghakimi. Feedback C kemudian menunjukkan bahwa informasi tersebut dinilai relevan, tetapi penerima juga membutuhkan langkah praktis yang lebih jelas agar dapat memahami cara memulai pencarian layanan.
 
 ## 6. Evidence
 
@@ -158,21 +164,69 @@ Saya juga menyarankan agar orang menyampaikan dengan jujur apa yang sedang diras
 
 Informasi prosedur BPJS di atas menggambarkan apa yang saya bagikan saat itu. Prosedur layanan dapat berubah sehingga perlu diverifikasi melalui sumber resmi sebelum digunakan kembali.
 
-### Evidence 3 — Feedback Eksplisit mengenai Relevansi Informasi
+### Evidence 3 — Feedback Awal dari Teman C
 
-Dalam feedback lanjutan, seorang teman memberikan penilaian bahwa informasi mengenai akses psikiater melalui BPJS relevan dan cukup berguna bagi mahasiswa.
+**Tanggal feedback:** 20 Oktober 2026
 
-Ia menjelaskan bahwa kehidupan kuliah dapat menimbulkan tekanan akademik, masalah finansial, dan kesulitan beradaptasi dengan lingkungan baru. Menurutnya, informasi akses bantuan profesional tetap berguna meskipun tidak semua mahasiswa sedang mengalami masalah kesehatan mental.
+**Konteks:** Saya meminta tanggapan mengenai relevansi dan kegunaan informasi akses psikiater melalui BPJS yang telah saya bagikan.
 
-Ia juga menjelaskan bahwa sebagian orang mungkin sudah menyadari kebutuhan untuk mencari bantuan, tetapi belum mengetahui langkah awal atau menganggap konsultasi psikiater pasti mahal. Informasi mengenai BPJS dapat membantu mengurangi hambatan tersebut.
+Teman C memberikan feedback berikut:
 
-Selain itu, ia menyampaikan bahwa informasi akan lebih bermanfaat jika tidak hanya menyebutkan akses melalui BPJS, tetapi juga menjelaskan langkah awal dan alur rujukan secara praktis.
+> **1. Relevansi informasi**
+>
+> Menurutku, informasi tentang akses psikiater lewat BPJS cukup relevan buat mahasiswa, terutama karena kesehatan mental bisa memengaruhi kehidupan akademik. Informasi ini juga membantu mahasiswa mengetahui bahwa ada jalur layanan yang bisa diakses tanpa harus langsung mengeluarkan biaya konsultasi pribadi yang relatif mahal.
+>
+> **2. Kejelasan dan kepraktisan**
+>
+> Informasinya akan sangat membantu kalau disampaikan secara runtut dan langsung ke langkah-langkah yang perlu dilakukan. Namun, kalau hanya menjelaskan bahwa layanan psikiater bisa diakses lewat BPJS tanpa menjelaskan prosedur rujukan, dokumen yang diperlukan, dan tempat yang harus dituju, penerima informasi mungkin masih bingung harus mulai dari mana.
+>
+> **3. Informasi yang masih dibutuhkan**
+>
+> Aku ingin mengetahui langkah konkret untuk memulai konsultasi, mulai dari menghubungi FKTP atau puskesmas, mendapatkan rujukan jika diperlukan, sampai mencari fasilitas kesehatan yang menyediakan layanan kesehatan jiwa. Informasi tentang biaya yang ditanggung, kemungkinan kendala administrasi, dan alternatif jika layanan yang dituju tidak tersedia juga akan berguna.
+>
+> **4. Efektivitas penyampaian**
+>
+> Menurutku, membagikan informasi melalui Discord sudah cukup efektif karena mahasiswa bisa mengaksesnya di ruang komunikasi yang familiar. Akan tetapi, informasi akan lebih praktis jika disertai panduan singkat berbentuk langkah-langkah, tautan sumber resmi, dan kontak atau kanal untuk mencari informasi lebih lanjut. Dengan begitu, mahasiswa tidak perlu mencari ulang prosedur dari awal.
 
-**Makna evidence:** Respons tersebut memberikan alasan yang spesifik mengenai kegunaan informasi, bukan sekadar persetujuan umum. Hal ini merupakan evidence langsung bahwa informasi dinilai relevan dan bahwa penyampaian langkah praktis dapat meningkatkan kegunaannya.
+**Makna evidence:** Feedback ini merupakan respons eksplisit dari target terhadap informasi yang saya bagikan. C secara langsung menyatakan bahwa informasi tersebut relevan bagi mahasiswa dan menjelaskan alasannya, yaitu kaitannya dengan kehidupan akademik, biaya konsultasi, dan akses terhadap bantuan profesional.
 
-**Implikasi terhadap komunikasi:** Saya perlu memperhatikan bukan hanya topik yang disampaikan, tetapi juga apakah penerima mengetahui tindakan konkret yang dapat dilakukan setelah membaca informasi.
+Feedback ini lebih kuat daripada sekadar pengamatan saya terhadap respons target karena C menyampaikan penilaian dan alasan secara langsung.
 
-### Evidence 4 — Teman Kemudian Pergi ke Psikiater
+**Masukan untuk adaptasi:** C menunjukkan bahwa informasi perlu dilengkapi dengan langkah konkret, prosedur rujukan, dokumen yang diperlukan, informasi biaya, sumber resmi, dan cara mencari fasilitas kesehatan yang menyediakan layanan terkait.
+
+Masukan ini menjadi dasar untuk memperbaiki panduan agar tidak hanya menyampaikan bahwa layanan dapat diakses melalui BPJS, tetapi juga membantu pembaca memahami langkah awal yang dapat dilakukan.
+
+### Evidence 4 — Feedback Setelah Panduan Direvisi
+
+**Tanggal feedback:** 20 Oktober 2026
+
+**Konteks:** Setelah panduan akses psikiater melalui BPJS diperbaiki, saya meminta feedback lanjutan untuk mengetahui apakah revisi membuat informasi lebih jelas dan praktis.
+
+Teman C memberikan tanggapan berikut:
+
+> Haii! Menurutku versi revisinya sudah jauh lebih jelas dan praktis dibandingkan sebelumnya.
+>
+> **1. Kejelasan langkah:** Sudah lebih paham harus mulai dari mana, yaitu memeriksa status BPJS dan menghubungi FKTP terdaftar. Langkah-langkahnya juga runtut.
+>
+> **2. Kelengkapan informasi:** Menurutku sudah cukup lengkap, terutama bagian rujukan, dokumen, dan biaya. Informasinya membantu mengurangi kebingungan sebelum mulai mencari layanan.
+>
+> **3. Kepraktisan:** Sudah cukup praktis sebagai panduan awal. Namun, akan lebih membantu kalau ada contoh alur singkat dari FKTP sampai konsultasi dengan psikiater.
+>
+> **4. Sumber informasi:** Tautan sumber resmi membantu pembaca memverifikasi informasi. Mungkin bisa ditambahkan kontak atau tautan untuk mencari fasilitas kesehatan yang menyediakan layanan psikiatri.
+>
+> **5. Saran akhir:** Aku akan menambahkan ringkasan alur dalam bentuk diagram sederhana supaya pembaca bisa langsung menangkap langkah-langkah utamanya tanpa harus membaca seluruh panduan terlebih dahulu.
+
+**Makna evidence:** Feedback lanjutan menunjukkan bahwa C menilai versi revisi lebih jelas dan praktis dibandingkan versi sebelumnya. C juga menyebutkan bagian yang sudah membantu, seperti langkah awal, rujukan, dokumen, biaya, dan tautan sumber resmi.
+
+Respons ini memberikan evidence bahwa adaptasi informasi berdasarkan masukan sebelumnya telah menghasilkan versi yang dinilai lebih mudah dipahami oleh pemberi feedback.
+
+**Masukan untuk perbaikan berikutnya:** C masih menyarankan penambahan contoh alur dari FKTP hingga konsultasi, informasi untuk mencari fasilitas kesehatan yang menyediakan layanan psikiatri, serta diagram ringkas.
+
+Dengan demikian, proses adaptasi belum harus dianggap selesai. Saya masih dapat menggunakan feedback tersebut untuk menentukan perbaikan berikutnya.
+
+**Batas evidence:** Feedback ini membuktikan penilaian C terhadap versi revisi, bukan bahwa semua mahasiswa akan memiliki pengalaman yang sama atau bahwa panduan tersebut telah diuji terhadap seluruh calon penerima informasi.
+
+### Evidence 5 — Teman Kemudian Pergi ke Psikiater
 
 Setelah saya membagikan informasi mengenai akses psikiater melalui BPJS, seorang teman kemudian pergi ke psikiater. Berdasarkan informasi yang saya ketahui, tindakan tersebut berkaitan dengan informasi yang saya bagikan.
 
@@ -192,20 +246,22 @@ Saya juga tidak menyimpulkan bahwa tindakan tersebut membuktikan perubahan kondi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | Saya membedakan target personal, yaitu Natan sebagai teman yang memberikan dukungan, dari target advokasi, yaitu mahasiswa yang menerima informasi mengenai akses bantuan profesional. Saya juga memahami bahwa tenaga profesional memiliki peran berbeda dari teman sebaya. |
-| **Objective & state** | Tujuan personal saya adalah memperoleh dukungan ketika menghadapi tantangan kuliah. Tujuan advokasi saya adalah mengurangi stigma dan membagikan informasi akses bantuan profesional. Percakapan dengan Natan membantu saya merasa lebih didukung. Feedback eksplisit menunjukkan bahwa informasi BPJS dinilai relevan dan berguna. |
-| **Repertoire & language** | Saya menggunakan WhatsApp untuk berbagi pengalaman personal dan Discord untuk menyebarkan informasi praktis. Pendekatan informal sesuai dengan konteks pertemanan. Saya belajar bahwa informasi akan lebih bermanfaat jika disertai langkah awal yang jelas. |
-| **Response & adaptation** | Natan merespons dengan empati dan menawarkan dukungan. Feedback tentang informasi BPJS menjelaskan alasan spesifik mengapa informasi tersebut berguna serta kebutuhan akan panduan praktis. Saya akan menggunakan masukan ini untuk menyampaikan informasi dengan lebih jelas, empatik, dan tidak menghakimi. |
-| **Agreement & action** | Saya telah membagikan informasi akses psikiater melalui Discord. Seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan. Hal ini merupakan evidence tindakan nyata, tetapi tingkat pengaruh informasi terhadap keputusan teman perlu dibedakan dari fakta bahwa tindakan tersebut terjadi. |
-| **Relationship outcome** | Percakapan dengan Natan membantu saya merasa didukung. Dalam konteks advokasi, feedback eksplisit menunjukkan bahwa informasi dinilai berguna, sementara pengalaman teman yang pergi ke psikiater menunjukkan kemungkinan dampak praktis. Saya tetap perlu menghormati privasi dan tidak mengambil peran tenaga profesional. |
+| **Person & Character** | Saya membedakan target personal, yaitu Natan sebagai teman yang memberikan dukungan, dari target advokasi, yaitu mahasiswa yang menerima informasi mengenai akses bantuan profesional. Saya juga memahami bahwa tenaga profesional memiliki peran berbeda dari teman sebaya. |
+| **Objective & State** | Tujuan personal saya adalah memperoleh dukungan ketika menghadapi tantangan kuliah. Tujuan advokasi saya adalah mengurangi stigma dan membagikan informasi akses bantuan profesional. Percakapan dengan Natan membantu saya merasa lebih didukung. Feedback eksplisit C menunjukkan bahwa informasi BPJS dinilai relevan dan berguna. |
+| **Repertoire & Language** | Saya menggunakan WhatsApp untuk berbagi pengalaman personal dan Discord untuk menyebarkan informasi praktis. Pendekatan informal sesuai dengan konteks pertemanan. Feedback C membantu saya memahami bahwa informasi akan lebih bermanfaat jika disertai langkah awal yang jelas dan sumber yang dapat diverifikasi. |
+| **Response & Adaptation** | Natan merespons dengan empati dan menawarkan dukungan. C menyampaikan alasan spesifik mengapa informasi BPJS relevan, menjelaskan kekurangan panduan awal, dan menilai bahwa versi revisi lebih jelas serta praktis. Masukan tersebut menjadi dasar perbaikan dan evaluasi ulang. |
+| **Agreement & Action** | Saya telah membagikan informasi akses psikiater melalui Discord. Seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan. Hal ini merupakan evidence tindakan nyata, tetapi tingkat pengaruh informasi terhadap keputusan teman perlu dibedakan dari fakta bahwa tindakan tersebut terjadi. |
+| **Relationship Outcome** | Percakapan dengan Natan membantu saya merasa didukung. Dalam konteks advokasi, feedback C menunjukkan bahwa informasi dinilai relevan dan versi revisi dinilai lebih jelas. Saya tetap perlu menghormati privasi dan tidak mengambil peran tenaga profesional. |
 
 ### 7.1 Membedakan Attention, Action, dan Attribution
 
 Saya membedakan tiga jenis evidence dalam pengalaman ini.
 
-1. **Attention:** Teman menyatakan bahwa informasi akses psikiater melalui BPJS relevan dan berguna serta menjelaskan alasannya.
+1. **Attention:** C secara langsung menyatakan bahwa informasi akses psikiater melalui BPJS relevan bagi mahasiswa dan menjelaskan alasannya. C juga menyebutkan informasi yang masih dibutuhkan agar panduan lebih praktis.
 2. **Action:** Seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan.
 3. **Attribution:** Seberapa besar informasi yang saya bagikan berkontribusi terhadap keputusan tersebut. Hal ini perlu didasarkan pada konfirmasi dan konteks yang tersedia, bukan hanya urutan waktu.
+
+Feedback awal dan feedback setelah revisi memperkuat evidence Attention karena menunjukkan penilaian target secara langsung. Feedback lanjutan juga memberikan evidence mengenai evaluasi adaptasi pesan: C menilai panduan lebih jelas dan praktis, tetapi tetap mengusulkan perbaikan.
 
 Pembedaan ini membantu saya menghindari kesimpulan yang terlalu luas. Respons positif merupakan bukti bahwa informasi diperhatikan dan dianggap relevan, sedangkan tindakan mengakses layanan menunjukkan hasil yang lebih konkret. Namun, keduanya tidak otomatis membuktikan bahwa informasi tersebut merupakan satu-satunya penyebab tindakan.
 
@@ -216,64 +272,78 @@ Dari evidence yang tersedia, saya belajar bahwa komunikasi mengenai kesehatan me
 - Relevan dengan kebutuhan dan kondisi target.
 - Disampaikan tanpa menghakimi atau memaksa orang untuk bercerita.
 - Menyediakan informasi praktis yang dapat dipahami.
+- Menggunakan sumber yang dapat diperiksa dan diverifikasi.
 - Memiliki batas yang jelas antara dukungan sebaya dan bantuan profesional.
 - Dievaluasi melalui respons dan tindakan yang benar-benar diketahui, bukan hanya asumsi saya sendiri.
+- Diperbaiki berdasarkan feedback target, lalu dievaluasi kembali.
+
+Feedback C menunjukkan bahwa relevansi topik saja belum cukup. Informasi juga perlu disampaikan secara runtut agar penerima mengetahui langkah awal yang dapat dilakukan. Setelah revisi, C menilai panduan lebih jelas, tetapi masih menyarankan diagram alur dan informasi untuk mencari fasilitas kesehatan.
 
 Pengalaman teman yang kemudian pergi ke psikiater membuat saya melihat pentingnya informasi praktis. Namun, saya tetap harus menghormati keputusan dan privasi teman serta tidak mengambil kesimpulan mengenai hasil konsultasinya.
 
 ## 8. Penggunaan AI
 
-### Alat dan peran AI
+### 8.1 Alat dan Peran AI
 
 Saya menggunakan ChatGPT untuk membantu menyusun struktur dokumen Week 06, merapikan penjelasan, dan menghubungkan pengalaman dengan analisis komunikasi TAIDA–Attention.
 
-### Prompt atau instruksi penting
+### 8.2 Prompt atau Instruksi Penting
 
-Saya meminta bantuan untuk menyusun dokumen berdasarkan pengalaman pribadi, percakapan WhatsApp dengan Natan, informasi yang saya bagikan melalui Discord STEI '26, feedback mengenai relevansi informasi, dan tindak lanjut yang saya ketahui.
+Saya meminta bantuan untuk menyusun dokumen berdasarkan pengalaman pribadi, percakapan WhatsApp dengan Natan, informasi yang saya bagikan melalui Discord STEI '26, feedback mengenai relevansi informasi, feedback setelah revisi, dan tindak lanjut yang saya ketahui.
 
-### Bagian output yang digunakan, diubah, atau ditolak
+### 8.3 Bagian Output yang Digunakan, Diubah, atau Ditolak
 
-Saya menggunakan bantuan AI untuk mengorganisasi evidence, memisahkan fakta dari interpretasi, dan menjelaskan perbedaan Attention dan Action.
+Saya menggunakan bantuan AI untuk mengorganisasi evidence, memisahkan fakta dari interpretasi, dan menjelaskan perbedaan Attention, Action, dan Attribution.
 
-Saya tidak memperlakukan semua interpretasi AI sebagai fakta. Isi dokumen tetap harus sesuai dengan percakapan dan pengalaman yang benar-benar saya ketahui. Rekonstruksi pesan advokasi juga dibedakan dari kutipan percakapan historis.
+Saya tidak memperlakukan semua interpretasi AI sebagai fakta. Isi dokumen tetap harus sesuai dengan percakapan dan pengalaman yang benar-benar saya ketahui. Feedback C digunakan sebagai respons target, sedangkan rekonstruksi pesan advokasi dibedakan dari kutipan percakapan historis.
 
-### Pemeriksaan accuracy, privacy, dan authority
+### 8.4 Pemeriksaan Accuracy, Privacy, dan Authority
 
 - **Accuracy:** Saya membedakan respons eksplisit, tindakan yang diketahui, dan interpretasi mengenai dampak komunikasi. Informasi prosedur BPJS perlu diverifikasi melalui sumber resmi.
 - **Privacy:** Saya membatasi detail pribadi teman dan tidak mencantumkan informasi kesehatan yang tidak diperlukan.
 - **Authority:** Saya tidak menganggap AI atau diri saya sebagai pengganti tenaga profesional kesehatan mental. Dukungan sebaya tidak menggantikan evaluasi atau penanganan profesional.
 
-### Apa yang tetap saya pelajari sebagai manusia
+### 8.5 Apa yang Tetap Saya Pelajari sebagai Manusia
 
 Saya tetap bertanggung jawab untuk memahami pengalaman sendiri, memeriksa kebenaran informasi, menjaga privasi, dan menentukan cara memberikan dukungan yang aman. AI membantu menyusun refleksi, tetapi tidak menggantikan pengalaman langsung, konfirmasi dari orang yang terlibat, atau tanggung jawab saya terhadap orang lain.
 
 ## 9. Feedback dan Tindak Lanjut
 
-### Feedback yang diterima
+### 9.1 Feedback yang Diterima
 
 Dalam percakapan WhatsApp pada 29 Mei, Natan mengingatkan saya agar tidak menyalahkan diri sendiri karena ADHD dan menawarkan dukungan. Saya kemudian mengatakan bahwa saya merasa lebih baik.
 
-Dalam feedback lanjutan mengenai informasi akses psikiater melalui BPJS, seorang teman menilai informasi tersebut relevan dan berguna bagi mahasiswa. Ia menjelaskan bahwa informasi tersebut dapat mengurangi kebingungan mengenai langkah awal mencari bantuan dan menyarankan agar informasi dilengkapi panduan praktis.
+Pada 20 Oktober 2026, C memberikan feedback eksplisit mengenai informasi akses psikiater melalui BPJS. C menilai informasi tersebut relevan bagi mahasiswa karena berkaitan dengan kesehatan mental, kehidupan akademik, dan biaya konsultasi. C juga menjelaskan bahwa panduan perlu memuat langkah awal, prosedur rujukan, dokumen, informasi biaya, sumber resmi, serta cara mencari fasilitas kesehatan.
 
-Saya juga mengetahui bahwa seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan. Hal ini memperlihatkan adanya tindakan nyata yang relevan dengan tujuan komunikasi saya. Namun, saya tidak menyimpulkan bahwa informasi saya merupakan satu-satunya penyebab keputusan tersebut.
+Setelah panduan diperbaiki, C menilai versi revisi lebih jelas dan praktis. C menyebutkan bahwa langkah awal, informasi rujukan, dokumen, biaya, dan tautan sumber resmi membantu mengurangi kebingungan. Namun, C menyarankan penambahan contoh alur dari FKTP sampai konsultasi, informasi pencarian fasilitas kesehatan, dan diagram ringkas.
 
-### Adaptation/replay
+Feedback tersebut menunjukkan dua hal. Pertama, informasi yang saya bagikan dinilai relevan oleh target. Kedua, kejelasan dan kepraktisan informasi dapat ditingkatkan melalui masukan target dan evaluasi ulang setelah revisi.
+
+Saya juga mengetahui bahwa seorang teman kemudian pergi ke psikiater setelah informasi tersebut dibagikan. Hal ini merupakan tindakan yang relevan dengan tujuan komunikasi saya, tetapi saya tidak menyimpulkan bahwa informasi saya merupakan satu-satunya penyebab keputusan tersebut.
+
+### 9.2 Adaptation/Replay
+
+Berdasarkan feedback C, saya melakukan perbaikan pada panduan agar langkah awal dan informasi pendukung lebih jelas. Feedback lanjutan menunjukkan bahwa revisi dinilai lebih praktis, meskipun masih ada beberapa saran untuk perbaikan berikutnya.
 
 Jika mengulangi komunikasi ini, saya akan:
 
 1. Menanyakan apakah orang tersebut ingin didengarkan, mendapatkan informasi, atau membicarakan pilihan bantuan.
 2. Menyampaikan informasi akses bantuan dengan langkah awal yang jelas dan memeriksa kembali keakuratannya.
-3. Menghindari memaksakan solusi atau menganggap semua orang membutuhkan pendekatan yang sama.
-4. Menghormati privasi dan keputusan penerima informasi.
-5. Memahami batas dukungan sebaya dan menyarankan bantuan profesional apabila diperlukan.
+3. Menyediakan informasi tentang rujukan, dokumen, biaya, dan sumber resmi jika relevan.
+4. Menambahkan ringkasan alur agar pembaca dapat memahami proses secara cepat.
+5. Menghindari memaksakan solusi atau menganggap semua orang membutuhkan pendekatan yang sama.
+6. Menghormati privasi dan keputusan penerima informasi.
+7. Memahami batas dukungan sebaya dan menyarankan bantuan profesional apabila diperlukan.
 
-### Next practice
+### 9.3 Next Practice
 
 Saya akan memulai satu percakapan dengan teman-teman dalam friend group untuk mendiskusikan bentuk dukungan sebaya yang nyaman, privasi, dan batasan yang sehat.
 
 Langkah awal yang realistis adalah membicarakan cara mendengarkan tanpa menghakimi, menjaga kerahasiaan, dan mengetahui kapan seseorang mungkin membutuhkan bantuan profesional. Saya belum menganggap rencana ini terlaksana sebelum diskusi benar-benar dilakukan.
 
-Saya juga akan mengevaluasi kegunaan informasi yang saya bagikan berdasarkan feedback eksplisit. Jika diperlukan, saya dapat meminta konfirmasi secara sukarela mengenai bagian informasi yang membantu, tanpa meminta detail kondisi kesehatan atau konsultasi teman.
+Saya juga akan menggunakan feedback C untuk menentukan perbaikan berikutnya pada panduan, terutama dengan menambahkan diagram alur singkat dan informasi untuk mencari fasilitas kesehatan yang menyediakan layanan psikiatri. Sebelum membagikan ulang panduan, saya perlu memastikan bahwa prosedur dan tautan sumbernya masih sesuai dengan informasi resmi.
+
+Saya akan mengevaluasi kegunaan informasi berdasarkan feedback eksplisit. Jika diperlukan, saya dapat meminta konfirmasi secara sukarela mengenai bagian informasi yang membantu, tanpa meminta detail kondisi kesehatan atau konsultasi teman.
 
 ## 10. Self-assessment
 
@@ -282,23 +352,26 @@ Saya juga akan mengevaluasi kegunaan informasi yang saya bagikan berdasarkan fee
 | Person & Character | 4 | Saya membedakan target personal, mahasiswa penerima informasi, teman sebaya, dan tenaga profesional berdasarkan peran masing-masing. |
 | Objective & State | 4 | Saya menjelaskan tujuan dukungan personal dan advokasi serta mengidentifikasi respons yang benar-benar saya ketahui. |
 | Repertoire, Language & AI | 3 | Saya menggunakan komunikasi informal, dukungan empatik, dan informasi praktis serta merefleksikan keterbatasan informasi dan penggunaan AI. |
-| Response & Adaptation | 4 | Saya menganalisis respons Natan, feedback eksplisit mengenai relevansi informasi, dan tindak lanjut berupa akses bantuan profesional yang saya ketahui. |
+| Response & Adaptation | 4 | Saya menganalisis respons Natan, feedback eksplisit C mengenai relevansi informasi, dan feedback lanjutan yang mengevaluasi hasil revisi. |
 | Agreement, Action & Relationship | 3 | Saya telah membagikan informasi dan mengetahui adanya tindakan nyata setelah komunikasi. Namun, evaluasi dampak belum sistematis dan rencana diskusi dengan friend group belum terlaksana. |
 | **Total** | **18/20** | **Penilaian diri berdasarkan evidence yang tersedia; belum merupakan skor assessor.** |
 
-Skor ini merupakan self-assessment, bukan nilai resmi. Saya menilai bahwa evidence yang tersedia menunjukkan tujuan komunikasi, respons target, dan indikasi dampak praktis. Saya tetap memberikan ruang perbaikan karena hubungan sebab-akibat belum dievaluasi secara sistematis dan rencana diskusi dengan friend group belum terlaksana.
+Skor ini merupakan self-assessment, bukan nilai resmi. Saya menilai bahwa evidence yang tersedia menunjukkan tujuan komunikasi, respons eksplisit target, proses adaptasi, dan indikasi dampak praktis. Saya tetap memberikan ruang perbaikan karena hubungan sebab-akibat belum dievaluasi secara sistematis dan rencana diskusi dengan friend group belum terlaksana.
 
 ## 11. Kesimpulan
 
 Pengalaman saya memperlihatkan dua bentuk komunikasi yang saling melengkapi. Dalam konteks personal, respons Natan membantu saya merasa lebih didukung ketika menghadapi tantangan kuliah dan ADHD. Dalam konteks advokasi, saya membagikan informasi mengenai akses psikiater melalui BPJS agar mahasiswa mengetahui salah satu pilihan bantuan profesional.
 
-Feedback eksplisit menunjukkan bahwa informasi tersebut dinilai relevan dan berguna. Saya juga mengetahui bahwa seorang teman kemudian pergi ke psikiater setelah informasi dibagikan. Tindakan ini merupakan evidence yang relevan mengenai kemungkinan dampak praktis komunikasi, meskipun saya tetap perlu membedakan tindakan yang terjadi dari seberapa besar informasi saya memengaruhi keputusan tersebut.
+Feedback eksplisit dari C pada 20 Oktober 2026 menunjukkan bahwa informasi tersebut dinilai relevan dan berguna bagi mahasiswa. C juga menjelaskan kekurangan panduan awal dan memberikan masukan yang dapat digunakan untuk memperbaikinya. Setelah panduan direvisi, C menilai informasi menjadi lebih jelas dan praktis, meskipun masih menyarankan penambahan diagram alur dan informasi pencarian fasilitas kesehatan.
 
-Pelajaran utama saya adalah bahwa komunikasi yang bermanfaat tidak hanya bergantung pada pesan yang disampaikan, tetapi juga pada relevansi informasi, kejelasan langkah praktis, respons penerima, dan penghormatan terhadap privasi. Ke depannya, saya ingin mengembangkan dukungan sebaya yang lebih terarah tanpa mengambil alih peran tenaga profesional.
+Feedback ini menjadi evidence penting karena menunjukkan respons target secara langsung, bukan hanya interpretasi saya terhadap penerimaan informasi. Proses tersebut juga memperlihatkan bahwa komunikasi dapat diperbaiki berdasarkan masukan dan dievaluasi kembali.
+
+Saya juga mengetahui bahwa seorang teman kemudian pergi ke psikiater setelah informasi dibagikan. Tindakan ini merupakan evidence yang relevan mengenai kemungkinan dampak praktis komunikasi, meskipun saya tetap perlu membedakan tindakan yang terjadi dari seberapa besar informasi saya memengaruhi keputusan tersebut.
+
+Pelajaran utama saya adalah bahwa komunikasi yang bermanfaat tidak hanya bergantung pada pesan yang disampaikan, tetapi juga pada relevansi informasi, kejelasan langkah praktis, respons penerima, adaptasi berdasarkan feedback, dan penghormatan terhadap privasi. Ke depannya, saya ingin mengembangkan dukungan sebaya yang lebih terarah tanpa mengambil alih peran tenaga profesional.
 
 ::: {.assessor-only}
-
-### Assessment dosen
+### Assessment Dosen
 
 **Skor:** — / 20
 
@@ -307,5 +380,4 @@ Pelajaran utama saya adalah bahwa komunikasi yang bermanfaat tidak hanya bergant
 **Prioritas perbaikan:** —
 
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
-
 :::

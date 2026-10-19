@@ -16,17 +16,18 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 
 Pada minggu ini, saya berlatih memahami current state dan desired state, mengidentifikasi nilai yang ingin dicapai, serta menghubungkan solusi dengan kebutuhan target. Saya juga mempertimbangkan risiko, batas evidence, respons yang tersedia, dan adaptasi yang diperlukan agar solusi tidak hanya berdasarkan asumsi.
 
-Saya menggunakan percakapan WhatsApp mengenai masa depan karier di bidang game development sebagai konteks refleksi. Fokus saya adalah mengubah kekhawatiran yang masih umum menjadi pertanyaan yang dapat diteliti dan langkah berikutnya yang realistis.
+Saya menggunakan percakapan WhatsApp mengenai masa depan karier di bidang game development sebagai konteks refleksi. Fokus saya adalah mengubah kekhawatiran yang masih umum menjadi kebutuhan yang lebih spesifik, kemudian menentukan langkah berikutnya berdasarkan evidence.
 
 ## 2. Evidence Wajib
 
 Evidence yang digunakan dalam dokumen ini meliputi:
 
-1. Current state dan desired state dari perspektif person yang terlibat.
+1. Current state dan desired state berdasarkan kebutuhan yang disampaikan secara langsung.
 2. Feature–benefit–value–outcome chain yang menghubungkan masalah dengan solusi.
 3. Risk, evidence threshold, respons, dan adaptasi.
-4. Refleksi terhadap respons yang tersedia serta rencana validasi desired state.
+4. Respons aktual teman yang memvalidasi kebutuhan informasi terkait pilihan karier.
 5. Rencana tindakan untuk mengumpulkan evidence mengenai industri game Indonesia, peluang kerja, dan kisaran gaji.
+6. Pembedaan antara kebutuhan yang sudah terkonfirmasi, kesepakatan awal, dan tindakan yang belum dilaksanakan.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
@@ -38,65 +39,62 @@ Evidence yang digunakan dalam dokumen ini meliputi:
 
 Pada 27 September 2026, sekitar pukul 00.43, saya membicarakan kekhawatiran mengenai game development dan kondisi pasar kerja bersama seorang teman melalui WhatsApp.
 
-Percakapan tersebut membahas kekhawatiran tentang industri kreatif, masa depan setelah kuliah, dan pilihan jurusan atau karier. Percakapan berhenti sebelum menghasilkan rencana konkret untuk memeriksa kondisi industri atau menentukan langkah selanjutnya.
+Percakapan awal membahas kekhawatiran tentang industri kreatif, masa depan setelah kuliah, dan pilihan karier. Dalam percakapan lanjutan, teman menjelaskan prioritas kariernya dan informasi yang dibutuhkan untuk mempertimbangkan beberapa pilihan secara lebih realistis.
 
 **Persons dan relationship:**
 
-Saya adalah mahasiswa yang memiliki minat untuk terjun ke bidang game development, tetapi juga mempertimbangkan risiko industri, peluang kerja, dan kestabilan finansial.
+Saya adalah mahasiswa yang memiliki minat terhadap game development, tetapi juga mempertimbangkan risiko industri, peluang kerja, dan kestabilan finansial.
 
-Teman saya merupakan lawan bicara dalam percakapan mengenai game development dan masa depan karier. Saya tidak menganggap bahwa kekhawatiran atau desired state teman sepenuhnya sama dengan milik saya karena kebutuhan dan prioritasnya belum dikonfirmasi secara langsung.
+Teman saya merupakan lawan bicara dalam percakapan mengenai game development dan masa depan karier. Saya tidak menganggap bahwa kebutuhan teman pasti sama dengan kebutuhan saya. Karena itu, saya menggunakan respons yang disampaikan secara langsung untuk merumuskan desired state-nya.
 
 **Objective dan initial state:**
 
-Tujuan saya dalam percakapan tersebut adalah mengungkapkan kekhawatiran, membicarakan kondisi industri secara lebih realistis, dan memperoleh perspektif mengenai pilihan karier ke depan.
+Tujuan saya adalah memahami kekhawatiran mengenai masa depan karier, mengidentifikasi kebutuhan informasi yang lebih spesifik, dan menentukan langkah berikutnya berdasarkan evidence.
 
-Current state saya ditandai oleh ketidakpastian mengenai apakah game development dapat menjadi jalur karier yang sesuai dengan minat sekaligus kebutuhan finansial saya. Saya khawatir bahwa bidang tersebut mungkin kurang stabil dibandingkan jalur software engineering.
+Current state saya ditandai oleh ketidakpastian mengenai apakah game development dapat menjadi jalur karier yang sesuai dengan minat sekaligus kebutuhan finansial. Saya khawatir bidang tersebut mungkin kurang stabil dibandingkan software engineering. Namun, kekhawatiran tersebut merupakan perspektif awal, bukan kesimpulan yang telah dibuktikan melalui data industri.
 
-Kekhawatiran tersebut merupakan perspektif awal, bukan kesimpulan yang sudah dibuktikan dengan data industri.
+Dari respons teman, saya mengetahui bahwa ia juga sedang mempertimbangkan hubungan antara minat teknis, kreativitas, kestabilan finansial, prospek karier, dan makna pekerjaan. Ia belum ingin membatasi pilihan terlalu awal dan membutuhkan informasi konkret untuk membandingkan beberapa jalur karier.
 
-Desired state yang ingin saya capai adalah memiliki informasi yang lebih konkret agar dapat mempertimbangkan pilihan karier berdasarkan evidence, bukan hanya rasa takut atau optimisme.
-
-Desired state teman masih perlu dikonfirmasi. Saya perlu memahami apakah ia juga membutuhkan informasi tentang peluang kerja, gaji, kestabilan finansial, atau bentuk dukungan yang berbeda.
+Dengan demikian, desired state teman sudah dapat dirumuskan berdasarkan pernyataan langsungnya. Namun, hasil riset yang dibutuhkan untuk mendukung keputusan kariernya belum tersedia.
 
 ## 4. Current dan Desired State
 
 | Elemen | Rumusan target dan status evidence |
 |---|---|
-| **Person/target** | Teman yang menjadi lawan bicara dalam percakapan WhatsApp mengenai game development dan masa depan karier. Saya juga merupakan pihak yang memiliki kekhawatiran pribadi mengenai pilihan karier tersebut. |
-| **Current state** | Dalam percakapan, muncul kekhawatiran mengenai kondisi industri kreatif, pasar kerja, dan masa depan setelah kuliah. Saya sendiri khawatir bahwa game development mungkin kurang stabil secara finansial dibandingkan software engineering. Kekhawatiran ini merupakan perspektif awal, bukan kesimpulan yang sudah dibuktikan dengan data industri. |
-| **Desired state** | Keadaan yang ingin dicapai adalah memiliki pemahaman yang lebih realistis tentang kondisi industri game Indonesia, peluang kerja, kebutuhan kompetensi, dan kisaran gaji sehingga keputusan mengenai game development dapat dibuat berdasarkan evidence. Desired state ini masih perlu dikonfirmasi kepada teman untuk memastikan perubahan apa yang sebenarnya paling ia inginkan. |
-| **Value** | Bagi saya, informasi yang lebih konkret dapat membantu menentukan apakah game development akan dijadikan jalur karier utama atau tetap sebagai proyek sampingan. Bagi teman, jika ia memiliki kekhawatiran serupa, informasi tersebut dapat membantu mempertimbangkan pilihan karier dengan lebih terarah. Nilai bagi teman masih berupa hipotesis sampai dikonfirmasi langsung. |
-| **Acceptable risk** | Informasi lowongan dan gaji mungkin tidak mewakili seluruh industri, terutama jika jumlah sampel terbatas atau data berasal dari perusahaan dan posisi yang berbeda. Riset juga tidak boleh menghasilkan kesimpulan berlebihan bahwa semua pekerjaan game development tidak stabil atau bahwa semua pekerjaan software engineering lebih aman. |
-| **Evidence threshold** | Klaim mengenai peluang kerja, gaji, dan kondisi industri harus didukung sumber yang dapat diperiksa, dengan periode dan konteks yang jelas. Sebelum mengambil keputusan besar, saya perlu membandingkan beberapa sumber dan jenis posisi serta mempertimbangkan kebutuhan finansial dan situasi pribadi. Desired state teman baru dapat dianggap terkonfirmasi setelah ia menyatakan atau menyetujui rumusan tersebut. |
+| **Person/target** | Teman yang terlibat dalam percakapan WhatsApp mengenai game development dan masa depan karier. |
+| **Current state** | Teman tertarik pada game development, khususnya game engine, physics, rendering, dan optimasi. Namun, ia mengkhawatirkan kestabilan karier dan peluang kerja di industri game Indonesia. Ia juga belum ingin membatasi pilihan pada satu bidang terlalu awal. |
+| **Desired state** | Teman ingin memiliki gambaran realistis untuk membandingkan game development, software engineering, dan bidang teknologi lain yang masih memberi ruang bagi kreativitas serta eksplorasi teknis. Ia ingin mempertimbangkan pilihan berdasarkan informasi konkret tanpa langsung dipaksa menentukan satu jalur karier. |
+| **Value** | Informasi yang lebih konkret dapat membantu teman mempertimbangkan minat teknis, kestabilan finansial, prospek jangka panjang, dan dampak pekerjaan secara bersamaan. |
+| **Acceptable risk** | Informasi lowongan dan gaji mungkin tidak mewakili seluruh industri. Riset tidak boleh menghasilkan kesimpulan bahwa semua pekerjaan game development tidak stabil atau semua pekerjaan software engineering lebih aman. |
+| **Evidence threshold** | Klaim mengenai peluang kerja, gaji, kondisi studio, dan prospek karier harus didukung sumber yang dapat diperiksa serta memiliki konteks yang jelas. Kesimpulan harus membedakan fakta, interpretasi, dan asumsi. |
 
-### 4.1 Desired State Sementara
+### 4.1 Desired State Teman Berdasarkan Respons Aktual
 
-Desired state sementara saya adalah memiliki informasi yang cukup untuk mempertimbangkan pilihan karier dengan lebih realistis, tanpa harus langsung memutuskan seluruh masa depan setelah kuliah.
+Berdasarkan pesan yang diterima, teman ingin membandingkan game development dengan software engineering secara umum dan bidang teknologi lain yang masih memberi ruang bagi eksplorasi teknis serta kreativitas.
 
-Saya ingin mengetahui kondisi industri game Indonesia, peluang kerja, jenis posisi yang tersedia, persyaratan kompetensi, dan kisaran gaji yang dapat ditemukan dari sumber yang bisa diperiksa.
+Ia belum ingin membatasi pilihan terlalu awal. Prioritas yang disampaikan mencakup kestabilan finansial, prospek karier jangka panjang, pengembangan kemampuan teknis, dan kesempatan mengerjakan sesuatu yang memiliki dampak nyata.
 
-Informasi tersebut diharapkan membantu saya menentukan langkah berikutnya. Misalnya, saya dapat mempertimbangkan game development sebagai jalur karier utama atau sebagai proyek sampingan sambil membangun kompetensi software engineering.
+Teman juga menyampaikan kekhawatiran mengenai peluang kerja di industri game Indonesia. Ia ingin mengetahui kondisi industri, peluang kerja programmer, kisaran gaji, kestabilan studio, dan prospek jangka panjang. Selain itu, ia ingin mengetahui apakah ada jalur karier lain yang memungkinkan pengembangan kemampuan teknis sekaligus pekerjaan yang terasa bermakna.
 
-Namun, keputusan tersebut belum ditentukan. Saya perlu mengumpulkan evidence terlebih dahulu dan mempertimbangkan minat, kemampuan, kebutuhan finansial, serta kondisi pribadi.
+Desired state tersebut tidak berarti teman ingin segera meninggalkan game development. Ia secara eksplisit menyampaikan bahwa ia tidak ingin langsung mencoret bidang tersebut hanya karena prospek kariernya terlihat berisiko. Ia juga tidak ingin mengabaikan realitas industri demi idealisme.
 
-### 4.2 Validasi Desired State Teman
+Karena itu, tujuan komunikasinya adalah memperoleh gambaran yang realistis sebagai bahan pertimbangan, bukan menerima jawaban yang menentukan pilihan karier untuknya.
 
-Saya tidak ingin menentukan desired state teman hanya berdasarkan apa yang menurut saya bermanfaat. Karena percakapan sebelumnya berhenti tanpa kesepakatan konkret, saya perlu mengonfirmasi kebutuhannya melalui percakapan lanjutan.
+### 4.2 Kebutuhan yang Sudah dan Belum Terkonfirmasi
 
-Pertanyaan yang ingin saya ajukan:
-
-1. "Dari semua kekhawatiran tentang masa depan karier, bagian mana yang paling mengganggu kamu: peluang kerja, gaji, kestabilan finansial, atau hal lain?"
-2. "Kalau kita punya informasi yang lebih konkret tentang industri game Indonesia, apa yang ingin kamu ketahui atau putuskan?"
-3. "Kamu lebih membutuhkan gambaran tentang kondisi industri, perbandingan jalur karier, atau bantuan menentukan langkah yang bisa dilakukan sekarang?"
-4. "Menurut kamu, seperti apa kondisi yang cukup baik untuk membuat kamu merasa lebih yakin mengambil keputusan?"
-
-Pertanyaan tersebut merupakan rencana validasi, bukan pertanyaan yang sudah terbukti diajukan dalam percakapan sebelumnya.
-
-Jika teman ternyata lebih membutuhkan dukungan emosional daripada riset karier, pendekatan komunikasi saya perlu menyesuaikan kebutuhan tersebut.
+| Aspek | Status | Evidence |
+|---|---|---|
+| Kebutuhan membandingkan beberapa jalur karier | Terkonfirmasi | Teman menyebut game development, software engineering, dan bidang teknologi lain. |
+| Kebutuhan informasi mengenai peluang kerja dan kestabilan finansial | Terkonfirmasi | Teman menyebut peluang kerja, kisaran gaji, kestabilan studio, dan prospek jangka panjang. |
+| Kebutuhan mempertahankan ruang eksplorasi teknis dan kreativitas | Terkonfirmasi | Teman menyampaikan ketertarikan pada game engine, physics, rendering, optimasi, dan bidang teknologi lain. |
+| Kebutuhan pekerjaan yang bermakna | Terkonfirmasi | Teman ingin menghindari pekerjaan yang terasa hanya mengejar profit dan kehilangan makna pribadi. |
+| Keputusan karier final | Belum ditentukan | Teman secara eksplisit ingin mengeksplorasi pilihan terlebih dahulu. |
+| Hasil riset industri yang mendukung keputusan | Belum tersedia | Informasi konkret masih perlu dikumpulkan dan diperiksa. |
+| Pembagian tugas dan tanggal diskusi berikutnya | Belum dikonfirmasi | Pesan yang tersedia menjelaskan kebutuhan, tetapi belum menetapkan pembagian tugas atau jadwal tindak lanjut. |
 
 ## 5. Evidence yang Tersedia
 
-### 5.1 Evidence Utama — Percakapan WhatsApp
+### 5.1 Evidence Utama: Percakapan WhatsApp Awal
 
 **Tanggal:** 27 September 2026
 
@@ -104,7 +102,7 @@ Jika teman ternyata lebih membutuhkan dukungan emosional daripada riset karier, 
 
 **Setting:** Percakapan WhatsApp dengan seorang teman mengenai game development, industri kreatif, dan masa depan setelah kuliah.
 
-Beberapa pernyataan yang muncul dalam percakapan tersebut antara lain:
+Beberapa pernyataan yang muncul dalam percakapan awal antara lain:
 
 > "Gw jg pengen terjun gamedev tapi industri kreatif miris banget"
 
@@ -116,46 +114,77 @@ Beberapa pernyataan yang muncul dalam percakapan tersebut antara lain:
 
 > "kuliah cuma 5% hidup lu doang"
 
-Pernyataan-pernyataan tersebut memperlihatkan bahwa percakapan berkaitan dengan kekhawatiran tentang kondisi industri, pasar kerja, dan masa depan setelah kuliah.
+Pernyataan tersebut menunjukkan adanya kekhawatiran tentang kondisi industri, pasar kerja, dan masa depan setelah kuliah.
 
 Namun, pernyataan tersebut bukan data statistik mengenai industri game dan tidak cukup untuk membuktikan bahwa karier game development pasti tidak stabil.
 
-### 5.2 Kontribusi Saya
+### 5.2 Evidence Lanjutan: Respons Aktual Teman
 
-Dalam konteks ini, saya terlibat dalam percakapan untuk mengungkapkan kekhawatiran dan membicarakan kondisi industri serta pilihan karier.
+Dalam percakapan lanjutan, teman menyampaikan kebutuhan dan prioritas kariernya secara langsung. Berikut isi pesan yang diterima.
 
-Saya menggunakan pengalaman percakapan tersebut sebagai titik awal untuk mengidentifikasi pertanyaan yang perlu dijawab melalui riset. Saya ingin memisahkan kekhawatiran yang muncul dari percakapan dengan informasi faktual mengenai peluang kerja, kebutuhan kompetensi, dan penghasilan.
+**Pesan pertama:**
 
-### 5.3 Batas Evidence
+> Aku pengin membandingkan game development dengan software engineering secara umum dan mungkin bidang teknologi lain yang masih punya ruang buat eksplorasi teknis dan kreativitas. Aku belum mau membatasi pilihan terlalu awal, karena aku masih pengin tahu bidang apa aja yang sebenarnya cocok buat aku.
 
-Percakapan berhenti tanpa menghasilkan keputusan atau rencana konkret untuk mengumpulkan data.
+> Prioritas utamaku mungkin kestabilan finansial dan prospek karier jangka panjang, tapi aku juga pengin tetap punya kesempatan buat mengembangkan kemampuan teknis dan mengerjakan sesuatu yang punya dampak nyata. Aku nggak harus selalu kerja di bidang yang ideal banget, tapi aku pengin menghindari karier yang bikin aku kehilangan motivasi karena pekerjaannya terasa nggak bermakna.
 
-Saya belum memiliki hasil riset yang membuktikan kisaran gaji, jumlah lowongan, atau kestabilan pekerjaan di industri game Indonesia. Karena itu, informasi tersebut menjadi pertanyaan yang perlu diteliti, bukan kesimpulan awal yang dianggap benar.
+**Pesan lanjutan:**
 
-Saya juga belum memiliki konfirmasi langsung mengenai desired state teman. Saya tidak dapat menganggap bahwa teman menginginkan solusi yang sama dengan saya hanya karena kami membicarakan topik yang serupa.
+> Menurut aku, yang paling bikin khawatir itu kestabilan karier dan peluang kerja di industri game Indonesia. Aku suka game development, terutama bagian teknisnya, kayak game engine, physics, rendering, dan optimasi. Tapi aku juga sadar kalau suka sesuatu belum tentu berarti bidang itu bisa jadi sumber penghidupan yang stabil.
+>
+> Aku juga nggak terlalu tertarik sama kehidupan kerja yang ujung-ujungnya cuma ngejar profit perusahaan. Aku pengin kerja di bidang yang punya dampak nyata dan sesuai sama hal-hal yang aku peduliin. Jadi, aku agak bingung gimana caranya menyeimbangkan minat, idealisme, dan kebutuhan finansial.
+>
+> Menurut aku, yang paling membantu sekarang adalah membandingkan beberapa pilihan karier berdasarkan informasi yang konkret. Aku pengin tahu kondisi industri game Indonesia, peluang kerja buat programmer, kisaran gaji, kestabilan studio, dan prospek jangka panjangnya. Aku juga pengin tahu apakah ada jalur karier lain yang masih memungkinkan aku buat mengembangkan kemampuan teknis sekaligus melakukan sesuatu yang bermakna.
+>
+> Aku nggak pengin langsung mencoret game development cuma karena prospek kariernya kelihatan berisiko. Tapi aku juga nggak mau terlalu idealis sampai mengabaikan realitas di lapangan.
+>
+> Pada akhirnya, aku pengin lebih jelas soal pilihan karier yang bisa aku tekuni tanpa harus mengorbankan minat, kebutuhan finansial, dan hal-hal yang menurut aku penting dalam hidup. Untuk sekarang, aku masih pengin eksplorasi dulu. Aku butuh gambaran yang realistis buat jadi bahan pertimbangan, bukan jawaban yang langsung menentukan aku harus pilih apa.
+
+### 5.3 Analisis Respons Aktual
+
+Respons tersebut mengonfirmasi bahwa kebutuhan teman bukan sekadar kekhawatiran umum mengenai masa depan. Ia secara spesifik membutuhkan perbandingan beberapa jalur karier berdasarkan informasi konkret.
+
+Ada empat kebutuhan utama yang dapat diidentifikasi:
+
+1. **Informasi pasar kerja:** peluang kerja programmer, kondisi industri game Indonesia, kestabilan studio, dan kisaran gaji.
+2. **Perbandingan karier:** game development, software engineering, dan bidang teknologi lain yang relevan.
+3. **Eksplorasi teknis dan kreativitas:** kesempatan untuk mengembangkan kemampuan dalam game engine, physics, rendering, optimasi, dan kompetensi lain.
+4. **Kesesuaian nilai pribadi:** kestabilan finansial, prospek jangka panjang, dampak nyata, dan pekerjaan yang tetap terasa bermakna.
+
+Respons tersebut juga memperjelas bahwa teman belum ingin mengambil keputusan final. Ia membutuhkan bahan pertimbangan agar dapat mengevaluasi pilihan secara lebih realistis.
+
+Dengan demikian, validasi desired state sudah didukung oleh pesan aktual teman. Namun, validasi kebutuhan tidak sama dengan bukti bahwa solusi telah berhasil. Keberhasilan solusi baru dapat dievaluasi setelah informasi dikumpulkan dan teman memberikan feedback terhadap hasilnya.
+
+### 5.4 Batas Evidence
+
+Evidence yang tersedia terdiri atas percakapan awal dan pesan lanjutan teman. Keduanya dapat digunakan untuk menganalisis kekhawatiran, kebutuhan informasi, dan desired state.
+
+Namun, pesan tersebut belum membuktikan kondisi faktual industri game Indonesia. Saya belum memiliki hasil riset yang mendukung klaim mengenai kisaran gaji, jumlah lowongan, kestabilan studio, atau prospek pekerjaan.
+
+Selain itu, pesan yang tersedia belum menunjukkan pembagian tugas secara spesifik atau penetapan waktu untuk diskusi lanjutan. Karena itu, saya tidak mengklaim bahwa riset bersama telah dimulai atau bahwa sudah ada kesepakatan dengan jadwal yang pasti.
 
 ## 6. Feature–Benefit–Value–Outcome Chain
 
-Solusi yang ingin saya lakukan adalah mencari evidence mengenai kondisi industri game Indonesia, peluang kerja, jenis posisi, persyaratan kompetensi, dan kisaran gaji. Informasi tersebut kemudian akan digunakan untuk membandingkan beberapa pilihan karier.
+Solusi yang direncanakan adalah mengumpulkan dan membandingkan informasi mengenai industri game Indonesia, software engineering, peluang kerja, jenis posisi, persyaratan kompetensi, kisaran gaji, dan keterampilan yang dapat digunakan di bidang lain.
 
 | Lapisan | Rumusan |
 |---|---|
-| **Feature** | Mengumpulkan dan menyusun informasi mengenai industri game Indonesia, lowongan kerja, jenis posisi, persyaratan kompetensi, dan kisaran gaji dari sumber yang dapat diperiksa. |
-| **Benefit** | Saya dapat melihat gambaran yang lebih konkret tentang pilihan pekerjaan, kebutuhan kompetensi, dan kondisi yang perlu dipertimbangkan sebelum memilih jalur karier. |
-| **Value** | Saya dapat membuat keputusan yang lebih terarah dengan mempertimbangkan minat terhadap game development sekaligus kebutuhan finansial dan prospek pekerjaan. |
-| **Outcome** | Saya dapat menentukan langkah berikutnya secara realistis, misalnya menjadikan game development sebagai proyek sampingan sambil membangun kompetensi software engineering, atau mengevaluasi kembali pilihan tersebut setelah memperoleh evidence yang cukup. |
+| **Feature** | Mengumpulkan dan menyusun informasi mengenai industri game Indonesia, lowongan kerja, jenis posisi, persyaratan kompetensi, kisaran gaji, serta jalur karier teknologi lain yang relevan. |
+| **Benefit** | Teman dapat melihat gambaran yang lebih konkret tentang pilihan pekerjaan, kebutuhan kompetensi, dan kondisi yang perlu dipertimbangkan sebelum memilih jalur karier. |
+| **Value** | Informasi tersebut membantu teman mempertimbangkan minat teknis, kestabilan finansial, prospek jangka panjang, kreativitas, dan makna pekerjaan secara bersamaan. |
+| **Outcome** | Teman memiliki dasar yang lebih realistis untuk mengevaluasi pilihan karier dan menentukan langkah eksplorasi berikutnya tanpa harus langsung memutuskan satu jalur. |
 
-### 6.1 Chain Kedua — Perbandingan Jalur Karier
+### 6.1 Chain Kedua: Perbandingan Jalur Karier
 
-**Perbandingan jalur karier** → pilihan game development dan software engineering dianalisis berdasarkan kriteria yang sama → kelebihan, keterbatasan, dan persyaratan setiap jalur terlihat lebih jelas → keputusan mengenai prioritas belajar dan proyek menjadi lebih terarah.
+Perbandingan game development, software engineering, dan bidang teknologi lain → setiap jalur dianalisis menggunakan kriteria yang konsisten → kelebihan, keterbatasan, dan kebutuhan kompetensi tiap jalur terlihat lebih jelas → teman dapat menentukan bidang mana yang layak dieksplorasi lebih lanjut.
 
 ### 6.2 Hubungan Solusi dengan Desired State
 
-Solusi berupa riset industri berkaitan dengan desired state karena informasi yang lebih konkret dapat membantu saya mengurangi ketidakpastian ketika mempertimbangkan pilihan karier.
+Solusi berupa riset dan perbandingan jalur karier berkaitan langsung dengan desired state teman karena ia secara eksplisit meminta informasi konkret sebagai bahan pertimbangan.
 
-Feature berupa pengumpulan informasi menghasilkan benefit berupa gambaran peluang dan persyaratan yang lebih jelas. Benefit tersebut memiliki value karena membantu saya mempertimbangkan minat dan kebutuhan finansial secara bersamaan. Outcome yang diharapkan adalah keputusan sementara dan langkah berikutnya yang lebih realistis.
+Feature berupa pengumpulan informasi menghasilkan benefit berupa gambaran peluang dan persyaratan yang lebih jelas. Benefit tersebut memiliki value karena membantu teman menimbang minat teknis, kebutuhan finansial, dan nilai pribadi. Outcome yang diharapkan adalah kemampuan mengevaluasi pilihan karier dengan lebih terarah.
 
-Kedua chain tersebut masih berupa hipotesis. Informasi industri tidak otomatis menghilangkan ketidakpastian, menjamin pekerjaan, atau menentukan pilihan terbaik bagi setiap orang. Manfaatnya bergantung pada kualitas data dan cara data tersebut digunakan untuk mengambil keputusan.
+Namun, chain tersebut masih merupakan hipotesis solusi. Informasi industri tidak otomatis menghilangkan ketidakpastian, menjamin pekerjaan, atau menentukan pilihan terbaik bagi seseorang. Manfaatnya bergantung pada kualitas data dan relevansinya dengan kebutuhan teman.
 
 ## 7. Risk dan Evidence Threshold
 
@@ -164,15 +193,16 @@ Kedua chain tersebut masih berupa hipotesis. Informasi industri tidak otomatis m
 | Menganggap industri game pasti tidak stabil hanya dari pengalaman atau opini. | Keputusan karier dibuat berdasarkan ketakutan dan generalisasi. | Klaim penting didukung beberapa sumber yang dapat diperiksa dan konteksnya dijelaskan. | Membedakan opini, pengalaman individu, dan data industri; tidak membuat kesimpulan menyeluruh dari satu sumber. |
 | Menggunakan data gaji yang tidak representatif. | Perkiraan penghasilan terlalu tinggi atau terlalu rendah. | Posisi, pengalaman, lokasi, periode data, dan jenis kompensasi dicatat jika tersedia. | Membandingkan beberapa sumber dan menjelaskan keterbatasan data. |
 | Menganggap banyaknya lowongan berarti peluang pasti besar. | Jumlah lowongan disalahartikan sebagai jaminan memperoleh pekerjaan. | Informasi lowongan diperiksa bersama persyaratan, jenis posisi, dan kompetensi yang dibutuhkan. | Memisahkan jumlah lowongan dari peluang pribadi untuk memenuhi kualifikasi. |
-| Membandingkan game development dan software engineering secara tidak seimbang. | Pilihan karier dipengaruhi perbandingan yang hanya menonjolkan kelebihan satu jalur. | Kedua jalur dibandingkan menggunakan kriteria yang sama, seperti minat, kompetensi, penghasilan, dan pilihan pekerjaan. | Menggunakan tabel perbandingan dengan kriteria konsisten serta mencatat hal yang belum diketahui. |
-| Menganggap desired state teman sama dengan keinginan saya. | Solusi yang disiapkan tidak menjawab kebutuhan teman. | Teman menyatakan kebutuhan dan mengonfirmasi ringkasan desired state. | Mengajukan pertanyaan terbuka dan memperbarui rumusan berdasarkan respons aktual. |
-| Terlalu lama melakukan riset tanpa mengambil tindakan. | Riset menjadi sumber kecemasan tambahan dan tidak menghasilkan keputusan. | Ada batas waktu riset dan hasil yang cukup untuk menentukan langkah kecil berikutnya. | Menetapkan waktu riset yang realistis, lalu memilih tindakan sementara yang bisa dievaluasi kembali. |
+| Membandingkan game development dan software engineering secara tidak seimbang. | Pilihan karier dipengaruhi perbandingan yang hanya menonjolkan kelebihan satu jalur. | Kedua jalur dibandingkan menggunakan kriteria yang sama. | Menggunakan tabel perbandingan dengan kriteria konsisten serta mencatat hal yang belum diketahui. |
+| Mengabaikan kebutuhan teman yang sudah disampaikan. | Solusi tidak menjawab prioritas target. | Isi solusi dibandingkan dengan kebutuhan aktual yang disampaikan teman. | Memprioritaskan informasi pasar kerja, kestabilan finansial, keterampilan yang dapat dialihkan, dan kesesuaian nilai pribadi. |
+| Menganggap riset pasti menghasilkan jawaban final. | Hasil riset ditafsirkan secara berlebihan dan pilihan terlalu cepat dibatasi. | Keterbatasan data dicatat dan kesimpulan disesuaikan dengan kekuatan evidence. | Menyampaikan hasil sebagai bahan pertimbangan, bukan keputusan karier yang wajib diikuti. |
+| Riset terlalu luas sehingga tidak menghasilkan tindakan. | Informasi terus dikumpulkan tanpa menentukan langkah berikutnya. | Ada ruang lingkup riset dan kriteria yang jelas untuk menentukan kapan evaluasi awal dilakukan. | Memulai dari beberapa pertanyaan prioritas, kemudian memperluas riset jika diperlukan. |
 
 ### 7.1 Acceptable Risk
 
 Saya menerima bahwa riset karier tidak dapat memberikan kepastian penuh mengenai masa depan. Data lowongan dan gaji hanya menggambarkan informasi yang tersedia pada waktu dan konteks tertentu.
 
-Risiko yang masih dapat diterima adalah mengambil keputusan sementara berdasarkan evidence yang cukup, selama saya memahami keterbatasannya dan bersedia mengevaluasi kembali keputusan tersebut.
+Risiko yang masih dapat diterima adalah membuat keputusan sementara berdasarkan evidence yang cukup, selama keterbatasannya dipahami dan keputusan tersebut dapat dievaluasi kembali.
 
 Risiko yang tidak ingin saya ambil adalah membuat keputusan besar hanya berdasarkan opini, satu contoh lowongan, satu angka gaji, atau kesimpulan umum yang tidak didukung data.
 
@@ -183,57 +213,81 @@ Sebelum menarik kesimpulan mengenai kondisi industri, saya perlu memastikan bahw
 1. Sumber informasi dapat diperiksa.
 2. Periode dan konteks data dicatat jika tersedia.
 3. Posisi pekerjaan yang dibandingkan memiliki kriteria yang cukup jelas.
-4. Data gaji tidak dianggap mewakili semua perusahaan atau semua pekerja.
+4. Data gaji tidak dianggap mewakili semua perusahaan atau pekerja.
 5. Perbedaan antara fakta, interpretasi, dan asumsi dijelaskan.
-6. Desired state teman dikonfirmasi secara langsung sebelum dianggap sebagai tujuan bersama.
+6. Hasil perbandingan menjawab kebutuhan yang telah disampaikan teman.
+7. Kesimpulan tidak memaksa teman memilih satu jalur karier sebelum ia siap.
 
-Dengan batas tersebut, saya dapat menghindari kesimpulan yang terlalu luas dan membuat keputusan berdasarkan informasi yang lebih seimbang.
+Dengan batas tersebut, saya dapat menghindari kesimpulan yang terlalu luas dan membuat analisis lebih sesuai dengan kebutuhan target.
 
 ## 8. Response dan Adaptation
 
 ### 8.1 Respons Aktual
 
-Percakapan WhatsApp sebelumnya membahas kekhawatiran tentang industri kreatif, pasar kerja, dan masa depan setelah kuliah.
+Respons teman menunjukkan bahwa ia membutuhkan informasi konkret untuk membandingkan pilihan karier. Ia menyebut peluang kerja, kisaran gaji, kestabilan studio, prospek jangka panjang, dan keterampilan yang dapat digunakan di bidang lain.
 
-Percakapan berhenti tanpa menghasilkan keputusan atau rencana konkret untuk mengumpulkan evidence. Karena itu, belum ada respons aktual dari teman terhadap usulan riset industri yang lebih terstruktur.
+Teman juga menyampaikan bahwa ia tidak ingin langsung mencoret game development karena risikonya terlihat besar. Pada saat yang sama, ia tidak ingin mengabaikan kebutuhan finansial dan realitas industri hanya karena menyukai bidang tersebut.
 
-Saya tidak mengklaim bahwa teman telah menyetujui solution hypothesis atau bahwa percakapan tersebut sudah menghasilkan desired state bersama.
+Respons ini mengonfirmasi bahwa solusi yang relevan adalah membantu menyediakan gambaran yang realistis dan seimbang. Saya tidak seharusnya langsung menyarankan satu pilihan sebagai jawaban final.
 
-### 8.2 Adaptasi yang Direncanakan
+Namun, respons tersebut belum membuktikan bahwa riset telah dilakukan atau bahwa hasil riset akan menyelesaikan seluruh kekhawatiran teman.
 
-Jika saya mengulangi percakapan tersebut, saya tidak akan langsung menyimpulkan bahwa game development merupakan pilihan yang buruk atau menjanjikan karier yang tidak stabil.
+### 8.2 Adaptasi Berdasarkan Respons
 
-Saya akan memisahkan kekhawatiran emosional dari pertanyaan faktual yang bisa diperiksa.
+Saya menyesuaikan pendekatan dari pembicaraan yang awalnya berfokus pada kekhawatiran umum menjadi kebutuhan informasi yang lebih spesifik.
 
-Saya akan mulai dengan menanyakan hal yang paling dikhawatirkan oleh teman. Jika ia ingin mengetahui kondisi pasar kerja, saya dapat menawarkan untuk mengumpulkan informasi mengenai lowongan, persyaratan posisi, dan kisaran gaji. Jika ia lebih membutuhkan dukungan untuk menghadapi ketidakpastian, saya akan mendengarkan terlebih dahulu sebelum menawarkan riset atau saran.
+Riset perlu mencakup beberapa jalur karier, bukan hanya membandingkan game development dengan software engineering. Kriteria yang digunakan juga perlu mencakup aspek finansial, pengembangan kemampuan teknis, kreativitas, prospek jangka panjang, dan makna pekerjaan.
 
-Saya juga akan menyesuaikan solusi berdasarkan hasil riset. Jika evidence masih terbatas, saya tidak akan memaksakan kesimpulan.
+Jika hasil riset menunjukkan adanya keterbatasan data, saya akan menjelaskannya secara terbuka. Saya juga tidak akan menyimpulkan bahwa satu jalur selalu lebih baik daripada jalur lainnya.
 
-Jika game development memiliki risiko yang perlu dipertimbangkan, salah satu pilihan yang dapat dievaluasi adalah menjadikannya proyek sampingan sambil membangun kompetensi software engineering. Pilihan tersebut merupakan strategi sementara, bukan keputusan permanen yang harus berlaku bagi semua orang.
+Game development sebagai proyek sampingan sambil membangun kompetensi software engineering dapat dipertimbangkan sebagai salah satu kemungkinan. Namun, pilihan tersebut tetap perlu dievaluasi berdasarkan hasil riset dan preferensi teman, bukan ditetapkan sebagai solusi otomatis.
 
-## 9. Rencana Tindakan dan Evidence Berikutnya
+## 9. Agreement dan Rencana Tindakan
 
-| Langkah | Tindakan | Evidence yang akan dikumpulkan | Kriteria evaluasi |
+### 9.1 Status Kesepakatan
+
+Pesan teman sudah memberikan konfirmasi mengenai kebutuhan informasi dan desired state yang ingin dicapai. Ia ingin memperoleh gambaran realistis untuk mempertimbangkan pilihan karier, bukan menerima jawaban yang langsung menentukan pilihannya.
+
+Namun, konfirmasi kebutuhan tersebut perlu dibedakan dari kesepakatan pelaksanaan. Berdasarkan pesan yang tersedia, belum ada pembagian tugas secara spesifik atau tanggal diskusi lanjutan yang ditetapkan.
+
+Karena itu, status yang paling akurat adalah **desired state telah divalidasi, sedangkan rencana pelaksanaan masih perlu diperjelas**.
+
+Langkah berikutnya adalah mengonfirmasi apakah teman ingin ikut mencari sumber informasi, menerima rangkuman awal untuk ditinjau, atau mendiskusikan hasilnya setelah riset selesai. Pembagian tugas dan waktu tindak lanjut baru dapat dicatat sebagai kesepakatan setelah dikonfirmasi secara langsung.
+
+### 9.2 Rencana Tindakan
+
+| Langkah | Tindakan | Evidence yang akan dikumpulkan | Status |
 |---|---|---|---|
-| 1 | Mengidentifikasi pertanyaan utama tentang industri game Indonesia. | Daftar pertanyaan mengenai peluang kerja, gaji, persyaratan, dan kestabilan karier. | Pertanyaan dibedakan antara hal yang bisa diperiksa melalui data dan hal yang bergantung pada preferensi pribadi. |
-| 2 | Mencari informasi lowongan dan persyaratan posisi. | Contoh lowongan dengan posisi, persyaratan, dan tanggal akses yang jelas. | Informasi berasal dari sumber yang dapat diperiksa dan tidak hanya satu contoh. |
-| 3 | Mengumpulkan informasi gaji dan kondisi industri. | Kisaran gaji yang tersedia, konteks posisi, periode, dan keterbatasan data. | Tidak menganggap satu angka mewakili seluruh industri. |
-| 4 | Membandingkan game development dan software engineering. | Tabel perbandingan kompetensi, peluang, minat, dan pertimbangan finansial. | Kedua jalur dinilai menggunakan kriteria yang konsisten. |
-| 5 | Menentukan langkah kecil berikutnya. | Keputusan sementara mengenai fokus belajar atau proyek sampingan. | Langkah realistis, dapat dimulai, dan bisa dievaluasi ulang setelah memperoleh informasi tambahan. |
-| 6 | Memvalidasi desired state teman. | Respons aktual teman terhadap pertanyaan lanjutan. | Rumusan desired state diperbarui berdasarkan kebutuhan yang benar-benar disampaikan. |
+| 1 | Menentukan pertanyaan prioritas tentang pilihan karier. | Daftar pertanyaan mengenai peluang kerja, kestabilan finansial, persyaratan kompetensi, dan makna pekerjaan. | Berdasarkan kebutuhan aktual teman; daftar final belum disusun. |
+| 2 | Mencari informasi lowongan dan persyaratan posisi. | Contoh lowongan dengan posisi, persyaratan, sumber, dan tanggal akses yang jelas. | Belum dilakukan. |
+| 3 | Mengumpulkan informasi gaji dan kondisi industri. | Kisaran gaji yang tersedia, konteks posisi, periode, dan keterbatasan data. | Belum dilakukan. |
+| 4 | Mengidentifikasi keterampilan yang dapat dialihkan. | Contoh posisi di bidang teknologi lain yang menggunakan keterampilan relevan, beserta persyaratannya. | Belum dilakukan. |
+| 5 | Membandingkan jalur karier. | Tabel perbandingan game development, software engineering, dan bidang lain berdasarkan kriteria yang sama. | Menunggu evidence. |
+| 6 | Mengonfirmasi format tindak lanjut dengan teman. | Respons teman mengenai cara meninjau hasil riset dan kebutuhan diskusi berikutnya. | Perlu dikonfirmasi. |
+| 7 | Mengevaluasi hasil riset bersama atau menyampaikan rangkuman untuk ditinjau. | Feedback mengenai apakah informasi yang terkumpul sudah membantu menjawab pertanyaan awal. | Belum dilakukan. |
+| 8 | Menentukan langkah eksplorasi berikutnya. | Keputusan sementara mengenai bidang yang ingin dicoba atau kompetensi yang ingin dipelajari. | Menunggu hasil riset dan evaluasi. |
 
-Rencana tindakan ini belum terlaksana sepenuhnya. Evidence yang sudah tersedia adalah percakapan WhatsApp, sedangkan hasil riset dan validasi lanjutan masih perlu dikumpulkan.
+### 9.3 Kriteria Keberhasilan
+
+Tindakan ini dapat dianggap berhasil jika:
+
+1. Informasi diperoleh dari beberapa sumber yang dapat diperiksa.
+2. Konteks data, posisi pekerjaan, dan keterbatasan informasi dicatat.
+3. Perbandingan karier menggunakan kriteria yang konsisten.
+4. Informasi yang disusun menjawab kebutuhan yang disampaikan teman.
+5. Teman dapat memberikan feedback mengenai kegunaan informasi tersebut.
+6. Langkah eksplorasi berikutnya ditentukan tanpa memaksakan keputusan karier final.
 
 ## 10. Analisis Komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | Saya menggunakan pengalaman nyata dari percakapan WhatsApp mengenai game development dan masa depan karier. Saya membedakan kekhawatiran pribadi dari kebutuhan teman yang belum dikonfirmasi, serta merancang pertanyaan untuk memahami desired state berdasarkan perspektifnya sendiri. |
-| **Objective & state** | Saya merumuskan current state, desired state sementara, value, acceptable risk, dan evidence threshold. Saya juga menjelaskan bahwa desired state teman belum terkonfirmasi dan bahwa kekhawatiran tentang industri belum dapat diperlakukan sebagai fakta statistik. |
-| **Repertoire, language & AI** | Saya menyusun feature–benefit–value–outcome chain yang menghubungkan riset industri dengan manfaat dan hasil keputusan karier yang diharapkan. Saya menjelaskan keterbatasan chain tersebut serta menempatkan AI sebagai alat bantu analisis yang hasil faktualnya harus diverifikasi. |
-| **Response & adaptation** | Saya mengidentifikasi risiko generalisasi, data gaji yang tidak representatif, perbandingan yang tidak seimbang, dan asumsi tentang kebutuhan target. Saya juga merancang respons dan adaptasi yang sesuai dengan kemungkinan hasil validasi serta evidence yang dikumpulkan. |
-| **Agreement/action** | Saya menyusun langkah lanjutan yang realistis, mulai dari mengumpulkan data hingga mengevaluasi pilihan karier. Saya tidak mengklaim sudah memperoleh persetujuan teman atau menyelesaikan riset yang belum dilakukan, dan menempatkan validasi kebutuhan sebagai langkah berikutnya. |
-| **Relationship outcome** | Percakapan menjadi ruang untuk membicarakan kekhawatiran tentang masa depan karier. Namun, belum ada evidence bahwa percakapan tersebut menghasilkan kesepakatan atau keputusan bersama. Langkah berikutnya perlu tetap menghormati kebutuhan dan perspektif teman. |
+| **Person & character** | Saya menggunakan percakapan nyata mengenai game development dan masa depan karier. Saya tidak langsung menyamakan kebutuhan teman dengan kebutuhan pribadi, tetapi menggunakan pernyataan langsungnya untuk memahami prioritas target. |
+| **Objective & state** | Saya merumuskan current state, desired state, value, acceptable risk, dan evidence threshold. Pesan teman memberikan konfirmasi langsung mengenai kebutuhan informasi pasar kerja, kestabilan finansial, eksplorasi teknis, dan makna pekerjaan. |
+| **Repertoire, language & AI** | Saya menyusun feature–benefit–value–outcome chain yang menghubungkan riset industri dengan manfaat dan hasil keputusan karier yang diharapkan. AI digunakan untuk membantu struktur analisis, bukan sebagai sumber utama fakta industri. |
+| **Response & adaptation** | Saya menyesuaikan pendekatan berdasarkan kebutuhan yang disampaikan teman. Fokus solusi diarahkan pada perbandingan beberapa jalur karier, bukan sekadar meyakinkan teman agar tetap mengejar game development. |
+| **Agreement/action** | Desired state telah divalidasi melalui pesan aktual. Namun, pembagian tugas, jadwal diskusi, dan pelaksanaan riset belum dikonfirmasi atau diselesaikan. |
+| **Relationship outcome** | Percakapan membantu memperjelas kebutuhan teman dan arah informasi yang relevan. Tahap berikutnya adalah memastikan format tindak lanjut serta mengevaluasi apakah hasil riset benar-benar membantu. |
 
 ## 11. Penggunaan AI
 
@@ -241,7 +295,7 @@ AI dapat digunakan untuk membantu mengelompokkan informasi lowongan, menyusun ta
 
 ### Alat dan Peran AI
 
-ChatGPT dapat membantu menyusun struktur analisis, mengorganisasi data yang telah dikumpulkan, dan membuat perbandingan berdasarkan kriteria yang konsisten.
+ChatGPT digunakan untuk membantu menyusun struktur analisis, mengorganisasi pertanyaan riset, dan membuat perbandingan berdasarkan kriteria yang konsisten.
 
 ### Prompt atau Instruksi Penting
 
@@ -249,83 +303,89 @@ Instruksi yang relevan adalah meminta bantuan menyusun tabel perbandingan jalur 
 
 ### Bagian Output yang Digunakan, Diubah, atau Ditolak
 
-Saran AI dapat digunakan sebagai kerangka awal untuk menyusun analisis dan rencana riset. Hasil akhirnya perlu disesuaikan dengan data yang benar-benar ditemukan.
+Saran AI digunakan sebagai kerangka awal untuk menyusun analisis, mengidentifikasi kebutuhan yang telah disampaikan, dan merancang rencana riset.
 
-Saya tidak akan menggunakan output AI sebagai bukti bahwa teman telah menyetujui desired state tertentu. Saya juga tidak akan menganggap angka gaji, jumlah lowongan, atau klaim mengenai industri sebagai fakta sebelum memeriksa sumbernya.
+Isi akhirnya disesuaikan dengan pesan aktual teman dan status evidence yang tersedia. Saya tidak menggunakan dialog buatan sebagai pengganti percakapan nyata dan tidak mengklaim bahwa tindakan yang belum dilakukan telah selesai.
+
+Saya juga tidak menganggap angka gaji, jumlah lowongan, atau klaim mengenai industri sebagai fakta sebelum memeriksa sumbernya.
 
 ### Pemeriksaan Accuracy, Privacy, dan Authority
 
-- **Accuracy:** Setiap angka dan klaim faktual perlu ditelusuri ke sumber yang dapat diperiksa. AI tidak boleh menjadi satu-satunya sumber data gaji atau kondisi industri.
-- **Privacy:** Saya tidak perlu memasukkan identitas atau detail pribadi teman yang tidak diperlukan untuk analisis.
+- **Accuracy:** Setiap angka dan klaim faktual perlu ditelusuri ke sumber yang dapat diperiksa. AI tidak menjadi satu-satunya sumber data gaji atau kondisi industri.
+- **Privacy:** Identitas dan detail pribadi teman yang tidak diperlukan tidak dimasukkan dalam analisis.
 - **Authority:** AI berfungsi sebagai alat bantu analisis, bukan pengganti evidence aktual atau penentu keputusan karier.
 
 ### Apa yang Tetap Saya Pelajari sebagai Manusia
 
 Saya tetap bertanggung jawab untuk memahami kebutuhan target, memeriksa informasi, menilai kualitas evidence, dan menentukan keputusan yang sesuai dengan situasi pribadi.
 
-AI dapat membantu mengorganisasi informasi, tetapi tidak dapat memastikan desired state teman tanpa percakapan langsung. Keputusan karier tetap membutuhkan pertimbangan manusia terhadap minat, kemampuan, kondisi finansial, dan prioritas pribadi.
+AI dapat membantu mengorganisasi informasi, tetapi tidak menggantikan percakapan langsung untuk memahami kebutuhan teman. Keputusan karier tetap membutuhkan pertimbangan manusia terhadap minat, kemampuan, kondisi finansial, dan prioritas pribadi.
 
 ## 12. Feedback dan Tindak Lanjut
 
 ### 12.1 Feedback yang Tersedia
 
-Evidence yang tersedia berasal dari percakapan WhatsApp pada 27 September 2026 sekitar pukul 00.43. Percakapan menunjukkan adanya kekhawatiran tentang industri kreatif, pasar kerja, dan masa depan setelah kuliah.
+Evidence yang tersedia menunjukkan dua tahap komunikasi.
 
-Namun, percakapan berhenti sebelum menghasilkan keputusan atau rencana konkret. Saya belum memiliki feedback aktual dari teman mengenai solution hypothesis berupa riset industri yang lebih terstruktur.
+Percakapan awal memperlihatkan kekhawatiran mengenai industri kreatif, pasar kerja, dan masa depan setelah kuliah. Pesan lanjutan teman kemudian memperjelas kebutuhan yang sebelumnya masih umum.
 
-Karena itu, saya tidak dapat menyimpulkan bahwa teman telah menerima solusi, menyetujui desired state, atau mengalami perubahan setelah percakapan tersebut.
+Teman menyatakan bahwa ia membutuhkan gambaran konkret mengenai peluang kerja, kisaran gaji, kestabilan studio, prospek jangka panjang, dan alternatif karier yang masih memberi ruang bagi kemampuan teknis serta pekerjaan yang bermakna.
+
+Feedback ini menjawab prioritas validasi desired state. Namun, belum ada hasil riset atau evaluasi lanjutan yang menunjukkan apakah solusi informasi yang direncanakan benar-benar memenuhi kebutuhannya.
 
 ### 12.2 Adaptation/Replay
 
-Jika mengulangi proses komunikasi, saya akan memulai dengan memahami kebutuhan teman melalui pertanyaan terbuka.
+Pada tindak lanjut berikutnya, saya akan menyusun informasi berdasarkan pertanyaan yang sudah disampaikan teman, kemudian mengonfirmasi apakah informasi tersebut sudah cukup relevan untuk membantu pertimbangannya.
 
-Setelah itu, saya akan merangkum kebutuhannya dan meminta konfirmasi sebelum menyusun solusi. Jika ia membutuhkan informasi mengenai kondisi pasar kerja, saya dapat menawarkan riset bersama. Jika ia lebih membutuhkan dukungan emosional, saya akan mendengarkan terlebih dahulu tanpa memaksakan analisis data.
+Saya juga perlu memastikan format tindak lanjut yang diinginkan teman. Saya tidak akan menganggap bahwa ia bersedia mengerjakan riset bersama atau mengikuti jadwal tertentu sebelum hal tersebut disepakati secara langsung.
 
-Saya juga akan membedakan hasil riset dari interpretasi pribadi dan menyampaikan keterbatasan informasi secara terbuka.
+Jika hasil riset belum menjawab pertanyaan tertentu, saya akan mencatat bagian yang masih kurang dan menentukan apakah diperlukan sumber tambahan.
 
 ### 12.3 Next Practice
 
-Tindakan spesifik yang akan saya lakukan adalah mengumpulkan dan membandingkan informasi mengenai lowongan game development dan software engineering di Indonesia.
+Tindakan berikutnya adalah mengumpulkan informasi mengenai lowongan game development dan software engineering di Indonesia, serta mengeksplorasi bidang teknologi lain yang menggunakan keterampilan terkait.
 
-Saya akan mencatat posisi, persyaratan, tanggal akses, serta kisaran gaji jika tersedia. Saya kemudian akan membandingkan kedua jalur berdasarkan kriteria yang konsisten dan mengidentifikasi informasi yang masih belum diketahui.
+Saya akan mencatat posisi, persyaratan, sumber, tanggal akses, dan kisaran gaji jika tersedia. Informasi tersebut akan dibandingkan berdasarkan kestabilan finansial, prospek jangka panjang, pengembangan kemampuan teknis, kreativitas, dan makna pekerjaan.
 
-Setelah memperoleh gambaran awal, saya akan menentukan satu langkah kecil yang realistis, seperti memprioritaskan kompetensi tertentu atau mengembangkan proyek game sebagai eksperimen sambil terus belajar software engineering.
+Setelah memperoleh gambaran awal, saya akan meminta feedback teman untuk mengevaluasi apakah informasi tersebut menjawab kebutuhan yang telah disampaikan. Hasil evaluasi dapat digunakan untuk menentukan pertanyaan berikutnya atau memilih langkah eksplorasi yang lebih spesifik.
 
-Saya juga akan mengonfirmasi desired state teman sebelum menganggap riset tersebut sebagai solusi bersama. Rencana ini belum terlaksana dan akan dievaluasi setelah evidence terkumpul.
+Riset dan evaluasi tersebut belum selesai, sehingga hasilnya tidak saya klaim sebagai evidence yang sudah tersedia.
 
 ## 13. Refleksi
 
-Dari situasi ini, saya menyadari bahwa kekhawatiran terhadap masa depan karier dapat membuat saya terlalu cepat menganggap kondisi industri sebagai sesuatu yang buruk atau tidak menjanjikan. Padahal, pernyataan dalam percakapan merupakan ekspresi kekhawatiran dan bukan bukti yang cukup untuk menyimpulkan kondisi seluruh industri.
+Dari situasi ini, saya menyadari bahwa kekhawatiran terhadap masa depan karier dapat membuat seseorang terlalu cepat menganggap kondisi industri sebagai sesuatu yang buruk atau tidak menjanjikan. Padahal, pernyataan dalam percakapan merupakan ekspresi kekhawatiran dan bukan bukti yang cukup untuk menyimpulkan kondisi seluruh industri.
 
-Saya juga belajar bahwa desired state bukan sekadar keadaan yang menurut saya ideal. Desired state harus berkaitan dengan kebutuhan orang yang menjadi target komunikasi. Karena percakapan sebelumnya belum menghasilkan konfirmasi, saya perlu menanyakan perubahan apa yang sebenarnya diinginkan teman sebelum menganggap solusi riset karier sebagai jawaban yang sesuai.
+Saya juga belajar bahwa desired state perlu dirumuskan berdasarkan kebutuhan target, bukan ditentukan sepihak berdasarkan solusi yang menurut saya paling masuk akal. Pesan lanjutan teman membantu memperjelas bahwa ia ingin membandingkan beberapa pilihan karier dengan mempertimbangkan minat teknis, kreativitas, kestabilan finansial, prospek jangka panjang, dan makna pekerjaan.
 
-Langkah paling realistis saat ini adalah mengumpulkan evidence mengenai industri game Indonesia, peluang kerja, dan gaji, lalu menggunakan hasilnya untuk menentukan langkah karier yang bisa dievaluasi kembali.
+Dengan demikian, solusi yang sesuai bukan langsung menentukan apakah game development layak dijadikan karier utama. Saya perlu membantu menyediakan gambaran yang realistis agar teman dapat mengevaluasi pilihannya sendiri.
 
-Untuk sementara, menjadikan game development sebagai proyek sampingan sambil mengembangkan kompetensi software engineering dapat dipertimbangkan tanpa harus menutup kemungkinan untuk terjun lebih jauh ke industri game pada masa depan.
+Langkah berikutnya adalah mengumpulkan evidence industri, memastikan format tindak lanjut, dan mengevaluasi apakah informasi yang diperoleh benar-benar membantu. Tujuan saya bukan menghilangkan seluruh ketidakpastian, melainkan membantu membuat keputusan yang lebih terarah berdasarkan informasi yang dapat diperiksa.
 
 ## 14. Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Saya menggunakan pengalaman nyata dari percakapan WhatsApp mengenai game development dan masa depan karier. Saya membedakan kekhawatiran pribadi dari kebutuhan teman yang belum dikonfirmasi serta merancang pertanyaan untuk memahami perspektifnya. |
-| Objective & State | 4 | Saya merumuskan current state, desired state sementara, value, acceptable risk, dan evidence threshold. Saya juga menjelaskan bahwa desired state teman belum terkonfirmasi dan kekhawatiran tentang industri belum dapat diperlakukan sebagai fakta statistik. |
-| Repertoire, Language & AI | 4 | Saya menyusun feature–benefit–value–outcome chain yang menghubungkan riset industri dengan manfaat dan hasil keputusan karier yang diharapkan. Saya juga menjelaskan keterbatasan chain dan penggunaan AI sebagai alat bantu yang hasil faktualnya harus diverifikasi. |
-| Response & Adaptation | 4 | Saya mengidentifikasi risiko generalisasi, data gaji yang tidak representatif, perbandingan yang tidak seimbang, dan asumsi tentang kebutuhan target. Saya merancang respons dan adaptasi berdasarkan hasil validasi serta evidence yang akan dikumpulkan. |
-| Agreement, Action & Relationship | 4 | Saya menyusun langkah lanjutan yang realistis, mulai dari mengumpulkan data hingga mengevaluasi pilihan karier. Saya tidak mengklaim telah memperoleh persetujuan teman atau menyelesaikan riset yang belum dilakukan, dan menempatkan validasi kebutuhan sebagai langkah berikutnya. |
+| Person & Character | 4 | Saya menggunakan percakapan nyata dan membedakan kebutuhan teman dari asumsi pribadi. |
+| Objective & State | 4 | Saya merumuskan current state dan desired state berdasarkan pesan aktual yang menyebut kebutuhan informasi, prioritas finansial, eksplorasi teknis, dan makna pekerjaan. |
+| Repertoire, Language & AI | 4 | Saya menyusun feature–benefit–value–outcome chain serta menjelaskan keterbatasan solusi dan peran AI. |
+| Response & Adaptation | 4 | Saya menyesuaikan pendekatan berdasarkan kebutuhan yang disampaikan teman dan mengarahkan solusi pada perbandingan beberapa jalur karier. |
+| Agreement, Action & Relationship | 4 | Saya membedakan validasi kebutuhan yang sudah terjadi dari pembagian tugas, jadwal diskusi, dan riset yang masih perlu ditindaklanjuti. |
 
-**Total: 20/20 — Self-assessment**
+**Total: 20/20, self-assessment**
 
-Skor ini merupakan penilaian mandiri berdasarkan rancangan dan refleksi yang telah disusun. Kekuatan utamanya adalah keterhubungan antara current state, desired state, value chain, risiko, evidence threshold, dan rencana adaptasi.
+Skor ini merupakan penilaian mandiri berdasarkan analisis dan evidence komunikasi yang tersedia. Validasi desired state telah diperkuat melalui pesan aktual teman.
 
-Validasi langsung dengan teman serta pengumpulan evidence industri tetap menjadi pekerjaan berikutnya untuk memperkuat bukti aktual. Skor ini bukan jaminan nilai akhir dari pengajar.
+Namun, riset industri, penetapan rincian tindak lanjut, dan evaluasi hasil solusi masih menjadi pekerjaan berikutnya. Skor ini bukan jaminan nilai akhir dari pengajar.
 
 ## 15. Kesimpulan
 
 Komunikasi mengenai masa depan karier tidak cukup hanya dengan memberikan dorongan atau menyampaikan kekhawatiran tentang industri. Saya perlu memahami keadaan yang ingin dicapai, mengidentifikasi informasi yang benar-benar dibutuhkan, dan menghubungkan solusi dengan hasil yang relevan bagi target.
 
-Dengan mengumpulkan evidence tentang industri game Indonesia dan memvalidasi kebutuhan teman, saya dapat mengubah kekhawatiran yang masih umum menjadi pertanyaan yang lebih konkret dan langkah berikutnya yang realistis.
+Pesan lanjutan teman mengonfirmasi bahwa ia membutuhkan informasi konkret untuk membandingkan game development, software engineering, dan bidang teknologi lain. Prioritasnya mencakup kestabilan finansial, prospek jangka panjang, pengembangan kemampuan teknis, kreativitas, dan pekerjaan yang bermakna.
 
-Keputusan karier tetap terbuka untuk dievaluasi kembali ketika evidence baru tersedia. Tujuan saya bukan menghilangkan seluruh ketidakpastian, melainkan membuat keputusan yang lebih terarah berdasarkan informasi yang dapat diperiksa, minat pribadi, kebutuhan finansial, dan kondisi nyata.
+Dengan demikian, validasi desired state sudah memiliki evidence aktual. Tahap berikutnya adalah mengumpulkan data yang dapat diperiksa, mengonfirmasi rincian tindak lanjut, dan mengevaluasi apakah informasi yang diperoleh menjawab kebutuhan teman.
+
+Tujuan saya bukan menentukan pilihan karier untuk teman, melainkan membantu menyediakan dasar pertimbangan yang realistis agar ia dapat mengevaluasi pilihan sesuai minat, kebutuhan finansial, dan nilai pribadinya.
 
 ::: {.assessor-only}
 
