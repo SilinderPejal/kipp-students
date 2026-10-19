@@ -1,3 +1,4 @@
+
 ---
 title: "Target–Attention Challenge"
 week: 6
@@ -8,62 +9,124 @@ description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
 ---
 
-## Kompetensi target
+# Week 06 — Target–Attention Challenge
 
-Memilih target yang relevan dan menyampaikan isu dengan cara yang membuat target memahami mengapa isu tersebut penting, menggunakan bukti dari pengalaman nyata, respons target, serta refleksi tentang langkah selanjutnya.
+## 1. Kompetensi yang Ditargetkan
 
-## Evidence wajib
+Pada minggu ini, saya berlatih mengidentifikasi target komunikasi, memahami kebutuhan dan kondisi awal target, menyusun pesan yang relevan, serta mengevaluasi respons yang muncul setelah komunikasi berlangsung.
 
-- Target map dan alasan memilih satu target.
-- Problem/opportunity pitch serta evidence.
-- Response, state sesudah pitch, dan adaptation.
+Saya menggunakan pengalaman pribadi dan interaksi dengan teman sebagai dasar refleksi. Fokus utama saya adalah bagaimana dukungan sebaya dan informasi yang tepat dapat membantu mengurangi stigma kesehatan mental tanpa menggantikan peran tenaga profesional.
+
+## 2. Evidence Wajib
+
+Evidence utama dalam dokumen ini adalah:
+
+1. Percakapan WhatsApp dengan Natan pada 29 Mei mengenai tantangan kuliah, nilai, dan ADHD.
+2. Pesan Discord STEI '26 pada 28 Juli 2026 yang berisi informasi mengenai akses layanan psikiater melalui BPJS.
+3. Respons yang saya terima serta refleksi saya mengenai dukungan sebaya, stigma, dan batas peran dalam membantu orang lain.
+
+Evidence tersebut digunakan untuk menganalisis komunikasi yang benar-benar terjadi. Rencana tindakan yang belum dilakukan akan dinyatakan sebagai rencana, bukan sebagai hasil yang sudah tercapai.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## 3. Target Map
 
-## Target map
+### 3.1 Identifikasi Target
 
-| Person | Relevance | Authority | Current state |
+| Target | Kebutuhan atau kondisi | Hal yang dapat saya lakukan | State yang ingin dicapai |
 |---|---|---|---|
-| Adik tingkat STEI '26 | Membutuhkan informasi dan ruang yang aman untuk membicarakan kesehatan mental | Dapat menerima informasi, memberikan respons, dan ikut membangun percakapan yang lebih terbuka | Sudah menerima informasi dan, menurut pengamatan saya, menjadi lebih berani membicarakan kesehatan mental |
-| Natan, teman dekat | Memahami sebagian tantangan akademik yang saya alami karena ADHD dan pernah memberikan dukungan emosional | Dapat memberikan dukungan sebagai teman, tetapi tidak memiliki otoritas profesional untuk menangani ADHD atau mengubah sistem akademik | Sudah menunjukkan empati dan memahami bahwa kesulitan yang saya alami bukan sekadar kurangnya usaha |
-| Teman-teman dalam friend group | Memiliki kepedulian yang dapat menjadi dasar untuk membangun ruang dukungan sebaya | Dapat menyepakati cara saling mendukung dan batasan yang sehat | Dukungan masih berada dalam lingkup pertemanan; komunitas yang lebih terstruktur belum dibentuk |
-| Tenaga profesional kesehatan mental | Diperlukan ketika seseorang membutuhkan penilaian atau bantuan yang melampaui kemampuan teman sebaya | Memiliki kompetensi profesional sesuai ruang lingkup praktiknya | Saya mendorong orang untuk mempertimbangkan bantuan profesional ketika kesulitan yang dialami terasa berat |
+| Adik tingkat STEI '26 | Membutuhkan informasi dan ruang aman untuk membicarakan kesehatan mental. | Membagikan informasi yang relevan dan membantu membuka percakapan tanpa menghakimi. | Mereka memperoleh informasi dan, berdasarkan pengamatan saya, lebih bersedia membicarakan kesehatan mental. |
+| Natan, teman dekat | Memahami sebagian tantangan akademik saya dan memberikan dukungan emosional. | Berkomunikasi secara terbuka sebagai teman dan menerima dukungan tanpa menganggap teman dapat menangani semua masalah. | Ia memahami bahwa kesulitan yang saya alami bukan sekadar kurangnya usaha, dan saya merasa lebih didukung. |
+| Friend group | Kepedulian antaranggota berpotensi menjadi dasar dukungan sebaya. | Mendiskusikan bentuk dukungan yang nyaman, privasi, dan batasan yang sehat. | Anggota memahami bentuk dukungan yang dapat diberikan tanpa harus membentuk komunitas formal. |
+| Tenaga profesional kesehatan mental | Memiliki kompetensi untuk memberikan bantuan sesuai ruang lingkup profesionalnya. | Mendorong orang mempertimbangkan bantuan profesional ketika kebutuhan mereka melampaui dukungan teman. | Orang memahami bahwa bantuan profesional merupakan pilihan yang dapat dipertimbangkan ketika diperlukan. |
 
-Saya membedakan dua target utama berdasarkan tujuannya. **Natan** merupakan target dalam konteks pengalaman personal saya menghadapi ADHD dan tantangan akademik. Sementara itu, **adik tingkat dan teman sebaya** merupakan target advokasi saya untuk mengurangi stigma, membagikan informasi tentang akses bantuan profesional, dan membuat orang merasa tidak sendirian.
+### 3.2 Perbedaan Target Personal dan Target Advokasi
 
-Saya memilih adik tingkat sebagai target advokasi karena percakapan mengenai kesehatan mental benar-benar muncul dari mereka. Saya dapat merespons kebutuhan tersebut dengan informasi praktis dan dukungan tanpa menghakimi. Natan tetap menjadi bagian penting dari refleksi saya karena pengalaman didengarkan olehnya membantu saya memahami pentingnya dukungan interpersonal.
+Natan merupakan target dalam konteks personal karena percakapan kami berkaitan dengan tantangan akademik, ADHD, dan dukungan emosional yang saya alami.
 
-## Attention pitch
+Sementara itu, adik tingkat STEI '26 merupakan target advokasi. Saya ingin membantu mengurangi stigma kesehatan mental, membagikan informasi mengenai akses bantuan profesional, dan membuat orang merasa tidak sendirian ketika menghadapi kesulitan.
 
-Saya tidak melakukan presentasi formal. Bagian ini merupakan rekonstruksi pesan yang mencerminkan tujuan advokasi saya, bukan kutipan verbatim dari satu percakapan.
+Saya memilih adik tingkat sebagai target advokasi karena pembicaraan mengenai kesehatan mental muncul dari interaksi dengan mereka. Saya tidak menganggap bahwa semua orang memiliki kebutuhan yang sama atau bahwa satu pesan dapat menyelesaikan seluruh permasalahan kesehatan mental.
+
+## 4. Attention Pitch
+
+### 4.1 Pesan yang Ingin Disampaikan
+
+Berikut adalah rekonstruksi pesan advokasi yang merangkum tujuan dan gagasan saya. Teks ini bukan kutipan verbatim dari satu percakapan tertentu.
 
 > Kesulitan kesehatan mental bukan berarti seseorang lemah atau kurang berusaha. Terkadang, kita menghadapi beban yang terasa terlalu berat dan tidak tahu harus mulai dari mana. Kita bisa mulai dengan saling mendengarkan tanpa menghakimi, membagikan informasi yang berguna, dan mencari bantuan profesional ketika diperlukan. Pergi ke psikiater atau memiliki masalah kesehatan mental bukan sesuatu yang memalukan. Kita tidak harus menghadapi semuanya sendirian.
 
-### Evidence yang dipakai
+### 4.2 Tujuan Pesan
 
-Saya menggunakan dua pengalaman nyata sebagai dasar refleksi.
+Pesan ini memiliki tiga tujuan utama:
 
-**1. Percakapan WhatsApp dengan Natan**
+1. **Mengurangi stigma:** Menunjukkan bahwa kesulitan kesehatan mental bukan tanda kelemahan atau kurangnya usaha.
+2. **Mendorong dukungan sebaya:** Mengajak orang untuk mendengarkan tanpa menghakimi dan tidak terburu-buru memberikan solusi.
+3. **Membuka akses terhadap bantuan:** Membantu orang mengetahui bahwa bantuan profesional dapat dipertimbangkan ketika dibutuhkan.
 
-Dalam percakapan tanggal 29 Mei, saya menceritakan frustrasi dan kecemasan mengenai kehidupan kuliah, nilai, serta kesulitan yang saya alami karena ADHD.
+### 4.3 Pendekatan Komunikasi
+
+Saya menggunakan pendekatan informal karena komunikasi berlangsung dalam lingkungan pertemanan dan komunitas mahasiswa. Saya ingin menyampaikan informasi dengan bahasa yang mudah dipahami tanpa membuat orang merasa sedang dinilai atau dipaksa untuk menceritakan pengalaman pribadi.
+
+Saya juga menyadari bahwa pesan advokasi tersebut merupakan rangkuman tujuan saya, bukan pitch formal yang telah diuji secara sistematis. Oleh karena itu, saya belum dapat menyimpulkan bahwa pesan tersebut secara langsung menghasilkan perubahan sikap atau perilaku pada semua penerimanya.
+
+## 5. Konteks Performance
+
+**Tanggal dan setting:**
+
+Ada dua konteks utama dalam refleksi ini.
+
+Pertama, percakapan WhatsApp dengan Natan pada 29 Mei mengenai frustrasi dan kecemasan saya terhadap kehidupan kuliah, nilai, serta kesulitan yang saya alami karena ADHD.
+
+Kedua, pesan Discord STEI '26 pada 28 Juli 2026 ketika saya membagikan informasi mengenai akses layanan psikiater melalui BPJS setelah muncul pembicaraan mengenai kesehatan mental.
+
+Kedua pengalaman berlangsung dalam komunikasi informal, bukan presentasi formal.
+
+**Persons dan relationship:**
+
+Saya adalah mahasiswa yang mengalami tantangan akademik terkait ADHD dan memiliki kepedulian terhadap stigma kesehatan mental.
+
+Natan merupakan teman dekat yang memberikan dukungan emosional. Adik tingkat STEI '26 merupakan target advokasi yang menerima informasi mengenai akses bantuan profesional. Teman-teman dalam friend group berpotensi menjadi bagian dari dukungan sebaya, sedangkan tenaga profesional kesehatan mental memiliki kompetensi untuk memberikan bantuan sesuai ruang lingkup praktiknya.
+
+**Objective dan initial state:**
+
+Tujuan personal saya adalah memperoleh dukungan ketika menghadapi frustrasi dan kecemasan akademik. Tujuan advokasi saya adalah mengurangi stigma kesehatan mental, membagikan informasi praktis, dan membantu orang merasa tidak sendirian.
+
+Pada awal percakapan dengan Natan, saya merasa frustrasi dan menyalahkan diri sendiri atas kesulitan yang saya alami karena ADHD. Dalam konteks advokasi, saya melihat kebutuhan untuk membagikan informasi akses bantuan profesional dan mendorong percakapan yang tidak menghakimi.
+
+## 6. Evidence
+
+::: {.evidence-block}
+
+### Evidence 1 — Percakapan WhatsApp dengan Natan
+
+**Tanggal:** 29 Mei
+
+**Konteks:** Saya menceritakan frustrasi dan kecemasan mengenai kehidupan kuliah, nilai, serta kesulitan yang saya alami karena ADHD.
+
+Cuplikan percakapan:
 
 > **Saya:** "As if i didn't struggle enough during college because of this shit ass adhd".
 
-Natan merespons dengan mengingatkan saya:
+Natan merespons:
 
 > **Natan:** "you shouldn't blame yourself for having adhd"
 
-Ia juga mengatakan bahwa memiliki ADHD bukanlah sesuatu yang salah dan menawarkan untuk menelepon agar saya tahu bahwa ia ada untuk mendukung saya. Saya kemudian mengatakan bahwa saya merasa lebih baik dan berterima kasih kepadanya.
+Ia juga mengatakan bahwa memiliki ADHD bukanlah sesuatu yang salah dan menawarkan untuk menelepon agar saya tahu bahwa ia ada untuk mendukung saya.
 
-Percakapan ini menunjukkan mengapa dukungan tanpa menghakimi penting bagi saya. Seseorang yang sedang kesulitan tidak selalu membutuhkan solusi instan; terkadang, mereka juga membutuhkan ruang untuk bercerita dan merasa dipahami.
+Saya kemudian mengatakan bahwa saya merasa lebih baik dan berterima kasih kepadanya.
 
-**2. Pesan Discord STEI '26**
+**Kontribusi saya:** Menceritakan pengalaman, mengungkapkan kesulitan, dan menerima dukungan dari teman dekat.
 
-Pada 28 Juli 2026, saya membagikan informasi tentang cara mengakses layanan psikiater melalui BPJS setelah ada adik tingkat yang bercerita atau bertanya mengenai kesehatan mental.
+**Makna evidence:** Percakapan ini menunjukkan bahwa respons yang tidak menghakimi dapat membantu seseorang merasa didukung. Saya tidak harus memperoleh solusi langsung untuk merasakan manfaat dari percakapan tersebut.
+
+### Evidence 2 — Pesan Discord STEI '26
+
+**Tanggal:** 28 Juli 2026
+
+**Konteks:** Setelah muncul pembicaraan mengenai kesehatan mental, saya membagikan informasi tentang cara mengakses layanan psikiater melalui BPJS.
 
 Cuplikan pesan yang saya bagikan:
 
@@ -75,81 +138,120 @@ Cuplikan pesan yang saya bagikan:
 > 4. Ambil antrean di faskes rujukan tingkat lanjut.
 > 5. Pilih psikiaternya.
 
-Saya juga menyarankan mereka untuk menyampaikan dengan jujur apa yang sedang dirasakan ketika datang ke fasilitas kesehatan pertama. Selain itu, saya membagikan penilaian pribadi mengenai pendekatan psikiater yang menurut pengalaman saya menjelaskan kondisi dari sisi biologis dan tidak menghakimi.
+Saya juga menyarankan agar orang menyampaikan dengan jujur apa yang sedang dirasakan ketika datang ke fasilitas kesehatan pertama. Saya membagikan pengalaman pribadi mengenai pendekatan psikiater yang menurut saya menjelaskan kondisi dari sisi biologis dan tidak menghakimi.
 
-Informasi tersebut menggambarkan apa yang saya bagikan saat itu. Prosedur BPJS, ketersediaan layanan, dan waktu antrean dapat berubah sehingga tetap perlu diverifikasi sebelum digunakan.
+**Kontribusi saya:** Membagikan informasi praktis dan mendorong adik tingkat untuk mempertimbangkan bantuan profesional tanpa merasa malu.
 
-Tujuan saya bukan mendiagnosis orang lain, melainkan membantu mereka mengetahui bahwa bantuan profesional merupakan pilihan yang dapat dipertimbangkan dan bahwa mencari bantuan bukan tanda kelemahan.
+**Makna evidence:** Informasi praktis dapat membantu seseorang mengetahui langkah awal yang mungkin dilakukan. Namun, membagikan informasi tidak sama dengan memastikan bahwa penerima benar-benar mengakses layanan tersebut.
 
-## Response dan state assessment
+**Batas evidence:** Catatan ini didasarkan pada pengalaman dan pengamatan saya. Saya tidak memiliki data yang menunjukkan berapa banyak orang yang kemudian mengakses layanan profesional. Respons dalam percakapan juga tidak dapat dijadikan bukti perubahan kondisi klinis.
 
-### Respons Natan
+Informasi prosedur BPJS di atas menggambarkan apa yang saya bagikan saat itu. Prosedur, ketersediaan layanan, dan waktu antrean dapat berubah sehingga perlu diverifikasi melalui sumber resmi sebelum digunakan.
 
-Dalam percakapan WhatsApp, Natan merespons pengalaman saya dengan empati. Ia mengakui bahwa semester tersebut terasa berat bagi saya, menawarkan dukungan, dan mengingatkan saya agar tidak menyalahkan diri karena ADHD.
+:::
 
-Setelah percakapan tersebut, saya mengatakan bahwa saya merasa lebih baik. Hal ini menunjukkan perubahan kondisi emosional saya setelah mendapat dukungan, meskipun tidak berarti seluruh masalah akademik saya langsung terselesaikan.
+## 7. Analisis Komunikasi
 
-State awal saya adalah frustrasi, cemas, dan menyalahkan diri sendiri. Setelah mendapat respons Natan, saya merasa lebih didukung dan dipahami.
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Saya membedakan target personal, yaitu Natan sebagai teman yang memberikan dukungan, dari target advokasi, yaitu adik tingkat dan teman sebaya yang membutuhkan informasi serta ruang aman. Saya juga memahami bahwa tenaga profesional memiliki peran berbeda dari teman sebaya. |
+| **Objective & state** | Tujuan personal adalah memperoleh dukungan ketika menghadapi frustrasi dan kecemasan akademik. Tujuan advokasi adalah mengurangi stigma dan membagikan informasi akses bantuan profesional. Pada awal percakapan dengan Natan, saya merasa frustrasi dan menyalahkan diri sendiri. Setelah mendapat responsnya, saya merasa lebih baik. Untuk adik tingkat, saya mengamati apresiasi dan kesediaan yang lebih besar untuk membicarakan kesehatan mental, tetapi tidak memiliki data mengenai penggunaan layanan profesional. |
+| **Repertoire & language** | Saya menggunakan WhatsApp untuk berbagi pengalaman personal dan Discord untuk menyebarkan informasi praktis. Pendekatan informal sesuai dengan hubungan sebaya. Pesan yang tidak menghakimi membantu menyampaikan bahwa kesulitan kesehatan mental bukan tanda kelemahan. Namun, informasi layanan perlu diverifikasi dan tidak boleh dianggap cocok bagi semua orang tanpa mempertimbangkan kebutuhan masing-masing. |
+| **Response & adaptation** | Natan mengingatkan saya agar tidak menyalahkan diri karena ADHD, menawarkan dukungan, dan membantu saya merasa lebih baik. Adik tingkat memberikan apresiasi terhadap informasi yang dibagikan. Dari pengalaman tersebut, saya menyadari bahwa dukungan sebaya tidak cukup hanya berupa informasi. Saya juga perlu mendengarkan kebutuhan orang, memahami batas kemampuan, dan mendorong bantuan profesional ketika diperlukan. |
+| **Agreement/action** | Tindakan yang telah dilakukan adalah menceritakan pengalaman kepada Natan dan membagikan informasi akses layanan psikiater melalui Discord. Belum ada kesepakatan untuk membentuk komunitas formal. Tindakan berikutnya adalah memulai diskusi kecil dengan teman-teman mengenai dukungan sebaya, privasi, dan batasan yang sehat. |
+| **Relationship outcome** | Percakapan dengan Natan membantu saya merasa didukung dan dipahami. Dalam konteks advokasi, respons adik tingkat memberi indikasi bahwa informasi diterima dengan baik. Saya tetap perlu menghormati privasi, tidak memaksakan orang untuk bercerita, dan tidak mengambil tanggung jawab profesional di luar kapasitas saya. |
 
-### Respons adik tingkat
+## 8. Penggunaan AI
 
-Setelah saya membagikan informasi mengenai akses psikiater dan pesan untuk tidak merasa lemah karena mencari bantuan, adik tingkat saya memberikan apresiasi.
+**Menggunakan AI sebagai alat bantu penyusunan dokumen dan refleksi.**
 
-Menurut pengamatan saya, mereka juga menjadi lebih berani membicarakan kesehatan mental.
+### Alat dan peran AI
 
-Respons ini menunjukkan bahwa informasi praktis dan pendekatan yang tidak menghakimi dapat membantu membuka ruang percakapan. Namun, saya tidak memiliki bukti bahwa mereka kemudian benar-benar mengakses layanan profesional, sehingga saya tidak menyimpulkan bahwa tindakan tersebut telah menghasilkan perubahan klinis.
+Saya menggunakan ChatGPT untuk membantu menyusun struktur dokumen Week 06, merapikan penjelasan, dan menghubungkan pengalaman dengan analisis komunikasi TAIDA–Attention.
 
-### Adaptasi terhadap kebutuhan yang lebih luas
+### Prompt atau instruksi penting
 
-Dari pengalaman ini, saya menyadari bahwa dukungan sebaya tidak cukup hanya berupa pemberian informasi. Orang juga membutuhkan ruang yang aman untuk menceritakan kesulitan mereka tanpa takut dianggap lemah.
+Saya meminta bantuan untuk menyusun dokumen Week 06 berdasarkan pengalaman pribadi, percakapan WhatsApp dengan Natan, dan pesan Discord STEI '26 mengenai akses bantuan kesehatan mental.
 
-Saya ingin mengembangkan dukungan yang sudah ada dalam friend group menjadi lebih terarah. Namun, saya juga menyadari keterbatasan saya: saya terkadang khawatir memberikan saran yang salah, bingung ketika masalah seseorang sangat berat, dan merasa terbebani secara emosional.
+### Bagian output yang digunakan, diubah, atau ditolak
 
-Karena itu, saya tidak ingin mengambil peran sebagai pengganti tenaga profesional. Saya ingin belajar mendengarkan dengan lebih baik, memahami batas kemampuan sendiri, dan membantu orang menemukan bantuan yang sesuai ketika dibutuhkan.
+Saya menggunakan saran struktur dan pengorganisasian sebagai bantuan untuk menyusun refleksi. Isi utama tetap didasarkan pada pengalaman dan evidence yang saya sampaikan.
 
-## Evidence dan refleksi
+Saya membedakan kutipan percakapan dari rekonstruksi pesan advokasi. Saya juga tidak menganggap respons teman sebagai bukti perubahan klinis atau mengklaim bahwa penerima informasi pasti menggunakan layanan profesional.
 
-- **Cuplikan WhatsApp dengan Natan:** menunjukkan tantangan akademik yang saya alami, respons empatik dari teman, dan perubahan perasaan saya setelah mendapat dukungan.
-- **Cuplikan Discord STEI '26, 28 Juli 2026:** menunjukkan tindakan advokasi nyata berupa tutorial akses layanan psikiater melalui BPJS dan pesan untuk mengurangi stigma.
-- **Respons adik tingkat:** berdasarkan laporan saya, mereka mengapresiasi informasi tersebut dan menjadi lebih berani membicarakan kesehatan mental.
-- **Batas evidence:** saya tidak memiliki data yang menunjukkan berapa banyak orang yang kemudian mencari bantuan profesional. Saya juga belum membangun komunitas formal atau mengukur dampaknya secara sistematis.
+### Pemeriksaan accuracy, privacy, dan authority
 
-### Pembelajaran
+- **Accuracy:** Saya memisahkan hal yang benar-benar terjadi dari interpretasi dan rencana berikutnya. Informasi prosedur BPJS perlu diperiksa kembali melalui sumber resmi.
+- **Privacy:** Saya membatasi detail pribadi yang dicantumkan dan menggunakan nama sesuai kebutuhan refleksi.
+- **Authority:** Saya tidak menganggap AI atau diri saya sebagai pengganti tenaga profesional kesehatan mental. Dukungan sebaya memiliki batas dan tidak dapat menggantikan evaluasi atau penanganan profesional.
 
-Saya belajar bahwa pengalaman pribadi dapat menjadi dasar empati, tetapi pengalaman saya tidak otomatis sama dengan pengalaman orang lain.
+### Apa yang tetap saya pelajari sebagai manusia
 
-Membagikan informasi praktis dapat membantu seseorang mengetahui langkah awal untuk mencari bantuan. Namun, saya perlu berhati-hati agar tidak memberikan diagnosis atau menganggap bahwa satu pendekatan akan cocok bagi semua orang.
+Saya tetap bertanggung jawab untuk memahami pengalaman sendiri, memeriksa kebenaran informasi, menjaga privasi, menghormati batas kemampuan, dan menentukan cara memberikan dukungan yang aman. AI membantu menyusun tulisan, tetapi tidak dapat menggantikan pengalaman langsung, penilaian pribadi, atau tanggung jawab saya terhadap orang lain.
 
-Saya juga memahami bahwa membantu orang lain membutuhkan batasan yang sehat. Mendengarkan bukan berarti saya harus menyelesaikan semua masalah mereka sendiri. Jika seseorang menghadapi masalah yang melampaui kemampuan saya, saya dapat mendorong mereka mencari bantuan profesional dan mencari dukungan yang sesuai ketika ada risiko keselamatan.
+## 9. Feedback dan Tindak Lanjut
+
+### Feedback yang diterima
+
+Dalam percakapan WhatsApp tanggal 29 Mei, Natan mengingatkan saya agar tidak menyalahkan diri sendiri karena ADHD dan menawarkan dukungan. Saya kemudian mengatakan bahwa saya merasa lebih baik.
+
+Dalam konteks Discord STEI '26 pada 28 Juli 2026, informasi yang saya bagikan mendapat apresiasi dari adik tingkat. Berdasarkan pengamatan saya, mereka juga menjadi lebih bersedia membicarakan kesehatan mental.
+
+Feedback tersebut menunjukkan bahwa dukungan emosional dan informasi praktis dapat diterima dengan baik. Namun, saya tidak memiliki evidence yang membuktikan bahwa mereka kemudian mengakses bantuan profesional atau mengalami perubahan kondisi kesehatan mental.
+
+### Adaptation/replay
+
+Jika mengulangi percakapan, saya akan terlebih dahulu menanyakan apakah orang tersebut ingin didengarkan, memperoleh informasi praktis, atau mendiskusikan pilihan bantuan.
+
+Saya akan menghindari memberikan solusi sebelum memahami kebutuhan orang tersebut. Ketika membagikan informasi layanan kesehatan, saya akan mengingatkan penerima untuk memeriksa prosedur terbaru melalui sumber resmi.
+
+Saya juga akan menjaga batas kemampuan diri. Mendengarkan teman bukan berarti saya harus menyelesaikan seluruh masalahnya atau mengambil peran sebagai tenaga profesional.
 
 ### Next practice
 
-Saya ingin memulai diskusi kecil dengan teman-teman dalam friend group untuk memahami bentuk dukungan yang sebenarnya kami butuhkan.
+Saya akan memulai satu percakapan dengan teman-teman dalam friend group untuk mendiskusikan bentuk dukungan sebaya yang mereka rasa nyaman, termasuk:
 
-Beberapa prinsip yang ingin saya diskusikan:
+1. Cara mendengarkan tanpa menghakimi atau memaksakan solusi.
+2. Cara menjaga privasi ketika teman berbagi pengalaman.
+3. Batas energi emosional dan kemampuan masing-masing.
+4. Situasi ketika bantuan profesional perlu dipertimbangkan.
 
-- Mendengarkan tanpa langsung menghakimi atau memaksakan solusi.
-- Menghormati privasi cerita yang dibagikan.
-- Memahami batas kemampuan dan energi emosional masing-masing.
-- Mengetahui kapan suatu masalah membutuhkan bantuan profesional.
-- Menghindari anggapan bahwa satu teman harus bertanggung jawab menyelesaikan semua masalah orang lain.
+Langkah pertama saya adalah berdiskusi mengenai kebutuhan dan batasan, bukan langsung membentuk komunitas formal. Saya juga tidak akan memaksa semua teman untuk menceritakan pengalaman pribadi.
 
-Langkah pertama saya bukan langsung membangun komunitas formal, melainkan membicarakan kebutuhan dan batasan dukungan bersama teman-teman yang sudah memiliki kepedulian serupa.
+Rencana ini belum terlaksana. Setelah diskusi berlangsung, saya akan mengevaluasi apakah anggota memahami bentuk dukungan dan batasan yang telah dibicarakan.
 
-Rencana ini belum terlaksana. Saya ingin memulainya secara realistis agar dukungan yang diberikan tetap aman bagi orang yang bercerita maupun orang yang mendengarkan.
+## 10. Self-assessment
 
-## Self-assessment
-
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
 | Person & Character | 4 | Saya membedakan kebutuhan adik tingkat, Natan, friend group, dan tenaga profesional berdasarkan hubungan serta peran masing-masing. |
-| Objective & State | 4 | Saya mengidentifikasi tujuan advokasi dan perubahan yang saya amati, sambil membatasi kesimpulan pada respons yang benar-benar saya ketahui. |
-| Repertoire, Language & AI | 3 | Saya menggunakan dukungan empatik dan informasi praktis. Namun, pesan advokasi berlangsung secara alami, bukan sebagai pitch formal yang direncanakan dan diuji. |
+| Objective & State | 4 | Saya mengidentifikasi tujuan personal dan advokasi serta perubahan yang saya amati, sambil membatasi kesimpulan pada respons yang benar-benar saya ketahui. |
+| Repertoire, Language & AI | 3 | Saya menggunakan dukungan empatik dan informasi praktis serta mengakui bahwa pesan advokasi berlangsung secara alami, bukan sebagai pitch formal yang direncanakan dan diuji. |
 | Response & Adaptation | 4 | Saya menggunakan respons Natan dan adik tingkat sebagai bahan refleksi untuk mengembangkan dukungan yang lebih aman dan terarah. |
 | Agreement, Action & Relationship | 3 | Saya telah melakukan advokasi melalui Discord dan memberikan dukungan personal, tetapi rencana diskusi bersama friend group belum terlaksana dan belum ada kesepakatan formal. |
 
-**Total: 18/20 — Penilaian diri sementara.**
+**Total: 18 / 20**
 
-Skor ini merupakan penilaian diri berdasarkan evidence yang tersedia, bukan skor dari penilai eksternal.
+Skor ini merupakan penilaian diri berdasarkan evidence yang tersedia, bukan skor dari penilai eksternal. Nilai diberikan berdasarkan kemampuan saya mengidentifikasi target, menjelaskan tujuan, menganalisis respons, dan menentukan tindak lanjut. Skor yang belum maksimal mencerminkan belum adanya pengukuran dampak yang sistematis dan belum terlaksananya rencana diskusi bersama friend group.
 
-**Kesimpulan:** Saya ingin mengubah pengalaman menghadapi ADHD dan menerima dukungan dari teman menjadi kesempatan untuk membantu orang lain merasa tidak sendirian. Melalui informasi praktis, dukungan tanpa menghakimi, dan rencana membangun ruang dukungan sebaya, saya ingin membantu mengurangi stigma kesehatan mental. Langkah berikutnya adalah memulai diskusi kecil dengan teman-teman agar dukungan yang sudah ada dapat berkembang dengan lebih terarah, tetap menghormati batasan, dan tidak menggantikan bantuan profesional.
+## 11. Kesimpulan
+
+Pengalaman saya menunjukkan dua bentuk komunikasi yang saling melengkapi. Dalam konteks personal, dukungan Natan membantu saya merasa lebih dipahami ketika menghadapi tantangan kuliah dan ADHD. Dalam konteks advokasi, saya membagikan informasi akses layanan profesional agar adik tingkat mengetahui salah satu pilihan bantuan yang tersedia.
+
+Saya belajar bahwa membantu orang lain bukan berarti harus memberikan semua jawaban atau menyelesaikan seluruh masalahnya. Dukungan dapat dimulai dengan mendengarkan tanpa menghakimi, membagikan informasi yang relevan, dan menghormati keputusan serta batas kemampuan setiap orang.
+
+Ke depannya, saya ingin mengembangkan dukungan sebaya yang lebih terarah melalui diskusi kecil dengan friend group. Saya akan tetap menjaga privasi, tidak memaksakan orang untuk bercerita, dan memahami bahwa dukungan teman tidak menggantikan bantuan profesional.
+
+::: {.assessor-only}
+
+### Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+
+:::

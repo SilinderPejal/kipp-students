@@ -1,3 +1,4 @@
+
 ---
 title: "Portfolio Minggu 10 — Action & Agreement Challenge"
 week: 10
@@ -25,15 +26,15 @@ Mampu mengidentifikasi hambatan dalam mencapai tujuan, memahami kewenangan dan p
 
 ## 1. Desire–Action Gap
 
-### 1.1 Tujuan yang ingin dicapai
+### 1.1 Tujuan yang Ingin Dicapai
 
 Aku ingin tetap mengembangkan minat dan keterampilan dalam game development, tetapi tidak harus langsung bergantung pada industri game sebagai sumber penghasilan utama setelah lulus kuliah.
 
 Aku ingin menjadikan game development sebagai side job sambil membangun keterampilan, pengalaman, portofolio, dan jaringan. Dalam jangka panjang, aku ingin mendirikan game studio sendiri ketika sudah memiliki kemampuan, pengalaman, tim, dan sumber daya yang memadai.
 
-### 1.2 Kondisi saat ini
+### 1.2 Kondisi Saat Ini
 
-Aku sudah mencoba mengikuti banyak game jam dan membuat banyak Game Design Document (GDD). Aku juga sudah berhasil membuat game yang dapat dimainkan. Namun, game yang kubuat masih memiliki banyak bug dan masih membutuhkan pengembangan lebih lanjut.
+Aku sudah mencoba mengikuti banyak game jam dan membuat banyak Game Design Document (GDD). Aku juga sudah berhasil membuat game yang dapat dimainkan. Namun, game yang kubuat masih memiliki banyak bug dan membutuhkan pengembangan lebih lanjut.
 
 Pengalaman tersebut menunjukkan bahwa aku sudah mengambil tindakan nyata untuk mengejar minatku. Aku tidak memulai dari nol, karena sudah memiliki pengalaman membuat konsep, mengikuti proses pengembangan, dan menghasilkan game yang dapat dimainkan.
 
@@ -49,9 +50,9 @@ Aku ingin menghindari kebiasaan terus memulai ide baru tanpa mengevaluasi potens
 
 ## 2. Barrier & Authority Map
 
-### 2.1 Hambatan yang dihadapi
+### 2.1 Hambatan yang Dihadapi
 
-| Barrier | Dampak terhadap tujuan | Respons yang dapat dilakukan |
+| Barrier | Dampak terhadap Tujuan | Respons yang Dapat Dilakukan |
 |---|---|---|
 | Kekhawatiran terhadap industri game | Membuatku ragu menjadikan game development sebagai karier utama | Menjadikan game development sebagai side job terlebih dahulu sambil mengevaluasi peluang |
 | Ketidakpastian penghasilan | Berisiko membuatku bergantung pada industri yang belum tentu memberikan pendapatan stabil | Menjaga sumber penghasilan dan pilihan karier lain tetap terbuka |
@@ -60,9 +61,9 @@ Aku ingin menghindari kebiasaan terus memulai ide baru tanpa mengevaluasi potens
 | Waktu kuliah yang terbatas | Dapat memperlambat pengembangan game dan meningkatkan risiko kelelahan | Membatasi lingkup proyek dan menetapkan target yang realistis |
 | Keterbatasan keterampilan atau sumber daya | Membuat pengembangan proyek dan rencana studio menjadi lebih sulit | Mempelajari keterampilan sesuai kebutuhan proyek dan membangun jaringan secara bertahap |
 
-### 2.2 Authority map
+### 2.2 Authority Map
 
-| Pihak | Relevansi | Kewenangan atau peran |
+| Pihak | Relevansi | Kewenangan atau Peran |
 |---|---|---|
 | Aku sendiri | Menentukan tujuan dan menjalankan pengembangan game | Mengatur waktu, memilih proyek, menentukan prioritas, dan mengevaluasi kemajuan |
 | Teman yang tertarik pada game development | Dapat menjadi rekan diskusi atau calon kolaborator | Memberikan masukan atau berkolaborasi apabila bersedia |
@@ -75,16 +76,16 @@ Mendirikan studio juga tidak sepenuhnya berada dalam kendaliku saat ini karena m
 
 ## 3. Options and Trade-offs
 
-### 3.1 Pilihan yang tersedia
+### 3.1 Pilihan yang Tersedia
 
-| Opsi | Keuntungan | Risiko atau trade-off |
+| Opsi | Keuntungan | Risiko atau Trade-off |
 |---|---|---|
 | A. Langsung mengejar game development sebagai karier utama | Dapat memberikan fokus dan pengalaman lebih cepat di industri game | Ketidakpastian penghasilan dan peluang kerja lebih berisiko |
 | B. Menjadikan game development sebagai side job | Tetap dapat mengejar minat sambil menjaga pilihan karier dan kestabilan finansial | Kemajuan proyek mungkin lebih lambat karena waktu terbatas |
 | C. Fokus pada keterampilan IT atau software development sambil membuat game | Memberikan keterampilan yang dapat digunakan pada berbagai bidang dan mendukung pengembangan game | Perhatian terbagi sehingga perkembangan game bisa lebih lambat |
 | D. Langsung membangun game studio | Dapat mulai membangun identitas dan arah bisnis sendiri | Membutuhkan kesiapan tim, pengalaman produksi, sumber daya, dan kemampuan mengelola bisnis yang mungkin belum memadai |
 
-### 3.2 Pilihan yang diambil
+### 3.2 Pilihan yang Diambil
 
 Aku memilih **opsi B, yaitu menjadikan game development sebagai side job sambil mengembangkan keterampilan IT dan membangun portofolio**.
 
@@ -92,7 +93,7 @@ Pilihan ini bukan berarti aku menyerah pada tujuan menjadi game developer. Sebal
 
 Aku juga tidak menganggap side job sebagai tujuan akhir. Ini merupakan pendekatan bertahap menuju tujuan jangka panjang, yaitu mendirikan game studio sendiri ketika sudah lebih siap.
 
-### 3.3 Alasan dan trade-off
+### 3.3 Alasan dan Trade-off
 
 Aku menerima bahwa pengembangan game mungkin berjalan lebih lambat dibandingkan jika aku menjadikannya satu-satunya fokus. Namun, pendekatan ini memberiku ruang untuk belajar, bereksperimen, dan memperbaiki kualitas game tanpa langsung bergantung pada penghasilan dari game development.
 
@@ -101,6 +102,8 @@ Aku juga perlu menerima bahwa mendirikan studio tidak dapat dicapai hanya dengan
 Karena itu, prioritas saat ini bukan langsung mendirikan studio, melainkan memperkuat pengalaman dan kualitas proyek yang sudah kumiliki.
 
 ## 4. Agreement Eksplisit
+
+Agreement ini merupakan **komitmen pribadi yang direncanakan**, bukan kesepakatan tim yang telah disetujui oleh teman atau calon kolaborator.
 
 ### 4.1 Scope
 
@@ -165,13 +168,13 @@ Hasil review akan digunakan untuk menyesuaikan prioritas berikutnya, bukan sekad
 
 ## 5. Action Evidence and Adaptation
 
-### 5.1 Evidence yang sudah dimiliki
+### 5.1 Evidence yang Sudah Dimiliki
 
 Aku sudah memiliki pengalaman mengikuti berbagai game jam, membuat banyak GDD, dan menghasilkan game yang dapat dimainkan. Pengalaman ini menunjukkan bahwa aku telah melewati tahap awal dalam proses pengembangan game.
 
 Namun, fakta bahwa game dapat dimainkan tidak berarti game tersebut sudah bebas bug atau siap dipublikasikan sebagai produk final. Masih adanya bug menunjukkan bahwa pengujian, debugging, dan penyempurnaan merupakan keterampilan yang perlu terus dikembangkan.
 
-### 5.2 Action berikutnya
+### 5.2 Action Berikutnya
 
 Aku akan memulai dengan mengevaluasi proyek yang sudah ada, bukan langsung membuat GDD baru.
 
@@ -184,7 +187,7 @@ Setelah memilih satu proyek prioritas, aku akan mengelompokkan masalah yang dite
 
 Aku akan memprioritaskan bug yang paling mengganggu fungsi utama game. Setelah perbaikan dilakukan, aku akan menguji kembali bagian terkait untuk memastikan bahwa perubahan tersebut bekerja sesuai harapan dan tidak menimbulkan masalah baru.
 
-### 5.3 Adaptasi jika menghadapi hambatan
+### 5.3 Adaptasi Jika Menghadapi Hambatan
 
 Jika bug terlalu banyak, aku akan memulai dari bug yang paling berdampak terhadap gameplay inti.
 
@@ -194,7 +197,7 @@ Jika terdapat keterampilan yang belum dikuasai, aku akan mempelajarinya berdasar
 
 Jika jadwal kuliah padat, aku akan membagi pengerjaan menjadi sesi yang lebih kecil dan realistis. Kemajuan yang konsisten lebih penting daripada memaksakan target besar yang berisiko menyebabkan kelelahan.
 
-### 5.4 Arah jangka panjang
+### 5.4 Arah Jangka Panjang
 
 Dalam jangka panjang, aku ingin mengembangkan game development sebagai side job sampai memiliki pengalaman dan portofolio yang lebih kuat.
 
@@ -214,9 +217,32 @@ Aku juga menyadari bahwa mendirikan studio sendiri membutuhkan lebih dari sekada
 
 Langkah paling realistis saat ini adalah menggunakan pengalaman yang sudah kumiliki, memilih satu proyek yang layak dikembangkan, dan memperbaikinya secara bertahap tanpa mengabaikan tanggung jawab utama.
 
-## 7. Self-Assessment
+## 7. Penggunaan AI
 
-Skor berikut merupakan target self-assessment pribadi berdasarkan rancangan refleksi ini. Skor akhir perlu disesuaikan dengan bukti aktual dan kriteria penilaian yang digunakan.
+AI dapat digunakan untuk membantu menyusun struktur evaluasi proyek, mengelompokkan bug berdasarkan dampak, dan membuat daftar pertanyaan untuk menilai kelayakan proyek sebagai portofolio.
+
+## 8. Feedback dan Tindak Lanjut
+
+Feedback yang sudah tersedia dari pengalaman sebelumnya adalah bahwa aku telah berhasil menghasilkan game yang dapat dimainkan, tetapi game tersebut masih memiliki banyak bug dan membutuhkan pengembangan lebih lanjut.
+
+Belum ada hasil review baru yang dapat digunakan untuk menyatakan bahwa rencana perbaikan ini sudah berhasil. Pemilihan proyek prioritas, penyusunan daftar bug, dan pengujian setelah perbaikan masih menjadi tindakan berikutnya.
+
+Setelah tindakan dilakukan, aku akan mengevaluasi hasil berdasarkan evidence yang dapat diperiksa, seperti daftar bug sebelum dan sesudah perbaikan, hasil pengujian gameplay, serta catatan perubahan yang dilakukan.
+
+## 9. Analisis Komunikasi dan Agreement
+
+| Dimensi | Analisis |
+|---|---|
+| Person & Character | Aku ingin mengejar minat dalam game development tanpa mengabaikan keberlanjutan karier dan kebutuhan finansial. |
+| Objective & State | Kondisi saat ini sudah mencakup pengalaman game jam, GDD, dan game yang dapat dimainkan. Tujuan berikutnya adalah meningkatkan kualitas proyek dan membangun portofolio. |
+| Repertoire, Language & AI | Pilihan dijelaskan melalui beberapa alternatif dan trade-off. AI dapat membantu menyusun evaluasi, tetapi fakta dan hasil pengujian tetap harus diverifikasi. |
+| Response & Adaptation | Hambatan direspons melalui pemilihan proyek, prioritas bug, pembatasan scope, dan penyesuaian jadwal. |
+| Agreement & Action | Scope, owner, deadline, evidence, stop rule, dan review sudah dirumuskan sebagai komitmen pribadi. Pelaksanaan dan evaluasi aktual belum dapat diklaim selesai. |
+| Relationship Outcome | Teman atau calon kolaborator dapat menjadi sumber masukan, tetapi belum ada dasar untuk menyatakan bahwa mereka telah menyepakati pembagian kerja. |
+
+## 10. Self-Assessment
+
+Skor berikut merupakan self-assessment pribadi berdasarkan rancangan refleksi dan informasi yang tersedia. Skor ini bukan nilai resmi assessor. Penilaian akhir sebaiknya mempertimbangkan bukti pelaksanaan action dan hasil review yang benar-benar tersedia.
 
 | Kategori | Skor | Alasan |
 |---|---:|---|
@@ -225,9 +251,11 @@ Skor berikut merupakan target self-assessment pribadi berdasarkan rancangan refl
 | Repertoire, Language & AI | 3/4 | Pilihan dan trade-off telah dianalisis, tetapi evidence eksternal tentang kondisi industri belum menjadi dasar utama keputusan ini. |
 | Response & Adaptation | 4/4 | Hambatan, alternatif respons, stop rule, dan rencana adaptasi telah dijelaskan. |
 | Agreement, Action & Relationship | 4/4 | Scope, owner, deadline, evidence, stop rule, dan review telah dirumuskan; agreement ini masih berupa komitmen pribadi. |
-| **Total** | **19/20** | **Target self-assessment; bukan nilai resmi assessor.** |
+| **Total** | **19/20** | **Target self-assessment, bukan nilai resmi assessor.** |
 
-## 8. Ringkasan Action
+Catatan: skor ini mencerminkan penilaian terhadap kelengkapan perencanaan dan refleksi. Karena action berikutnya belum disertai evidence pelaksanaan dan review, skor perlu ditinjau kembali apabila rubrik dosen mensyaratkan bukti implementasi aktual.
+
+## 11. Ringkasan Action
 
 | Elemen | Keputusan |
 |---|---|
@@ -240,3 +268,23 @@ Skor berikut merupakan target self-assessment pribadi berdasarkan rancangan refl
 | Evidence berikutnya | Proyek terpilih, daftar bug, prioritas perbaikan, dan rencana pengerjaan |
 | Stop rule | Menjaga keseimbangan dengan kuliah, kebutuhan finansial, dan kesehatan |
 | Review | Mengevaluasi kualitas game, kelayakan portofolio, dan keterampilan yang masih dibutuhkan |
+
+## 12. Kesimpulan
+
+Aku tidak harus memilih antara meninggalkan game development dan langsung menjadikannya karier utama. Aku dapat mengejar minat tersebut secara bertahap melalui side job sambil memperkuat keterampilan IT, menjaga pilihan karier tetap terbuka, dan membangun portofolio.
+
+Tindakan terdekat yang paling realistis adalah mengevaluasi game yang sudah pernah kubuat, memilih satu proyek prioritas, dan menyusun daftar perbaikan berdasarkan dampaknya terhadap gameplay.
+
+Keberhasilan langkah ini akan dinilai berdasarkan bukti yang dihasilkan, bukan hanya niat atau rencana. Dengan pendekatan tersebut, aku dapat mengembangkan kemampuan secara lebih terarah sambil mempertimbangkan tujuan jangka panjang untuk mendirikan game studio sendiri.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
