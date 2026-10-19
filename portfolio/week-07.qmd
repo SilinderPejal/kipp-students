@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -23,3 +23,68 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Attention evidence dan solution hypothesis
+
+Aku pernah membagikan informasi tentang cara mengakses layanan psikiater melalui BPJS di Discord STEI ’26 pada 28 Juli 2026. Informasi tersebut mendapat apresiasi dari teman-teman dan memunculkan diskusi tentang kesehatan mental. Aku juga memiliki pengalaman mendengarkan curhatan teman dan merespons orang di media sosial yang sedang mengalami kesulitan dengan menawarkan diri untuk mendengarkan.
+
+Dari pengalaman tersebut, aku melihat dua masalah yang ingin kubantu atasi. Pertama, mahasiswa mungkin kebingungan mengenai cara mengakses bantuan profesional. Kedua, stigma kesehatan mental dapat membuat mereka takut dianggap lemah atau dihakimi ketika mencari bantuan.
+
+**Solution hypothesis:** panduan akses bantuan profesional yang mudah dipahami, disertai pendekatan dukungan teman sebaya yang tidak menghakimi, dapat membantu mahasiswa memahami pilihan bantuan dan merasa lebih nyaman untuk mencari pertolongan.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Mahasiswa bingung cara mengakses bantuan profesional | Membagikan panduan langkah-langkah mendapatkan layanan psikiater melalui BPJS | Mahasiswa memahami langkah awal untuk mencari bantuan | Informasi lebih mudah ditemukan dan dipahami |
+| Mahasiswa takut dianggap lemah atau dihakimi | Mendengarkan tanpa menghakimi dan membagikan informasi bahwa mencari bantuan bukanlah kelemahan | Mahasiswa merasa lebih aman untuk membicarakan kesulitan yang dialami | Dukungan yang lebih empatik dan mengurangi stigma |
+| Teman sebaya ingin membantu, tetapi khawatir memberikan saran yang salah | Mendengarkan terlebih dahulu dan menanyakan apakah orang tersebut ingin didengarkan atau ingin mencari solusi | Respons dapat disesuaikan dengan kebutuhan orang yang bercerita | Dukungan lebih sesuai tanpa memaksakan solusi |
+
+## Pitch dan demonstration
+
+**Interest pitch:**
+
+> “Mencari bantuan kesehatan mental bisa terasa membingungkan, terutama kalau kita belum tahu harus mulai dari mana atau takut dihakimi. Aku pernah membagikan panduan akses psikiater melalui BPJS di Discord STEI ’26. Menurutmu, apakah panduan sederhana tentang cara mencari bantuan profesional, disertai dukungan teman sebaya yang tidak menghakimi, akan membantu mahasiswa yang sedang mengalami kesulitan?”
+
+**Demonstration:**
+
+1. Menunjukkan informasi akses psikiater melalui BPJS yang pernah kubagikan di Discord STEI ’26 sebagai contoh informasi praktis yang dapat membantu mahasiswa memahami langkah awal mencari bantuan.
+2. Mencontohkan cara merespons curhatan dengan mendengarkan terlebih dahulu, menanyakan apakah orang tersebut ingin didengarkan atau ingin mencari solusi, kemudian memberikan saran berdasarkan pengalaman pribadi jika mereka menginginkannya.
+
+Berdasarkan pengalamanku, ada orang yang bertanya lebih lanjut tentang akses bantuan dan ada yang meminta saran atau informasi lanjutan setelah bercerita. Respons ini menjadi sinyal Interest karena mereka menunjukkan ketertarikan lebih lanjut, bukan hanya menerima informasi.
+
+Aku memahami bahwa respons positif belum tentu berarti seseorang sudah mengakses layanan profesional atau menyetujui solusi baru. Karena itu, keberhasilan solusi perlu dinilai melalui respons lanjutan dan kebutuhan target, bukan hanya dari apresiasi awal.
+
+## Hidden concern dan adaptation
+
+Beberapa kemungkinan hidden concern yang dapat membuat mahasiswa ragu mencari bantuan adalah takut dianggap lemah, takut dihakimi, bingung dengan proses akses layanan, serta khawatir mengenai biaya. Hal-hal tersebut merupakan dugaan yang perlu dikonfirmasi kepada target, bukan kesimpulan yang berlaku untuk semua mahasiswa.
+
+Aku juga memiliki kekhawatiran ketika membantu orang lain, yaitu takut saranku tidak cocok dengan situasi mereka, takut memberikan informasi yang salah, dan merasa terbebani secara emosional setelah mendengarkan masalah mereka.
+
+Untuk menyesuaikan pendekatanku, aku mendengarkan terlebih dahulu, lalu menanyakan apakah orang tersebut ingin didengarkan saja atau ingin mencari solusi. Jika mereka menginginkan solusi, aku memberikan saran berdasarkan pengalaman pribadi. Aku juga mengingat bahwa aku berperan sebagai teman yang mendengarkan, bukan tenaga profesional.
+
+Pendekatan ini membantuku menyesuaikan respons dengan kebutuhan orang yang bercerita, alih-alih langsung memberikan nasihat. Aku juga menyadari bahwa pengalaman pribadi tidak selalu sesuai dengan kondisi orang lain, sehingga informasi yang kubagikan perlu dibedakan dari saran profesional.
+
+Adaptasi berikutnya yang ingin kulakukan adalah membuat panduan akses bantuan profesional yang lebih terstruktur dan belajar memberikan dukungan yang lebih aman. Aku perlu memverifikasi informasi, memahami batasan diri, dan mengenali kapan seseorang mungkin membutuhkan bantuan profesional.
+
+## Evidence, AI, dan feedback
+
+- **Evidence yang sudah tersedia:** pengalaman membagikan informasi akses psikiater melalui BPJS di Discord STEI ’26 pada 28 Juli 2026 dan respons positif berupa apresiasi serta diskusi.
+- **Evidence pengalaman pribadi:** mendengarkan curhatan teman, menawarkan diri untuk mendengarkan orang di media sosial yang sedang mengalami kesulitan, serta memberikan saran berdasarkan pengalaman pribadi ketika diminta.
+- **Interest signal:** orang pernah bertanya lebih lanjut tentang akses bantuan dan meminta saran atau informasi lanjutan setelah bercerita.
+- **Problem–solution link:** panduan akses bantuan menanggapi kebingungan tentang cara mencari layanan, sedangkan pendekatan tanpa menghakimi menanggapi kekhawatiran terhadap stigma.
+- **Next action:** menyusun panduan akses bantuan profesional yang lebih terstruktur dan mudah dipahami mahasiswa.
+- **Next practice:** mempelajari cara memberikan dukungan yang aman, memverifikasi informasi, mengenali batasan diri, dan memahami kapan bantuan profesional perlu disarankan.
+- **Penggunaan AI:** AI dapat digunakan untuk membantu menyusun struktur panduan atau membuat daftar pertanyaan untuk memahami kebutuhan target. Informasi layanan harus diverifikasi, dan AI tidak digunakan untuk mendiagnosis atau menggantikan tenaga profesional.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Menunjukkan empati melalui pengalaman mendengarkan tanpa menghakimi, menawarkan dukungan, dan menghormati kebutuhan orang yang bercerita |
+| Objective & State | 4 | Mampu membedakan respons positif awal dari Interest yang ditunjukkan melalui pertanyaan dan permintaan informasi lanjutan |
+| Repertoire, Language & AI | 4 | Memiliki pengalaman membagikan informasi praktis, menyesuaikan cara merespons curhatan, dan merencanakan penggunaan AI secara terbatas untuk menyusun panduan |
+| Response & Adaptation | 4 | Mendengarkan terlebih dahulu, menanyakan kebutuhan sebelum memberikan solusi, serta menyadari risiko saran yang tidak sesuai dan beban emosional |
+| Agreement, Action & Relationship | 4 | Telah mengambil tindakan nyata dengan membagikan informasi dan menawarkan dukungan; juga mengidentifikasi langkah berikutnya untuk mengembangkan panduan yang lebih terstruktur |
+
+**Total: 20/20 — Self-assessment.**
+
+Skor ini merupakan penilaian diri berdasarkan pengalaman dan refleksi yang sudah dilakukan. Evidence yang tersedia menunjukkan pengalaman nyata dalam berbagi informasi dan memberikan dukungan, tetapi belum membuktikan bahwa panduan baru telah diuji atau menghasilkan perubahan terukur. Penilaian akhir tetap mengikuti rubrik dan asesmen pengajar.

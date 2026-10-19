@@ -2,22 +2,22 @@
 title: "Lembar Kerja Bab 07"
 ---
 
-# Lembar Kerja Praktis: Panduan Detoks Fitur
+**# Lembar Kerja Praktis: Panduan Detoks Fitur**
 **Materi Pendamping Kuliah 7 (Bab 7: TAIDA II – Menumbuhkan Minat)**
 
 ---
 
-## 📌 Pendahuluan: Menembus Perangkap "Pembuangan Fitur"
+**## 📌 Pendahuluan: Menembus Perangkap "Pembuangan Fitur"**
 Sebagai pencipta gagasan, pembuat program, atau pengembang teknologi, kita sangat mudah jatuh cinta pada solusi yang kita bangun. Kita berasumsi bahwa kecanggihan teknis dan panjangnya daftar fitur otomatis akan membuat orang lain tertarik. Namun, buku ajar kita mengingatkan sebuah kebenaran krusial:
 > **"Orang jarang tertarik pada kecanggihan solusi sebelum melihat hubungannya dengan persoalan yang sungguh mereka alami."** (Bab 7.1)
 
-Kesalahan komunikasi terbesar dalam tahap penumbuhan minat (*Interest*) adalah **Pembuangan Fitur (*Feature Dumping*)**—yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang telah diakui oleh sasaran komunikasi kita (Bab 7.12). 
+Kesalahan komunikasi terbesar dalam tahap penumbuhan minat (*Interest*) adalah **Pembuangan Fitur (*Feature Dumping*)**—yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang telah diakui oleh sasaran komunikasi kita (Bab 7.12).
 
-Lembar kerja ini dirancang untuk membantu Anda melakukan **Detoks Fitur** (Bab 7.14): membuang fitur-fitur yang tidak relevan, menyederhanakan bahasa komunikasi, dan menerjemahkan kemampuan teknis menjadi **Nilai Rihat** yang dapat dipahami secara instan oleh peran penerima yang berbeda.
+Lembar kerja ini dirancang untuk membantu Anda melakukan **Detoks Fitur** (Bab 7.14): membuang fitur-fitur yang tidak relevan, menyederhanakan bahasa komunikasi, dan menerjemahkan kemampuan teknis menjadi **Nilai Riil** yang dapat dipahami secara instan oleh peran penerima yang berbeda.
 
 ---
 
-## 🧠 Konsep Utama: Fitur vs. Manfaat vs. Nilai
+**## 🧠 Konsep Utama: Fitur vs. Manfaat vs. Nilai**
 Sebelum memulai detoks, Anda harus mampu membedakan tiga lapisan pesan ini secara jernih (Bab 7.7.1):
 1. **Fitur (*Feature*)**: Apa yang dimiliki, dilakukan, atau kemampuan teknis dari solusi/teknologi Anda.
 2. **Manfaat (*Benefit*)**: Perubahan atau kemudahan langsung yang dimungkinkan oleh fitur tersebut.
@@ -25,32 +25,30 @@ Sebelum memulai detoks, Anda harus mampu membedakan tiga lapisan pesan ini secar
 
 ---
 
-## 🛠️ Langkah-Langkah Melakukan Detoks Fitur
+**## 🛠️ Langkah-Langkah Melakukan Detoks Fitur**
 
-### **Fase 1: Konteks Masalah Terkonfirmasi**
+**### Fase 1: Konteks Masalah Terkonfirmasi**
 Sebelum membedah solusi, tuliskan kembali **Pernyataan Masalah Pelanggan (*Customer Problem Statement*)** yang telah Anda konfirmasikan pada Bab 5. Solusi Anda harus "menempel" secara tepat pada masalah ini (Bab 7.6).
 
-*   **Siapa perannya?** (Contoh: Ibu-ibu pengelola kantin kampus)
-*   **Masalah konkret apa yang dialami?** (Contoh: Kewalahan mencatat pesanan sekaligus menjawab pertanyaan mahasiswa tentang status makanan saat jam sibuk)
-*   **Apa dampaknya?** (Contoh: Antrean menumpuk, kasir stres, mahasiswa terlambat masuk kelas karena ketidakpastian)
-*   **Kendala nyata apa yang harus dipertimbangkan?** (Contoh: Kasir tidak paham teknologi rumit, pemilik kantin sensitif terhadap biaya tambahan)
+- **Siapa perannya?** Mahasiswa yang sedang mengalami kesulitan kesehatan mental.
+- **Masalah konkret apa yang dialami?** Mahasiswa mungkin bingung mengenai cara mengakses bantuan profesional dan takut dianggap lemah atau dihakimi ketika mencari bantuan.
+- **Apa dampaknya?** Mereka mungkin ragu mencari pertolongan, kesulitan memahami langkah awal mendapatkan layanan, atau merasa tidak nyaman membicarakan kondisi yang dialami.
+- **Kendala nyata apa yang harus dipertimbangkan?** Kekhawatiran terhadap stigma, biaya, proses akses layanan, dan ketakutan mendapat penilaian negatif. Kekhawatiran tersebut masih perlu dikonfirmasi kepada target.
 
 ---
 
-### **Fase 2: Matriks Analisis Detoks Fitur**
+**### Fase 2: Matriks Analisis Detoks Fitur**
 Tuliskan semua fitur yang ada pada rancangan solusi Anda, lalu bedah menggunakan matriks di bawah ini. Jika sebuah fitur **tidak terhubung langsung** dengan masalah yang telah disepakati di atas, fitur tersebut **wajib didelegasikan ke daftar arsip (DIPANGKAS)** agar tidak membebani bahasa komunikasi Anda (Bab 7.14).
 
 | No | Fitur Teknis | Manfaat Langsung | Nilai Relasional (Bagi Peran Tertentu) | Bukti yang Diperlukan | Keputusan (Pertahankan / Pangkas) |
 |:--:|:---|:---|:---|:---|:---|
-| *Contoh* | *Estimasi waktu tunggu dinamis pada layar antrean.* | *Pengguna mengetahui kapan pesanan mereka akan selesai dimasak.* | * **Bagi Mahasiswa:** Kepastian waktu agar bisa makan tanpa terlambat masuk kuliah.<br>* **Bagi Kasir:** Mengurangi interupsi pertanyaan berulang dari antrean mahasiswa. | *Hasil uji coba pada 5 transaksi di jam sibuk.* | **PERTAHANKAN** (Sangat menempel pada masalah antrean dan interupsi kasir). |
-| *Contoh* | *Login akun menggunakan autentikasi multi-faktor media sosial.* | *Memudahkan pengguna masuk ke sistem dengan aman.* | *Tidak memberikan nilai langsung bagi kasir kantin maupun mahasiswa yang sedang terburu-buru.* | *Belum ada bukti relevansi bagi transaksi mikro kantin.* | **PANGKAS** (Beban bahasa yang tidak relevan bagi masalah utama). |
-| **1** | | | | | |
-| **2** | | | | | |
-| **3** | | | | | |
+| **1** | Panduan langkah-langkah mengakses layanan psikiater melalui BPJS | Mahasiswa memahami langkah awal untuk mencari bantuan profesional | **Bagi mahasiswa:** lebih mudah menemukan informasi layanan dan memahami proses awal mencari bantuan | Informasi akses psikiater melalui BPJS pernah dibagikan di Discord STEI '26 dan mendapat apresiasi. Panduan baru perlu diverifikasi agar informasinya akurat | **PERTAHANKAN** — langsung menjawab kebingungan tentang cara mengakses bantuan |
+| **2** | Pendekatan dukungan teman sebaya tanpa menghakimi | Mahasiswa dapat bercerita dan menjelaskan kebutuhan mereka dengan lebih nyaman | **Bagi mahasiswa:** merasa didengar dan tidak langsung dinilai atau dipaksa menerima solusi | Pengalaman mendengarkan curhatan teman dan menawarkan diri untuk mendengarkan orang di media sosial; beberapa orang melanjutkan cerita atau mengucapkan terima kasih | **PERTAHANKAN** — berkaitan langsung dengan kekhawatiran terhadap stigma dan penilaian negatif |
+| **3** | Menanyakan apakah seseorang ingin didengarkan atau ingin mencari solusi sebelum memberikan saran | Respons dapat disesuaikan dengan kebutuhan orang yang bercerita | **Bagi mahasiswa:** mendapat dukungan yang sesuai tanpa merasa dipaksa menerima nasihat; **bagi teman sebaya:** mengurangi risiko memberi saran yang tidak sesuai | Pengalaman pribadi menggunakan pendekatan mendengarkan terlebih dahulu dan menanyakan kebutuhan sebelum memberikan saran | **PERTAHANKAN** — membantu memberikan dukungan yang lebih sesuai dan menyadari batasan peran teman sebaya |
 
 ---
 
-### **Fase 3: Menyusun Pitch Masalah-Solusi 60 Detik**
+**### Fase 3: Menyusun Pitch Masalah-Solusi 60 Detik**
 Gunakan hasil detoks di atas untuk merajut **Pitch Minat** menggunakan **Komunikasi Berlapis** (Bab 7.9). Sampaikan pesan secara bertahap: mulailah dari kalimat kemungkinan yang memikat, mekanisme ringkas yang masuk akal, demonstrasi/analogi visual, lalu baru rincian teknis jika ditanyakan.
 
 Gunakan **5 Langkah Pitch Minat** berikut (Bab 7.7.2):
@@ -62,40 +60,36 @@ Gunakan **5 Langkah Pitch Minat** berikut (Bab 7.7.2):
 
 ---
 
-## 📝 Lembar Kerja Latihan Mandiri
+**## 📝 Lembar Kerja Latihan Mandiri**
 
-### **Bagian 1: Pernyataan Masalah Sasaran**
+**### Bagian 1: Pernyataan Masalah Sasaran**
 > *Tuliskan Pernyataan Masalah Pelanggan (CPS) secara presisi berdasarkan formula Bab 5:*
-> 
+>
 > **[Pribadi/Peran]** mengalami **[Keadaan yang teramati]** ketika **[Konteks]**, sehingga **[Dampak]**. Ia membutuhkan **[Hasil/Kemampuan]**, dengan mempertimbangkan **[Kendala]**.
-> 
+>
 > **Tulis jawaban Anda di sini:**
-> 
-> 
-> 
+>
+> Mahasiswa yang sedang mengalami kesulitan kesehatan mental mengalami kebingungan dalam mengakses bantuan profesional dan kekhawatiran akan stigma ketika mencari pertolongan, sehingga mereka mungkin ragu untuk mencari bantuan yang dibutuhkan. Mereka membutuhkan informasi akses layanan profesional yang jelas dan dukungan tanpa penghakiman, dengan mempertimbangkan kekhawatiran mengenai stigma, biaya, proses akses layanan, serta batasan peran teman sebaya.
 
-### **Bagian 2: Matriks Detoks Fitur Anda**
+**### Bagian 2: Matriks Detoks Fitur Anda**
 > *Gunakan tabel ini untuk memotong fitur-fitur yang hanya memuaskan ego pembuat tetapi tidak melayani kebutuhan pendengar.*
 
 | Nama Fitur | Manfaat Langsung | Nilai Relasional (Sebutkan Perannya) | Bukti yang Anda Miliki/Perlukan | Keputusan Anda (Pertahankan / Pangkas) |
 |:---|:---|:---|:---|:---|
-| **Fitur A:** | | | | |
-| **Fitur B:** | | | | |
-| **Fitur C:** | | | | |
+| **Fitur A: Panduan akses psikiater melalui BPJS** | Membantu mahasiswa memahami langkah awal mendapatkan bantuan profesional | **Bagi mahasiswa:** mengurangi kebingungan dalam mencari layanan | Panduan akses pernah dibagikan di Discord STEI '26 dan mendapat apresiasi. Informasi untuk panduan baru perlu diverifikasi | **PERTAHANKAN** — berkaitan langsung dengan masalah akses bantuan |
+| **Fitur B: Dukungan teman sebaya tanpa menghakimi** | Memberikan ruang untuk bercerita dan menyampaikan kebutuhan | **Bagi mahasiswa:** merasa didengar dan tidak dianggap lemah karena mencari bantuan | Pengalaman mendengarkan curhatan teman dan menawarkan diri untuk mendengarkan orang di media sosial | **PERTAHANKAN** — berkaitan langsung dengan kekhawatiran terhadap stigma |
+| **Fitur C: Menanyakan kebutuhan sebelum memberikan solusi** | Membantu menyesuaikan respons dengan kebutuhan orang yang bercerita | **Bagi mahasiswa:** tidak merasa dipaksa menerima saran; **bagi teman sebaya:** mengurangi risiko memberikan saran yang tidak sesuai | Pengalaman pribadi mendengarkan terlebih dahulu, lalu menanyakan apakah orang tersebut ingin didengarkan atau ingin mencari solusi | **PERTAHANKAN** — mendukung komunikasi yang lebih empatik dan sesuai kebutuhan |
 
 *Catatan Etis: Menyembunyikan risiko atau keterbatasan solusi demi terlihat menarik adalah pelanggaran integritas profesional. Jika solusi Anda memiliki keterbatasan (misalnya: tidak berjalan lancar tanpa jaringan internet), sampaikan hal itu secara jujur. Kejujuran terhadap batas justru meningkatkan kredibilitas Anda (Bab 7.8, 9.8).*
 
-### **Bagian 3: Draf Pitch Minat 60 Detik**
+**### Bagian 3: Draf Pitch Minat 60 Detik**
 > *Tuliskan draf lisan Anda (maksimal 120 kata) berdasarkan 5 langkah Pitch Minat Bab 7:*
-> 
-> 
-> 
-> 
-> 
+
+Aku melihat bahwa sebagian mahasiswa mungkin bingung mencari bantuan profesional dan takut dihakimi ketika membicarakan kesehatan mental. Salah satu hal yang bisa kita lakukan adalah menyediakan panduan sederhana mengenai cara mengakses layanan psikiater melalui BPJS. Panduan ini dapat membantu mahasiswa memahami langkah awal mencari bantuan, sementara pendekatan teman sebaya yang tidak menghakimi dapat membuat mereka merasa lebih nyaman untuk bercerita. Aku pernah membagikan informasi akses psikiater melalui BPJS di Discord STEI '26 dan mendapat respons positif. Aku juga terbiasa mendengarkan terlebih dahulu dan menanyakan apakah seseorang ingin didengarkan atau ingin mencari solusi. Menurutmu, apakah panduan seperti ini akan membantu mahasiswa yang membutuhkan bantuan?
 
 ---
 
-## 📊 Rubrik Evaluasi Mandiri (*Self-Assessment*)
+**## 📊 Rubrik Evaluasi Mandiri (*Self-Assessment*)**
 Setelah menyelesaikan lembar kerja ini, ujilah draf pitch Anda bersama rekan sejawat. Mintalah mereka memberikan skor berdasarkan rubrik berikut (Bab 7.15):
 
 | Kriteria | Skor 1 (Awal) | Skor 2 (Berkembang) | Skor 3 (Cakap) | Skor 4 (Unggul) |
@@ -105,5 +99,15 @@ Setelah menyelesaikan lembar kerja ini, ujilah draf pitch Anda bersama rekan sej
 | **Penerjemahan Nilai** | Manfaat/nilai dianggap sama saja bagi semua peran yang terlibat. | Mulai menyebutkan manfaat, tetapi belum membedakan nilai spesifik tiap peran. | Mampu menerjemahkan fitur menjadi nilai fungsional yang berbeda bagi tiap peran. | Nilai relasional disampaikan secara presisi dan bermakna bagi tanggung jawab spesifik sasaran. |
 | **Kejujuran & Batas** | Mengklaim solusi sempurna tanpa cela (janji berlebihan / *overpromise*). | Mengakui adanya batas kemampuan solusi tetapi hanya jika ditanya. | Menyatakan batas kemampuan dan risiko solusi secara terbuka dan realistis sejak awal. | Menunjukkan batas solusi secara ksatria serta menawarkan rencana mitigasi atau bukti pendukung. |
 
----
+### Hasil Self-Assessment
+
+| Kriteria | Skor | Evidence singkat |
+|:---|:---:|:---|
+| **Kecocokan (*Fit*)** | 4 | Solusi secara langsung menanggapi dua masalah utama sasaran, yaitu kebingungan mengakses bantuan profesional dan ketakutan terhadap stigma. Panduan BPJS membantu menjelaskan langkah awal mencari bantuan, sedangkan pendekatan tanpa menghakimi membantu sasaran merasa lebih nyaman untuk bercerita. |
+| **Kejelasan Mekanisme** | 4 | Mekanisme solusi dijelaskan secara sederhana melalui dua tindakan konkret: membagikan panduan akses psikiater melalui BPJS dan mendengarkan terlebih dahulu sebelum menanyakan apakah sasaran menginginkan solusi. Keduanya mudah dipahami tanpa jargon teknis. |
+| **Penerjemahan Nilai** | 4 | Nilai solusi dibedakan berdasarkan kebutuhan peran. Bagi mahasiswa yang membutuhkan bantuan, panduan memberikan kejelasan mengenai akses layanan dan dukungan tanpa penghakiman. Bagi teman sebaya, pendekatan mendengarkan dan menanyakan kebutuhan membantu mengurangi risiko memberikan saran yang tidak sesuai. |
+| **Kejujuran & Batas** | 4 | Aku membedakan pengalaman nyata dari hipotesis dan rencana pengembangan. Aku tidak mengklaim bahwa panduan baru telah diuji atau terbukti meningkatkan akses layanan. Aku juga menyadari batasanku sebagai teman sebaya dan merencanakan verifikasi informasi serta pembelajaran mengenai dukungan yang aman. |
+
+**Total: 16/16 — Unggul (Target Self-Assessment).**
+
 *Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng.* (Bab 7.18)

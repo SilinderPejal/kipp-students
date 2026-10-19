@@ -76,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -190,12 +161,14 @@ window.Quarto = {
   <li><a href="#bagian-1-pemetaan-negosiasi-berbasis-kepentingan" id="toc-bagian-1-pemetaan-negosiasi-berbasis-kepentingan" class="nav-link" data-scroll-target="#bagian-1-pemetaan-negosiasi-berbasis-kepentingan">Bagian 1: Pemetaan Negosiasi Berbasis Kepentingan</a></li>
   <li><a href="#bagian-2-formula-kesepakatan-presisi-the-agreement-formula" id="toc-bagian-2-formula-kesepakatan-presisi-the-agreement-formula" class="nav-link" data-scroll-target="#bagian-2-formula-kesepakatan-presisi-the-agreement-formula">Bagian 2: Formula Kesepakatan Presisi (The Agreement Formula)</a>
   <ul class="collapse">
-  <li><a href="#rumus-siapa-rightarrow-melakukan-apa-rightarrow-kapan-rightarrow-prasyaratsumber-daya-rightarrow-definisi-selesai-rightarrow-tindak-lanjut" id="toc-rumus-siapa-rightarrow-melakukan-apa-rightarrow-kapan-rightarrow-prasyaratsumber-daya-rightarrow-definisi-selesai-rightarrow-tindak-lanjut" class="nav-link" data-scroll-target="#rumus-siapa-rightarrow-melakukan-apa-rightarrow-kapan-rightarrow-prasyaratsumber-daya-rightarrow-definisi-selesai-rightarrow-tindak-lanjut">Rumus: <strong>SIAPA <span class="math inline">\(\rightarrow\)</span> Melakukan APA <span class="math inline">\(\rightarrow\)</span> KAPAN <span class="math inline">\(\rightarrow\)</span> Prasyarat/Sumber Daya <span class="math inline">\(\rightarrow\)</span> DEFINISI SELESAI <span class="math inline">\(\rightarrow\)</span> Tindak Lanjut</strong></a></li>
+  <li><a href="#rumus-siapa-melakukan-apa-kapan-prasyaratsumber-daya-definisi-selesai-tindak-lanjut" id="toc-rumus-siapa-melakukan-apa-kapan-prasyaratsumber-daya-definisi-selesai-tindak-lanjut" class="nav-link" data-scroll-target="#rumus-siapa-melakukan-apa-kapan-prasyaratsumber-daya-definisi-selesai-tindak-lanjut">Rumus: <strong>SIAPA → Melakukan APA → KAPAN → Prasyarat/Sumber Daya → DEFINISI SELESAI → Tindak Lanjut</strong></a></li>
   <li><a href="#tabel-daftar-kesepakatan-tindakan" id="toc-tabel-daftar-kesepakatan-tindakan" class="nav-link" data-scroll-target="#tabel-daftar-kesepakatan-tindakan">Tabel Daftar Kesepakatan Tindakan</a></li>
   </ul></li>
   <li><a href="#bagian-3-kontrol-lingkar-komitmen-commitment-loop-checklist" id="toc-bagian-3-kontrol-lingkar-komitmen-commitment-loop-checklist" class="nav-link" data-scroll-target="#bagian-3-kontrol-lingkar-komitmen-commitment-loop-checklist">Bagian 3: Kontrol Lingkar Komitmen (<em>Commitment Loop Checklist</em>)</a>
   <ul class="collapse">
   <li><a href="#alur-pelacakan-janji" id="toc-alur-pelacakan-janji" class="nav-link" data-scroll-target="#alur-pelacakan-janji">Alur Pelacakan Janji</a></li>
+  <li><a href="#butir-tindakan-no-1" id="toc-butir-tindakan-no-1" class="nav-link" data-scroll-target="#butir-tindakan-no-1">1. Butir Tindakan No: 1</a></li>
+  <li><a href="#butir-tindakan-no-2" id="toc-butir-tindakan-no-2" class="nav-link" data-scroll-target="#butir-tindakan-no-2">2. Butir Tindakan No: 2</a></li>
   </ul></li>
   <li><a href="#bagian-4-evaluasi-jalur-ganda-dual-track-evaluation" id="toc-bagian-4-evaluasi-jalur-ganda-dual-track-evaluation" class="nav-link" data-scroll-target="#bagian-4-evaluasi-jalur-ganda-dual-track-evaluation">Bagian 4: Evaluasi Jalur Ganda (Dual-Track Evaluation)</a>
   <ul class="collapse">
@@ -236,13 +209,13 @@ window.Quarto = {
 <section id="identitas-proyek-pihak-yang-terlibat" class="level2">
 <h2 class="anchored" data-anchor-id="identitas-proyek-pihak-yang-terlibat">1. Identitas Proyek &amp; Pihak yang Terlibat</h2>
 <ul>
-<li><strong>Nama Proyek/Gagasan:</strong> __________________________________________________</li>
-<li><strong>Tanggal Diskusi:</strong> ________________________</li>
+<li><strong>Nama Proyek/Gagasan:</strong> Pengembangan Game Development sebagai Side Job Menuju Game Studio Sendiri</li>
+<li><strong>Tanggal Diskusi:</strong> 20 Oktober 2026</li>
 <li><strong>Pihak-Pihak yang Menyusun Kesepakatan:</strong>
 <ol type="1">
-<li><strong>Pihak A (Nama &amp; Peran):</strong> ____________________________________________</li>
-<li><strong>Pihak B (Nama &amp; Peran):</strong> ____________________________________________</li>
-<li><strong>Pihak Lain/Pengamat (Jika ada):</strong> _______________________________________</li>
+<li><strong>Pihak A (Nama &amp; Peran):</strong> Erin Cherryl Angela — pengembang game yang ingin mengembangkan game development sebagai side job.</li>
+<li><strong>Pihak B (Nama &amp; Peran):</strong> Teman diskusi — rekan bertukar pikiran mengenai kondisi industri game dan prospek karier.</li>
+<li><strong>Pihak Lain/Pengamat (Jika ada):</strong> Calon kolaborator atau komunitas game development jika diperlukan pada tahap berikutnya.</li>
 </ol></li>
 </ul>
 <hr>
@@ -250,7 +223,12 @@ window.Quarto = {
 <section id="pengantar-konsep-menjembatani-bahasa-menjadi-kenyataan" class="level2">
 <h2 class="anchored" data-anchor-id="pengantar-konsep-menjembatani-bahasa-menjadi-kenyataan">2. Pengantar Konsep: Menjembatani Bahasa Menjadi Kenyataan</h2>
 <p>Dalam dunia komunikasi profesional, ketertarikan (<em>Interest</em>) atau keinginan (<em>Desire</em>) yang besar terhadap suatu solusi belumlah cukup. Komunikasi baru benar-benar menghasilkan nilai nyata ketika berhasil ditutup dengan <strong>Kesepakatan</strong> (<em>Agreement</em>) yang menuntun pada <strong>Tindakan</strong> (<em>Action</em>) yang terkoordinasi secara etis.</p>
-<p>Lembar kerja ini membantu Anda dan tim melewati transisi penting tersebut melalui tiga instrumen utama: 1. <strong>Pemisahan Posisi vs.&nbsp;Kepentingan</strong>: Agar negosiasi tidak terjebak dalam ego masing-masing, melainkan berfokus pada kebutuhan batin dan peran nyata. 2. <strong>Formula Kesepakatan Presisi</strong>: Membuang bahasa kabur (seperti <em>“nanti dibantu”</em> atau <em>“secepatnya dikirim”</em>) dan menggantinya dengan komitmen operasional yang jelas tanggung jawab serta ukuran selesainya. 3. <strong>Kontrol Lingkar Komitmen</strong>: Memantau janji secara berkala melalui titik pemeriksaan (<em>checkpoint</em>) sebelum hari pengumpulan agar tanggung jawab tetap terpelihara bersama.</p>
+<p>Lembar kerja ini membantu Anda dan tim melewati transisi penting tersebut melalui tiga instrumen utama:</p>
+<ol type="1">
+<li><strong>Pemisahan Posisi vs.&nbsp;Kepentingan</strong>: Agar negosiasi tidak terjebak dalam ego masing-masing, melainkan berfokus pada kebutuhan batin dan peran nyata.</li>
+<li><strong>Formula Kesepakatan Presisi</strong>: Membuang bahasa kabur (seperti <em>“nanti dibantu”</em> atau <em>“secepatnya dikirim”</em>) dan menggantinya dengan komitmen operasional yang jelas tanggung jawab serta ukuran selesainya.</li>
+<li><strong>Kontrol Lingkar Komitmen</strong>: Memantau janji secara berkala melalui titik pemeriksaan (<em>checkpoint</em>) sebelum hari pengumpulan agar tanggung jawab tetap terpelihara bersama.</li>
+</ol>
 <hr>
 </section>
 <section id="bagian-1-pemetaan-negosiasi-berbasis-kepentingan" class="level2">
@@ -282,26 +260,27 @@ window.Quarto = {
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Pihak A</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Menjadikan game development sebagai side job sambil membangun keterampilan dan portofolio, bukan langsung menjadikannya sumber penghasilan utama.</td>
+<td style="text-align: left;">Menjaga stabilitas finansial dan memenuhi kewajiban kuliah sambil mengejar minat di bidang game development dan tujuan jangka panjang mendirikan studio sendiri.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Pihak B</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Mengungkapkan kekhawatiran mengenai kondisi industri game dan prospek karier setelah kuliah.</td>
+<td style="text-align: left;">Memahami risiko pasar kerja dan mempertimbangkan pilihan karier secara realistis sebelum mengambil keputusan jangka panjang.</td>
 </tr>
 </tbody>
 </table>
 <ul>
-<li><strong>Poin Temu Kepentingan Utama:</strong> <em>(Tuliskan 1-2 kalimat area kepentingan yang saling mendukung sebagai dasar kolaborasi)</em> __________________________________________________________________________________________ __________________________________________________________________________________________</li>
+<li><strong>Poin Temu Kepentingan Utama:</strong></li>
 </ul>
+<p>Kedua pihak memiliki kepentingan untuk memahami prospek industri game secara realistis dan mempertimbangkan masa depan karier. Kekhawatiran mengenai kondisi industri tidak harus membuat minat terhadap game development ditinggalkan. Keterampilan dan pengalaman tetap dapat dikembangkan secara bertahap sambil menjaga pilihan karier dan kestabilan finansial.</p>
 <hr>
 </section>
 <section id="bagian-2-formula-kesepakatan-presisi-the-agreement-formula" class="level2">
 <h2 class="anchored" data-anchor-id="bagian-2-formula-kesepakatan-presisi-the-agreement-formula">Bagian 2: Formula Kesepakatan Presisi (The Agreement Formula)</h2>
 <p>Gunakan rumus terstruktur ini untuk mengunci setiap rencana tindakan kelompok. <strong>Hindari kata-kata kabur</strong> (seperti: <em>membantu</em>, <em>mengoordinasikan</em>, <em>mencoba</em>, <em>segera</em>, <em>nanti</em>). Ganti dengan <strong>kata kerja operasional</strong> yang dapat diamati dan diverifikasi secara objektif.</p>
-<section id="rumus-siapa-rightarrow-melakukan-apa-rightarrow-kapan-rightarrow-prasyaratsumber-daya-rightarrow-definisi-selesai-rightarrow-tindak-lanjut" class="level3">
-<h3 class="anchored" data-anchor-id="rumus-siapa-rightarrow-melakukan-apa-rightarrow-kapan-rightarrow-prasyaratsumber-daya-rightarrow-definisi-selesai-rightarrow-tindak-lanjut">Rumus: <strong>SIAPA <span class="math inline">\(\rightarrow\)</span> Melakukan APA <span class="math inline">\(\rightarrow\)</span> KAPAN <span class="math inline">\(\rightarrow\)</span> Prasyarat/Sumber Daya <span class="math inline">\(\rightarrow\)</span> DEFINISI SELESAI <span class="math inline">\(\rightarrow\)</span> Tindak Lanjut</strong></h3>
+<section id="rumus-siapa-melakukan-apa-kapan-prasyaratsumber-daya-definisi-selesai-tindak-lanjut" class="level3">
+<h3 class="anchored" data-anchor-id="rumus-siapa-melakukan-apa-kapan-prasyaratsumber-daya-definisi-selesai-tindak-lanjut">Rumus: <strong>SIAPA → Melakukan APA → KAPAN → Prasyarat/Sumber Daya → DEFINISI SELESAI → Tindak Lanjut</strong></h3>
 </section>
 <section id="tabel-daftar-kesepakatan-tindakan" class="level3">
 <h3 class="anchored" data-anchor-id="tabel-daftar-kesepakatan-tindakan">Tabel Daftar Kesepakatan Tindakan</h3>
@@ -328,40 +307,31 @@ window.Quarto = {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><strong>Ex</strong></td>
-<td style="text-align: left;"><em>Budi (Developer Database)</em></td>
-<td style="text-align: left;"><em>Melakukan migrasi data menu kantin dari file Excel ke basis data server utama.</em></td>
-<td style="text-align: left;"><em>Rabu, 16 Sept 2026, Pukul 15:00 WIB.</em></td>
-<td style="text-align: left;"><em>Daftar menu final dalam format .xlsx dari Ibu Siti (Pemilik Kantin).</em></td>
-<td style="text-align: left;"><em>Data menu sukses terbaca di halaman preview aplikasi tanpa karakter aneh/error.</em></td>
-<td style="text-align: left;"><em>Mengirim tangkapan layar (screenshot) sukses ke grup WhatsApp Tim Teknis.</em></td>
+<td style="text-align: left;"><strong>1</strong></td>
+<td style="text-align: left;">Erin Cherryl Angela</td>
+<td style="text-align: left;">Meninjau game dan GDD terdahulu, kemudian memilih satu game untuk dikembangkan lebih lanjut.</td>
+<td style="text-align: left;">Selasa, 27 Oktober 2026, pukul 20.00 WIB.</td>
+<td style="text-align: left;">File game, GDD terdahulu, catatan game jam, dan waktu untuk mengevaluasi proyek.</td>
+<td style="text-align: left;">Satu proyek terpilih dengan alasan tertulis berdasarkan potensi pengembangan, kondisi game, dan kelayakan pengerjaan sebagai side job.</td>
+<td style="text-align: left;">Mencatat proyek terpilih dan alasan pemilihannya dalam dokumen rencana proyek pribadi.</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>1</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>2</strong></td>
+<td style="text-align: left;">Erin Cherryl Angela</td>
+<td style="text-align: left;">Menguji game terpilih dan menyusun daftar bug berdasarkan tingkat dampaknya terhadap gameplay.</td>
+<td style="text-align: left;">Kamis, 29 Oktober 2026, pukul 20.00 WIB.</td>
+<td style="text-align: left;">Game terpilih, perangkat untuk menjalankan game, serta aplikasi pencatatan bug.</td>
+<td style="text-align: left;">Tersedia daftar bug yang mencantumkan deskripsi masalah, langkah untuk mereproduksi bug, dan prioritas perbaikan.</td>
+<td style="text-align: left;">Memperbarui daftar bug dalam dokumen proyek dan menentukan bug yang akan diperbaiki terlebih dahulu.</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><strong>2</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
 <td style="text-align: left;"><strong>3</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Erin Cherryl Angela</td>
+<td style="text-align: left;">Menyusun rencana perbaikan bug dan target pengembangan bertahap dengan mempertimbangkan jadwal kuliah.</td>
+<td style="text-align: left;">Sabtu, 31 Oktober 2026, pukul 20.00 WIB.</td>
+<td style="text-align: left;">Daftar bug, kemampuan teknis yang tersedia, dan jadwal kegiatan kuliah.</td>
+<td style="text-align: left;">Tersedia rencana pengerjaan dengan urutan prioritas, target waktu, dan kriteria pengujian setelah perbaikan.</td>
+<td style="text-align: left;">Meninjau rencana secara mandiri setiap minggu dan memperbarui target jika terdapat kendala.</td>
 </tr>
 </tbody>
 </table>
@@ -374,50 +344,52 @@ window.Quarto = {
 <p>Isilah matriks ini untuk melacak kesehatan komitmen setiap butir tindakan di atas:</p>
 <section id="alur-pelacakan-janji" class="level3">
 <h3 class="anchored" data-anchor-id="alur-pelacakan-janji">Alur Pelacakan Janji</h3>
-<pre><code>  [ Fase 1: JANJI ] ───────────► [ Fase 2: CHECKPOINT ]
-          │                                  │
-          ▼                                  ▼
-  [ Fase 4: PENERIMAAN ] ◄──────── [ Fase 3: BUKTI &amp; PEMERIKSAAN ]</code></pre>
-<ol type="1">
-<li><strong>Butir Tindakan No: ____</strong>
+<pre class="text"><code>  [ Fase 1: JANJI ] ───────────► [ Fase 2: CHECKPOINT ]
+           │                              │
+           ▼                              ▼
+  [ Fase 4: PENERIMAAN ] ◄────── [ Fase 3: BUKTI &amp; PEMERIKSAAN ]</code></pre>
+</section>
+<section id="butir-tindakan-no-1" class="level3">
+<h3 class="anchored" data-anchor-id="butir-tindakan-no-1">1. Butir Tindakan No: 1</h3>
 <ul>
-<li><strong>Fase 1: Janji Terbentuk (Hari/Tanggal):</strong> ________________________</li>
+<li><strong>Fase 1: Janji Terbentuk (Hari/Tanggal):</strong> Selasa, 20 Oktober 2026.</li>
 <li><strong>Fase 2: Checkpoint/Pemeriksaan Awal:</strong>
 <ul>
-<li><em>Kapan Checkpoint dilakukan? (Minimal 2 hari sebelum tenggat):</em> ________________________</li>
-<li><em>Apa kemajuan/kendala yang ditemukan saat checkpoint?</em> ______________________________________________________________________________________</li>
+<li><strong>Kapan Checkpoint dilakukan? (Minimal 2 hari sebelum tenggat):</strong> Minggu, 25 Oktober 2026.</li>
+<li><strong>Apa kemajuan/kendala yang ditemukan saat checkpoint?</strong> Kemajuan awal berupa pengalaman mengikuti berbagai game jam, membuat banyak GDD, dan menghasilkan game yang dapat dimainkan. Kendala yang perlu diperiksa adalah banyaknya bug dan pemilihan proyek yang paling layak untuk dikembangkan lebih lanjut.</li>
 </ul></li>
 <li><strong>Fase 3: Bukti &amp; Pemeriksaan Mandiri:</strong>
 <ul>
-<li><em>Bukti nyata apa yang diserahkan sebagai hasil kerja?</em> ________________________</li>
-<li><em>Apakah hasil tersebut sudah memenuhi “Definisi Selesai” di Bagian 2?</em> <code>[ ] Ya</code> <code>[ ] Belum</code></li>
+<li><strong>Bukti nyata apa yang diserahkan sebagai hasil kerja?</strong> Daftar proyek terdahulu, GDD yang pernah dibuat, serta catatan alasan pemilihan satu proyek prioritas.</li>
+<li><strong>Apakah hasil tersebut sudah memenuhi “Definisi Selesai” di Bagian 2?</strong> <code>[ ] Ya</code> <code>[x] Belum</code></li>
 </ul></li>
 <li><strong>Fase 4: Penerimaan Resmi:</strong>
 <ul>
-<li><em>Siapa penerima manfaat yang memeriksa dan menyatakan puas?</em> ________________________</li>
-<li><em>Catatan penerimaan:</em> ______________________________________________________________________________________</li>
+<li><strong>Siapa penerima manfaat yang memeriksa dan menyatakan puas?</strong> Diri sendiri sebagai pemilik proyek yang mengevaluasi kelayakan proyek terpilih.</li>
+<li><strong>Catatan penerimaan:</strong> Penerimaan belum dinyatakan selesai karena pemilihan proyek merupakan target yang masih harus dilaksanakan dan diverifikasi.</li>
 </ul></li>
-</ul></li>
-<li><strong>Butir Tindakan No: ____</strong>
+</ul>
+</section>
+<section id="butir-tindakan-no-2" class="level3">
+<h3 class="anchored" data-anchor-id="butir-tindakan-no-2">2. Butir Tindakan No: 2</h3>
 <ul>
-<li><strong>Fase 1: Janji Terbentuk (Hari/Tanggal):</strong> ________________________</li>
+<li><strong>Fase 1: Janji Terbentuk (Hari/Tanggal):</strong> Selasa, 20 Oktober 2026.</li>
 <li><strong>Fase 2: Checkpoint/Pemeriksaan Awal:</strong>
 <ul>
-<li><em>Kapan Checkpoint dilakukan?</em> ________________________</li>
-<li><em>Apa kemajuan/kendala yang ditemukan saat checkpoint?</em> ______________________________________________________________________________________</li>
+<li><strong>Kapan Checkpoint dilakukan?</strong> Selasa, 27 Oktober 2026.</li>
+<li><strong>Apa kemajuan/kendala yang ditemukan saat checkpoint?</strong> Proyek prioritas ditargetkan sudah dipilih. Kendala yang mungkin muncul adalah jumlah bug yang banyak atau sulit direproduksi, sehingga pengujian perlu dilakukan secara bertahap dan berdasarkan dampak bug terhadap gameplay.</li>
 </ul></li>
 <li><strong>Fase 3: Bukti &amp; Pemeriksaan Mandiri:</strong>
 <ul>
-<li><em>Bukti nyata apa yang diserahkan sebagai hasil kerja?</em> ________________________</li>
-<li><em>Apakah hasil tersebut sudah memenuhi “Definisi Selesai” di Bagian 2?</em> <code>[ ] Ya</code> <code>[ ] Belum</code></li>
+<li><strong>Bukti nyata apa yang diserahkan sebagai hasil kerja?</strong> Daftar bug yang berisi deskripsi masalah, langkah reproduksi, dan prioritas perbaikan.</li>
+<li><strong>Apakah hasil tersebut sudah memenuhi “Definisi Selesai” di Bagian 2?</strong> <code>[ ] Ya</code> <code>[x] Belum</code></li>
 </ul></li>
 <li><strong>Fase 4: Penerimaan Resmi:</strong>
 <ul>
-<li><em>Siapa penerima manfaat yang memeriksa dan menyatakan puas?</em> ________________________</li>
-<li><em>Catatan penerimaan:</em> ______________________________________________________________________________________</li>
+<li><strong>Siapa penerima manfaat yang memeriksa dan menyatakan puas?</strong> Diri sendiri sebagai pengembang yang memeriksa kelengkapan daftar bug.</li>
+<li><strong>Catatan penerimaan:</strong> Hasil akan diterima setelah daftar bug selesai dibuat dan setiap masalah memiliki deskripsi serta prioritas yang jelas.</li>
 </ul></li>
-</ul></li>
-</ol>
+</ul>
 <hr>
 </section>
 </section>
@@ -427,20 +399,27 @@ window.Quarto = {
 <section id="jalur-tugas-task-outcome" class="level3">
 <h3 class="anchored" data-anchor-id="jalur-tugas-task-outcome">1. Jalur Tugas (<em>Task Outcome</em>)</h3>
 <ul>
-<li>Apakah semua target tindakan yang tertulis dalam dokumen kesepakatan ini berhasil diselesaikan sesuai tenggat waktu dan kriteria selesai? Jelaskan kendala nyata lapangan yang sempat dihadapi! __________________________________________________________________________________________ __________________________________________________________________________________________ __________________________________________________________________________________________</li>
+<li><strong>Apakah semua target tindakan yang tertulis dalam dokumen kesepakatan ini berhasil diselesaikan sesuai tenggat waktu dan kriteria selesai? Jelaskan kendala nyata lapangan yang sempat dihadapi!</strong></li>
 </ul>
+<p>Seluruh target belum dapat dinyatakan selesai karena tenggat tindakan masih berada pada periode setelah penyusunan dokumen ini. Namun, target dan kriteria selesai telah ditentukan secara spesifik agar kemajuan dapat dievaluasi. Kondisi awal yang sudah dimiliki adalah pengalaman mengikuti berbagai game jam, membuat banyak GDD, dan menghasilkan game yang dapat dimainkan. Kendala yang perlu ditangani adalah banyaknya bug, pemilihan proyek yang paling potensial, dan keterbatasan waktu akibat kewajiban kuliah. Untuk mengatasinya, aku akan memilih satu proyek terlebih dahulu, mengurutkan bug berdasarkan dampaknya, dan menyusun jadwal perbaikan yang realistis.</p>
 </section>
 <section id="jalur-relasi-relationship-outcome" class="level3">
 <h3 class="anchored" data-anchor-id="jalur-relasi-relationship-outcome">2. Jalur Relasi (<em>Relationship Outcome</em>)</h3>
 <ul>
-<li>Bagaimana kualitas batin relasi, kepercayaan, dan rasa saling menghargai di antara para pihak setelah melewati proses pengerjaan tugas ini? Apakah ada ketegangan peran yang sempat terjadi, dan bagaimana Anda meredakannya secara asertif? __________________________________________________________________________________________ __________________________________________________________________________________________ __________________________________________________________________________________________</li>
+<li><strong>Bagaimana kualitas batin relasi, kepercayaan, dan rasa saling menghargai di antara para pihak setelah melewati proses pengerjaan tugas ini? Apakah ada ketegangan peran yang sempat terjadi, dan bagaimana Anda meredakannya secara asertif?</strong></li>
 </ul>
+<p>Percakapan dengan teman menunjukkan adanya ruang untuk bertukar pikiran mengenai kekhawatiran terhadap industri game dan prospek karier. Aku menghargai kekhawatiran tersebut tanpa menganggap bahwa salah satu pihak harus meninggalkan minatnya. Karena belum ada kesepakatan kerja sama proyek yang dikonfirmasi, aku tidak menganggap teman sudah memiliki tanggung jawab dalam pengembangan game. Jika kolaborasi dilakukan di masa depan, pembagian tugas, batas waktu, dan kemampuan masing-masing perlu disepakati secara terbuka. Ketegangan dapat diredakan dengan menyampaikan kebutuhan secara asertif, mendengarkan sudut pandang pihak lain, dan memberikan ruang bagi setiap orang untuk menolak atau menyesuaikan komitmennya tanpa tekanan.</p>
 <hr>
 </section>
 </section>
 <section id="rubrik-penilaian-mandiri-umpan-balik-sejawat" class="level2">
 <h2 class="anchored" data-anchor-id="rubrik-penilaian-mandiri-umpan-balik-sejawat">Rubrik Penilaian Mandiri &amp; Umpan Balik Sejawat</h2>
-<p>Evaluasilah kualitas Dokumen Kesepakatan yang Anda susun menggunakan skala nilai berikut: * <strong>Skor 1 (Kurang)</strong>: Banyak bagian menggunakan istilah kabur, penanggung jawab tidak terperinci, atau mengabaikan relasi. * <strong>Skor 2 (Cukup)</strong>: Tindakan sudah terperinci, tetapi kriteria selesai masih subjektif atau tidak menyertakan checkpoint komitmen. * <strong>Skor 3 (Sangat Baik)</strong>: Memenuhi seluruh aspek formula presisi, memetakan kepentingan dengan empati, memiliki mekanisme pelacakan komitmen yang jelas, serta menjaga harmoni relasi secara etis.</p>
+<p>Evaluasilah kualitas Dokumen Kesepakatan yang Anda susun menggunakan skala nilai berikut:</p>
+<ul>
+<li><strong>Skor 1 (Kurang)</strong>: Banyak bagian menggunakan istilah kabur, penanggung jawab tidak terperinci, atau mengabaikan relasi.</li>
+<li><strong>Skor 2 (Cukup)</strong>: Tindakan sudah terperinci, tetapi kriteria selesai masih subjektif atau tidak menyertakan checkpoint komitmen.</li>
+<li><strong>Skor 3 (Sangat Baik)</strong>: Memenuhi seluruh aspek formula presisi, memetakan kepentingan dengan empati, memiliki mekanisme pelacakan komitmen yang jelas, serta menjaga harmoni relasi secara etis.</li>
+</ul>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 18%">
@@ -459,32 +438,34 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><strong>1</strong></td>
-<td style="text-align: left;"><strong>Kejelasan Kepentingan (Bukan Posisi)</strong>:<br>Mampu melampaui ego tuntutan permukaan dan merumuskan titik temu kepentingan yang saling melayani peran masing-masing.</td>
-<td style="text-align: center;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Kejelasan Kepentingan (Bukan Posisi)</strong>: Mampu melampaui ego tuntutan permukaan dan merumuskan titik temu kepentingan yang saling melayani peran masing-masing.</td>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: left;">Memisahkan keinginan menjadikan game development sebagai side job dari kepentingan mendasar berupa stabilitas finansial, pengembangan keterampilan, dan tujuan mendirikan studio. Titik temu dengan teman adalah kebutuhan memahami prospek industri secara realistis.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>2</strong></td>
-<td style="text-align: left;"><strong>Presisi Formula Kesepakatan</strong>:<br>Semua rencana tindakan bebas dari istilah kabur, mencantumkan penanggung jawab tunggal (<em>Who</em>), tenggat waktu yang pas (<em>When</em>), dan definisi selesai yang objektif.</td>
-<td style="text-align: center;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Presisi Formula Kesepakatan</strong>: Semua rencana tindakan bebas dari istilah kabur, mencantumkan penanggung jawab tunggal (<em>Who</em>), tenggat waktu yang pas (<em>When</em>), dan definisi selesai yang objektif.</td>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: left;">Setiap tindakan memiliki penanggung jawab, tenggat tanggal dan waktu, prasyarat, kriteria selesai, serta metode pelaporan yang dapat diperiksa.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>3</strong></td>
-<td style="text-align: left;"><strong>Tanggung Jawab Pemeliharaan Komitmen</strong>:<br>Memiliki rencana titik pemeriksaan (<em>checkpoint</em>) konkret sebagai mitigasi risiko kegagalan, bukan sekadar menunggu hari H tenggat waktu.</td>
-<td style="text-align: center;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Tanggung Jawab Pemeliharaan Komitmen</strong>: Memiliki rencana titik pemeriksaan (<em>checkpoint</em>) konkret sebagai mitigasi risiko kegagalan, bukan sekadar menunggu hari H tenggat waktu.</td>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: left;">Checkpoint ditentukan sebelum tenggat setiap tindakan. Pemeriksaan digunakan untuk meninjau kemajuan, mengidentifikasi kendala, dan menyesuaikan prioritas sebelum tenggat.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>4</strong></td>
-<td style="text-align: left;"><strong>Keseimbangan Jalur Ganda</strong>:<br>Menunjukkan kepedulian yang tulus terhadap kenyamanan relasi, hak berpendapat, serta batas kemampuan etis tim (menyediakan ruang untuk berkata “tidak” tanpa intimidasi).</td>
-<td style="text-align: center;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Keseimbangan Jalur Ganda</strong>: Menunjukkan kepedulian yang tulus terhadap kenyamanan relasi, hak berpendapat, serta batas kemampuan etis tim (menyediakan ruang untuk berkata “tidak” tanpa intimidasi).</td>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: left;">Dokumen membedakan komitmen pribadi dari kesepakatan tim yang belum dikonfirmasi. Rencana kolaborasi menghormati kesediaan, kapasitas, pendapat, dan batas waktu pihak lain.</td>
 </tr>
 </tbody>
 </table>
+<p><strong>Total Skor: 12/12</strong></p>
+<p><strong>Refleksi Penilaian Mandiri:</strong> Dokumen ini telah dirancang dengan kepentingan yang jelas, tindakan terukur, checkpoint, dan perhatian terhadap kualitas relasi. Skor penuh merupakan penilaian mandiri atas kualitas rancangan dokumen, bukan bukti bahwa seluruh tindakan telah selesai atau jaminan nilai dari assessor. Setelah tindakan dilaksanakan, hasilnya perlu ditinjau kembali berdasarkan evidence aktual.</p>
 <hr>
-<p><em>“Bahasa mengantarkan kita pada jembatan pemahaman, tetapi kesepakatan yang berpusat pada tanggung jawab bersama adalah kendaraan yang membawa kita melintasi jembatan tersebut menuju kenyataan tindakan.”</em></p>
+<p><em>“Bahasa mengantarkan kita pada jembatan pemahaman, tetapi kesepakatan yang berpusat pada tanggung jawab bersama adalah kendaraan yang membawa kita melintasi jembatan tersebut menuju kenyataan tindakan.”</em> </p>
 
 
 </section>
